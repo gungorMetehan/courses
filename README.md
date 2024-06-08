@@ -1,104 +1,103 @@
 # courses
 
-|   **Code**   |                        **Course**                       | **Degree** |        **Semester**        |         **Lecturer**         |      **University**      |
-|:------------:|:-------------------------------------------------------:|:----------:|:--------------------------:|:----------------------------:|:------------------------:|
-| EGT101       | Introduction to Educational Sciences                    | B          | 2009-2010 Fall             | Dr. Yaşar Barut              | Ondokuz Mayıs University |
-| FIZ105       | Basic Physics I                                         | B          | 2009-2010 Fall             |                              | Ondokuz Mayıs University |
-| FIZ115       | Basic Physics I Lab.                                    | B          | 2009-2010 Fall             |                              | Ondokuz Mayıs University |
-| MAT101       | General Mathematics I                                   | B          | 2009-2010 Fall             | Dr. İlker Eryılmaz           | Ondokuz Mayıs University |
-| MAT103       | Linear Algebra I                                        | B          | 2009-2010 Fall             | Dr. Mustafa Bilici           | Ondokuz Mayıs University |
-| TDE101       | Turkish Language                                        | B          | 2009-2010 Fall             |                              | Ondokuz Mayıs University |
-| TIT101       | Principles of Atatürk and History of Revolution I       | B          | 2009-2010 Fall             |                              | Ondokuz Mayıs University |
-| EGT102       | Development Psychology                                  | B          | 2009-2010 Spring           |                              | Ondokuz Mayıs University |
-| FIZ106       | Basic Physics II                                        | B          | 2009-2010 Spring           |                              | Ondokuz Mayıs University |
-| FIZ116       | Basic Physics II Lab.                                   | B          | 2009-2010 Spring           |                              | Ondokuz Mayıs University |
-| MAT102       | General Mathematics II                                  | B          | 2009-2010 Spring           | Dr. İlker Eryılmaz           | Ondokuz Mayıs University |
-| MAT104       | Linear Algebra                                          | B          | 2009-2010 Spring           | Dr. Mustafa Bilici           | Ondokuz Mayıs University |
-| TDE102       | Turkish Language                                        | B          | 2009-2010 Spring           |                              | Ondokuz Mayıs University |
-| TIT102       | Principles of Atatürk and History of Revolution II      | B          | 2009-2010 Spring           |                              | Ondokuz Mayıs University |
-| YDI101       | English I                                               | B          | 2009-2010 Course Exemption | -                            | Ondokuz Mayıs University |
-| YDI102       | English II                                              | B          | 2009-2010 Course Exemption | -                            | Ondokuz Mayıs University |
-| EGT201       | Programme Development and Teaching                      | B          | 2010-2011 Fall             |                              | Ondokuz Mayıs University |
-| MAT201       | Abstract Mathematics I                                  | B          | 2010-2011 Fall             |                              | Ondokuz Mayıs University |
-| MAT203       | Advanced Analysis I                                     | B          | 2010-2011 Fall             |                              | Ondokuz Mayıs University |
-| MAT205       | Analytical Geometry I                                   | B          | 2010-2011 Fall             |                              | Ondokuz Mayıs University |
-| MAT207       | Differential Equations I                                | B          | 2010-2011 Fall             |                              | Ondokuz Mayıs University |
-| EGT202       | Turkish Education System and School Administration      | B          | 2010-2011 Spring           |                              | Ondokuz Mayıs University |
-| MAT202       | Abstract Mathematics II                                 | B          | 2010-2011 Spring           |                              | Ondokuz Mayıs University |
-| MAT204       | Advanced Analysis II                                    | B          | 2010-2011 Spring           |                              | Ondokuz Mayıs University |
-| MAT206       | Analytical Geometry II                                  | B          | 2010-2011 Spring           |                              | Ondokuz Mayıs University |
-| MAT208       | Differential Equations II                               | B          | 2010-2011 Spring           |                              | Ondokuz Mayıs University |
-| EGT305       | Assessment And Evaluation                               | B          | 2011-2012 Fall             | Dr. İsmail Karakaya          | Ondokuz Mayıs University |
-| ENF301       | Introduction to Computer Science I                      | B          | 2011-2012 Fall             |                              | Ondokuz Mayıs University |
-| MTO303       | General Topology I                                      | B          | 2011-2012 Fall             | Dr. Servet Kütükçü           | Ondokuz Mayıs University |
-| MTO305       | Differential Geometry I                                 | B          | 2011-2012 Fall             |                              | Ondokuz Mayıs University |
-| MTO307       | Partial Differential Equations I                        | B          | 2011-2012 Fall             |                              | Ondokuz Mayıs University |
-| EGT304       | Classroom Management                                    | B          | 2011-2012 Spring           |                              | Ondokuz Mayıs University |
-| MTO304       | General Topology II                                     | B          | 2011-2012 Spring           | Dr. Servet Kütükçü           | Ondokuz Mayıs University |
-| MTO306       | Differential Geometry II                                | B          | 2011-2012 Spring           |                              | Ondokuz Mayıs University |
-| MTO308       | Scientific Approach to Mathematics                      | B          | 2011-2012 Spring           |                              | Ondokuz Mayıs University |
-| MTO310       | History of Science                                      | B          | 2011-2012 Spring           | Dr. Mustafa Bilici           | Ondokuz Mayıs University |
-| ENF302       | Introduction to Computer Science II                     | B          | 2011-2012 Course Exemption | -                            | Ondokuz Mayıs University |
-| EGT405       | Theories of Learning and Teaching                       | B          | 2012-2013 Fall             |                              | Ondokuz Mayıs University |
-| MTO401       | Complex Functions Theory I                              | B          | 2012-2013 Fall             |                              | Ondokuz Mayıs University |
-| MTO403       | Probability and Statistics                              | B          | 2012-2013 Fall             |                              | Ondokuz Mayıs University |
-| MTO405       | Introduction to Algebra I                               | B          | 2012-2013 Fall             |                              | Ondokuz Mayıs University |
-| MTO407       | Special Education Methods I                             | B          | 2012-2013 Fall             |                              | Ondokuz Mayıs University |
-| EGT404       | Guidance                                                | B          | 2012-2013 Spring           |                              | Ondokuz Mayıs University |
-| MTO402       | Complex Functions Theory II                             | B          | 2012-2013 Spring           |                              | Ondokuz Mayıs University |
-| MTO404       | Applied Mathematics                                     | B          | 2012-2013 Spring           | Dr. Vedat Suat Ertürk        | Ondokuz Mayıs University |
-| MTO406       | Introduction to Algebra II                              | B          | 2012-2013 Spring           |                              | Ondokuz Mayıs University |
-| MTO408       | Special Education Methods II                            | B          | 2012-2013 Spring           |                              | Ondokuz Mayıs University |
-| MTO501       | Computer Programming                                    | B          | 2013-2014 Fall             | Dr. Servet Kütükçü           | Ondokuz Mayıs University |
-| MTO503       | Theory of Numbers                                       | B          | 2013-2014 Fall             |                              | Ondokuz Mayıs University |
-| MTO505       | School Experience                                       | B          | 2013-2014 Fall             | Dr. Rezan Yılmaz             | Ondokuz Mayıs University |
-| MTO507       | Instructional Technologies and Materials Design         | B          | 2013-2014 Fall             |                              | Ondokuz Mayıs University |
-| MTO509       | Public Service Practice                                 | B          | 2013-2014 Fall             | Dr. Rezan Yılmaz             | Ondokuz Mayıs University |
-| MTO511       | Matrix Theory                                           | B          | 2013-2014 Fall             |                              | Ondokuz Mayıs University |
-| MTO502       | Functional Analysis                                     | B          | 2014-2015 Spring           | Dr. Cenap Duyar              | Ondokuz Mayıs University |
-| MTO504       | Teaching Practice                                       | B          | 2014-2015 Spring           | Dr. Rezan Yılmaz             | Ondokuz Mayıs University |
-| MTO506       | Field Training Research Project                         | B          | 2014-2015 Spring           | Dr. Rezan Yılmaz             | Ondokuz Mayıs University |
-| MTO512       | Transformations and Geometry                            | B          | 2014-2015 Spring           |                              | Ondokuz Mayıs University |
-| MTO518       | Module Theory                                           | B          | 2014-2015 Spring           |                              | Ondokuz Mayıs University |
-| OLC605       | Techniques of   Measurement in Education                | M          | 2016-2017   Fall           | Dr. Hülya   Kelecioğlu       | Hacettepe University     |
-| OLC615       | Examinations   Used in Education and Psychology         | M          | 2016-2017   Fall           | Dr. Nuri   Doğan             | Hacettepe University     |
-| OLC635       | Measurement   Applications in Computer                  | M          | 2016-2017   Fall           | Dr.   Selahattin Gelbal      | Hacettepe University     |
-| OLC645       | Education   Statistics                                  | M          | 2016-2017   Fall           | Dr.   Selahattin Gelbal      | Hacettepe University     |
-| OLC610       | Measurement   and Evaluation Applications in Schools    | M          | 2016-2017   Spring         | Dr. Derya   Çobanoğlu Aktan  | Hacettepe University     |
-| OLC625       | Measurement   of Cognitive Features                     | M          | 2016-2017   Spring         | Dr. Duygu   Anıl             | Hacettepe University     |
-| OLC630       | Data Analyses   Methods in Educational Research         | M          | 2016-2017   Spring         | Dr.   Selahattin Gelbal      | Hacettepe University     |
-| OLC640       | Scientific   Research Methods and Publishing Ethics     | M          | 2016-2017   Spring         | Dr. Hülya   Kelecioğlu       | Hacettepe University     |
-| OLC680       | Measurement   and Evaluation Seminar                    | M          | 2016-2017   Spring         | Dr. Hülya   Kelecioğlu       | Hacettepe University     |
-| OLC600       | Special   Subjects                                      | M          | 2017-2018   Fall           | Dr. Kübra   Atalay Kabasakal | Hacettepe University     |
-| OLC600       | Special   Subjects                                      | M          | 2017-2018   Spring         | Dr. Kübra   Atalay Kabasakal | Hacettepe University     |
-| OLC600       | Special   Subjects                                      | M          | 2018-2019   Fall           | Dr. Kübra   Atalay Kabasakal | Hacettepe University     |
-| OLC600       | Special   Subjects                                      | M          | 2018-2019   Spring         | Dr. Kübra   Atalay Kabasakal | Hacettepe University     |
-| OLC705       | Current   Issues in Measurement and Evaluation          | D          | 2019-2020   Fall           | Dr. Derya   Çobanoğlu Aktan  | Hacettepe University     |
-| OLC720       | Classical   Test Theory                                 | D          | 2019-2020   Fall           | Dr. Nuri   Doğan             | Hacettepe University     |
-| 600306802091 | Development   and Adaptation of Psychological Tests     | D          | 2020-2021   Spring         | Dr. K.   Zülfikar Deniz      | Ankara University        |
-| 600306802101 | Measurement   Applications with R Programming Language  | D          | 2020-2021   Spring         | Dr. C. Deha   Doğan          | Ankara University        |
-| 600306802150 | Advanced   Research Methods in Behavioral Sciences      | D          | 2020-2021   Spring         | Dr. Ömay   Çokluk Bökeoğlu   | Ankara University        |
-| 600306802160 | Advance   Statistics in Behavioral Sciences             | D          | 2020-2021   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| 600306802051 | Advanced   Research and Statistics Applications         | D          | 2021-2022   Fall           | Dr. Ergül   Demir            | Ankara University        |
-| 600306802061 | Item Response   Theory                                  | D          | 2021-2022   Fall           | Dr. Ergül   Demir            | Ankara University        |
-| 600306802071 | Qualitative   Research and Data Analysis                | D          | 2021-2022   Fall           | Dr. Ezel   Tavşancıl         | Ankara University        |
-| 600306806041 | Graduate   Specialization Course                        | D          | 2021-2022   Fall           | Dr. K.   Zülfikar Deniz      | Ankara University        |
-| 600306802121 | Item   Structures in Test and Scale Development Process | D          | 2021-2022   Spring         | Dr. Ömer   Kutlu             | Ankara University        |
-| 600306802171 | Psychometry   Applications in Large-Scale Tests         | D          | 2021-2022   Spring         | Dr. Seher   Yalçın           | Ankara University        |
-| 600306806021 | Graduate   Specialization Course                        | D          | 2021-2022   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Seminar                                                 | D          | 2021-2022   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| OLC740       | Advanced Statistics Applications                        | D          | 2022-2023 Fall             | Dr. Burcu Atar               | Hacettepe University     |
-| 600306807021 | Graduate   Specialization Course                        | D          | 2022-2023   Fall           | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Preparation   Work to Proficiency                       | D          | 2022-2023   Fall           | Dr. Ergül   Demir            | Ankara University        |
-| 600306802111 | Test and Item   Bias                                    | D          | 2022-2023   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Graduate   Specialization Course                        | D          | 2022-2023   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Study of   Thesis                                       | D          | 2022-2023   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Graduate   Specialization Course                        | D          | 2023-2024   Fall           | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Study of   Thesis                                       | D          | 2023-2024   Fall           | Dr. Ergül   Demir            | Ankara University        |
-| 600306802151 | Introduction   to Machine Learning in Education         | D          | 2023-2024   Spring         | Dr. C. Deha   Doğan          | Ankara University        |
-| 600306807021 | Study of   Thesis                                       | D          | 2023-2024   Spring         | Dr. Ergül   Demir            | Ankara University        |
-| 600306807021 | Graduate   Specialization Course                        | D          | 2023-2024   Spring         | Dr. Ergül   Demir            | Ankara University        |
-
+| **Code** | **Course** | **Degree** | **Semester** | **Lecturer** | **University** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| EGT101 | Introduction to Educational Sciences | B | 2009-2010 Fall | Dr. Yaşar Barut | Ondokuz Mayıs |
+| FIZ105 | Basic Physics I | B | 2009-2010 Fall |  | Ondokuz Mayıs |
+| FIZ115 | Basic Physics I Lab. | B | 2009-2010 Fall |  | Ondokuz Mayıs |
+| MAT101 | General Mathematics I | B | 2009-2010 Fall | Dr. İlker Eryılmaz | Ondokuz Mayıs |
+| MAT103 | Linear Algebra I | B | 2009-2010 Fall | Dr. Mustafa Bilici | Ondokuz Mayıs |
+| TDE101 | Turkish Language | B | 2009-2010 Fall |  | Ondokuz Mayıs |
+| TIT101 | Principles of Atatürk and History of Revolution I | B | 2009-2010 Fall |  | Ondokuz Mayıs |
+| EGT102 | Development Psychology | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| FIZ106 | Basic Physics II | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| FIZ116 | Basic Physics II Lab. | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| MAT102 | General Mathematics II | B | 2009-2010 Spring | Dr. İlker Eryılmaz | Ondokuz Mayıs |
+| MAT104 | Linear Algebra | B | 2009-2010 Spring | Dr. Mustafa Bilici | Ondokuz Mayıs |
+| TDE102 | Turkish Language | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| TIT102 | Principles of Atatürk and History of Revolution II | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| YDI101 | English I | B | 2009-2010 Course Exemption | - | Ondokuz Mayıs |
+| YDI102 | English II | B | 2009-2010 Course Exemption | - | Ondokuz Mayıs |
+| EGT201 | Programme Development and Teaching | B | 2010-2011 Fall |  | Ondokuz Mayıs |
+| MAT201 | Abstract Mathematics I | B | 2010-2011 Fall |  | Ondokuz Mayıs |
+| MAT203 | Advanced Analysis I | B | 2010-2011 Fall |  | Ondokuz Mayıs |
+| MAT205 | Analytical Geometry I | B | 2010-2011 Fall |  | Ondokuz Mayıs |
+| MAT207 | Differential Equations I | B | 2010-2011 Fall |  | Ondokuz Mayıs |
+| EGT202 | Turkish Education System and School Administration | B | 2010-2011 Spring |  | Ondokuz Mayıs |
+| MAT202 | Abstract Mathematics II | B | 2010-2011 Spring |  | Ondokuz Mayıs |
+| MAT204 | Advanced Analysis II | B | 2010-2011 Spring |  | Ondokuz Mayıs |
+| MAT206 | Analytical Geometry II | B | 2010-2011 Spring |  | Ondokuz Mayıs |
+| MAT208 | Differential Equations II | B | 2010-2011 Spring |  | Ondokuz Mayıs |
+| EGT305 | Assessment And Evaluation | B | 2011-2012 Fall | Dr. İsmail Karakaya | Ondokuz Mayıs |
+| ENF301 | Introduction to Computer Science I | B | 2011-2012 Fall |  | Ondokuz Mayıs |
+| MTO303 | General Topology I | B | 2011-2012 Fall | Dr. Servet Kütükçü | Ondokuz Mayıs |
+| MTO305 | Differential Geometry I | B | 2011-2012 Fall |  | Ondokuz Mayıs |
+| MTO307 | Partial Differential Equations I | B | 2011-2012 Fall |  | Ondokuz Mayıs |
+| EGT304 | Classroom Management | B | 2011-2012 Spring |  | Ondokuz Mayıs |
+| MTO304 | General Topology II | B | 2011-2012 Spring | Dr. Servet Kütükçü | Ondokuz Mayıs |
+| MTO306 | Differential Geometry II | B | 2011-2012 Spring |  | Ondokuz Mayıs |
+| MTO308 | Scientific Approach to Mathematics | B | 2011-2012 Spring |  | Ondokuz Mayıs |
+| MTO310 | History of Science | B | 2011-2012 Spring | Dr. Mustafa Bilici | Ondokuz Mayıs |
+| ENF302 | Introduction to Computer Science II | B | 2011-2012 Course Exemption | - | Ondokuz Mayıs |
+| EGT405 | Theories of Learning and Teaching | B | 2012-2013 Fall |  | Ondokuz Mayıs |
+| MTO401 | Complex Functions Theory I | B | 2012-2013 Fall |  | Ondokuz Mayıs |
+| MTO403 | Probability and Statistics | B | 2012-2013 Fall |  | Ondokuz Mayıs |
+| MTO405 | Introduction to Algebra I | B | 2012-2013 Fall |  | Ondokuz Mayıs |
+| MTO407 | Special Education Methods I | B | 2012-2013 Fall |  | Ondokuz Mayıs |
+| EGT404 | Guidance | B | 2012-2013 Spring |  | Ondokuz Mayıs |
+| MTO402 | Complex Functions Theory II | B | 2012-2013 Spring |  | Ondokuz Mayıs |
+| MTO404 | Applied Mathematics | B | 2012-2013 Spring | Dr. Vedat Suat Ertürk | Ondokuz Mayıs |
+| MTO406 | Introduction to Algebra II | B | 2012-2013 Spring |  | Ondokuz Mayıs |
+| MTO408 | Special Education Methods II | B | 2012-2013 Spring |  | Ondokuz Mayıs |
+| MTO501 | Computer Programming | B | 2013-2014 Fall | Dr. Servet Kütükçü | Ondokuz Mayıs |
+| MTO503 | Theory of Numbers | B | 2013-2014 Fall |  | Ondokuz Mayıs |
+| MTO505 | School Experience | B | 2013-2014 Fall | Dr. Rezan Yılmaz | Ondokuz Mayıs |
+| MTO507 | Instructional Technologies and Materials Design | B | 2013-2014 Fall |  | Ondokuz Mayıs |
+| MTO509 | Public Service Practice | B | 2013-2014 Fall | Dr. Rezan Yılmaz | Ondokuz Mayıs |
+| MTO511 | Matrix Theory | B | 2013-2014 Fall |  | Ondokuz Mayıs |
+| MTO502 | Functional Analysis | B | 2014-2015 Spring | Dr. Cenap Duyar | Ondokuz Mayıs |
+| MTO504 | Teaching Practice | B | 2014-2015 Spring | Dr. Rezan Yılmaz | Ondokuz Mayıs |
+| MTO506 | Field Training Research Project | B | 2014-2015 Spring | Dr. Rezan Yılmaz | Ondokuz Mayıs |
+| MTO512 | Transformations and Geometry | B | 2014-2015 Spring |  | Ondokuz Mayıs |
+| MTO518 | Module Theory | B | 2014-2015 Spring |  | Ondokuz Mayıs |
+| OLC605 | Techniques of Measurement in Education | M | 2016-2017 Fall | Dr. Hülya Kelecioğlu | Hacettepe |
+| OLC615 | Examinations Used in Education and Psychology | M | 2016-2017 Fall | Dr. Nuri Doğan | Hacettepe |
+| OLC635 | Measurement Applications in Computer | M | 2016-2017 Fall | Dr. Selahattin Gelbal | Hacettepe |
+| OLC645 | Education Statistics | M | 2016-2017 Fall | Dr. Selahattin Gelbal | Hacettepe |
+| OLC610 | Measurement and Evaluation Applications in Schools | M | 2016-2017 Spring | Dr. Derya Çobanoğlu Aktan | Hacettepe |
+| OLC625 | Measurement of Cognitive Features | M | 2016-2017 Spring | Dr. Duygu Anıl | Hacettepe |
+| OLC630 | Data Analyses Methods in Educational Research | M | 2016-2017 Spring | Dr. Selahattin Gelbal | Hacettepe |
+| OLC640 | Scientific Research Methods and Publishing Ethics | M | 2016-2017 Spring | Dr. Hülya Kelecioğlu | Hacettepe |
+| OLC680 | Measurement and Evaluation Seminar | M | 2016-2017 Spring | Dr. Hülya Kelecioğlu | Hacettepe |
+| OLC600 | Special Subjects | M | 2017-2018 Fall | Dr. Kübra Atalay Kabasakal | Hacettepe |
+| OLC600 | Special Subjects | M | 2017-2018 Spring | Dr. Kübra Atalay Kabasakal | Hacettepe |
+| OLC600 | Special Subjects | M | 2018-2019 Fall | Dr. Kübra Atalay Kabasakal | Hacettepe |
+| OLC600 | Special Subjects | M | 2018-2019 Spring | Dr. Kübra Atalay Kabasakal | Hacettepe |
+| OLC705 | Current Issues in Measurement and Evaluation | D | 2019-2020 Fall | Dr. Derya Çobanoğlu Aktan | Hacettepe |
+| OLC720 | Classical Test Theory | D | 2019-2020 Fall | Dr. Nuri Doğan | Hacettepe |
+| 600306802091 | Development and Adaptation of Psychological Tests | D | 2020-2021 Spring | Dr. K. Zülfikar Deniz | Ankara |
+| 600306802101 | Measurement Applications with R Programming Language | D | 2020-2021 Spring | Dr. C. Deha Doğan | Ankara |
+| 600306802150 | Advanced Research Methods in Behavioral Sciences | D | 2020-2021 Spring | Dr. Ömay Çokluk Bökeoğlu | Ankara |
+| 600306802160 | Advance Statistics in Behavioral Sciences | D | 2020-2021 Spring | Dr. Ergül Demir | Ankara |
+| 600306802051 | Advanced Research and Statistics Applications | D | 2021-2022 Fall | Dr. Ergül Demir | Ankara |
+| 600306802061 | Item Response Theory | D | 2021-2022 Fall | Dr. Ergül Demir | Ankara |
+| 600306802071 | Qualitative Research and Data Analysis | D | 2021-2022 Fall | Dr. Ezel Tavşancıl | Ankara |
+| 600306806041 | Graduate Specialization Course | D | 2021-2022 Fall | Dr. K. Zülfikar Deniz | Ankara |
+| 600306802121 | Item Structures in Test and Scale Development Process | D | 2021-2022 Spring | Dr. Ömer Kutlu | Ankara |
+| 600306802171 | Psychometry Applications in Large-Scale Tests | D | 2021-2022 Spring | Dr. Seher Yalçın | Ankara |
+| 600306806021 | Graduate Specialization Course | D | 2021-2022 Spring | Dr. Ergül Demir | Ankara |
+| 600306807021 | Seminar | D | 2021-2022 Spring | Dr. Ergül Demir | Ankara |
+| OLC740 | Advanced Statistics Applications | D | 2022-2023 Fall | Dr. Burcu Atar | Hacettepe |
+| 600306807021 | Graduate Specialization Course | D | 2022-2023 Fall | Dr. Ergül Demir | Ankara |
+| 600306807021 | Preparation Work to Proficiency | D | 2022-2023 Fall | Dr. Ergül Demir | Ankara |
+| 600306802111 | Test and Item Bias | D | 2022-2023 Spring | Dr. Ergül Demir | Ankara |
+| 600306807021 | Graduate Specialization Course | D | 2022-2023 Spring | Dr. Ergül Demir | Ankara |
+| 600306807021 | Study of Thesis | D | 2022-2023 Spring | Dr. Ergül Demir | Ankara |
+| 600306807021 | Graduate Specialization Course | D | 2023-2024 Fall | Dr. Ergül Demir | Ankara |
+| 600306807021 | Study of Thesis | D | 2023-2024 Fall | Dr. Ergül Demir | Ankara |
+| 600306802151 | Introduction to Machine Learning in Education | D | 2023-2024 Spring | Dr. C. Deha Doğan | Ankara |
+| 600306807021 | Study of Thesis | D | 2023-2024 Spring | Dr. Ergül Demir | Ankara |
+| 600306807021 | Graduate Specialization Course | D | 2023-2024 Spring | Dr. Ergül Demir | Ankara |
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
