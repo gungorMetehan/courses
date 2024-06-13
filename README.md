@@ -120,6 +120,8 @@
 | 2021     | Social Network Analysis Using R                            | Linkedin Learning                   |
 | 2021     | Data Science: R Basics                                     | Harvard University (HarvardX)       |
 | 2021     | Teaching Problem Solving in Math for Elementary Learners   | edWeb                               |
+| 2021     | Teamwork                                                   | Turkish Aerospace Academy           |
+| 2021     | Effective Communication Techniques                         | Turkish Aerospace Academy           |
 | 2020     | Remote Teaching Online                                     | Udemy                               |
 | 2020     | Recalculating Secondary-Level Math                         | edWeb                               |
 | 2020     | Assessment for Learning                                    | University of Illinois U-C          |
