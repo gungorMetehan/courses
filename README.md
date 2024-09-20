@@ -101,6 +101,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
+| 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
 | 2024     | Product Management 101                                     | Udemy                               |
 | 2024     | Introduction to Data Literacy                              | Udemy                               |
 | 2023     | Building Dashboards with R Shiny                           | Yaşam Boyu Psikoloji                |
@@ -108,6 +109,7 @@
 | 2022     | Conducting an Effective Hiring Interview                   | Skillsoft                           |
 | 2022     | Sectoral Developments and Big Data                         | BAUGO                               |
 | 2022     | Analyses of Mediator and Moderator Variables               | EPODDER                             |
+| 2022     | Agile Methods and Scrum Framework                          | Turkish Aerospace Academy           |
 | 2022     | Prof. Dr. Weiss - New Applications of IRT-Based CAT        | EPODDER                             |
 | 2022     | Data Analysis with R                                       | IDUSEM                              |
 | 2022     | Computerized Adaptive Testing: Theory & Practice           | TÜBİTAK & Boğaziçi University       |
