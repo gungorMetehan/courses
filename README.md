@@ -101,6 +101,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
+| 2024     | Leading Change and Change Management                       | Enocta & Şapka Danışmanlık          |
 | 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
 | 2024     | Product Management 101                                     | Udemy                               |
 | 2024     | Introduction to Data Literacy                              | Udemy                               |
