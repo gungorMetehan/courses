@@ -98,6 +98,9 @@
 | 600306802151 | Introduction to Machine Learning in Education | D | 2023-2024 Spring | Dr. C. Deha Doğan | Ankara |
 | 600306807021 | Study of Thesis | D | 2023-2024 Spring | Dr. Ergül Demir | Ankara |
 | 600306807021 | Graduate Specialization Course | D | 2023-2024 Spring | Dr. Ergül Demir | Ankara |
+| 600306807021 | Study of Thesis | D | 2024-2025 Fall | Dr. Ergül Demir | Ankara |
+| 600306807021 | Graduate Specialization Course | D | 2024-2025 Fall | Dr. Ergül Demir | Ankara |
+
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
