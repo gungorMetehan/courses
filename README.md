@@ -104,7 +104,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
-| 2024     | Data Preprocessing                                         | Turkcell                            |
+| 2024     | Data Preprocessing 101                                     | Turkcell                            |
 | 2024     | Data Literacy 101                                          | Turkcell                            |
 | 2024     | Leading Change and Change Management                       | Enocta & Şapka Danışmanlık          |
 | 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
