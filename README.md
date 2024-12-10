@@ -104,6 +104,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
+| 2024     | Introduction to Data Science & AI 101                      | Turkcell                            |
 | 2024     | Data Preprocessing 101                                     | Turkcell                            |
 | 2024     | Data Literacy 101                                          | Turkcell                            |
 | 2024     | Leading Change and Change Management                       | Enocta & Şapka Danışmanlık          |
