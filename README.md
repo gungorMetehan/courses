@@ -115,6 +115,7 @@
 | 2023     | Building Dashboards with R Shiny                           | Yaşam Boyu Psikoloji                |
 | 2023     | Internal Trainer Development                               | Turkish Aerospace Academy           |
 | 2023     | Effective Presentation Techniques                          | Turkish Aerospace Academy           |
+| 2023     | Human Analytics and Business Intelligence Training         | TEGEP                               |
 | 2022     | Applied Psychometry with R Shiny                           | Yaşam Boyu Psikoloji                |
 | 2022     | Conducting an Effective Hiring Interview                   | Skillsoft                           |
 | 2022     | Sectoral Developments and Big Data                         | BAUGO                               |
