@@ -9,7 +9,7 @@
 | MAT103 | Linear Algebra I | B | 2009-2010 Fall | Dr. Mustafa Bilici | Ondokuz Mayıs |
 | TDE101 | Turkish Language | B | 2009-2010 Fall |  | Ondokuz Mayıs |
 | TIT101 | Principles of Atatürk and History of Revolution I | B | 2009-2010 Fall |  | Ondokuz Mayıs |
-| EGT102 | Development Psychology | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| EGT102 | Developmental Psychology | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | FIZ106 | Basic Physics II | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | FIZ116 | Basic Physics II Lab. | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | MAT102 | General Mathematics II | B | 2009-2010 Spring | Dr. İlker Eryılmaz | Ondokuz Mayıs |
