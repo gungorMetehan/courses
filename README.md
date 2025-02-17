@@ -104,11 +104,13 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
+| 2025     | Mastering Data Visualization: Theory and Foundations       | The Data Ink Lab (Udemy)            |
 | 2025     | Mastering Data Visualization with R                        | Quality Gurus (Udemy)               |
 | 2024     | Leadership Base Supervisor Development Program             | Turkish Aerospace Academy           |
 | 2024     | Introduction to Data Science & AI 101                      | Turkcell                            |
 | 2024     | Data Preprocessing 101                                     | Turkcell                            |
 | 2024     | Data Literacy 101                                          | Turkcell                            |
+| 2024     | the Expert: Internal Trainer Development Program           | Turkish Aerospace Academy           |
 | 2024     | Leading Change and Change Management                       | Enocta & Şapka Danışmanlık          |
 | 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
 | 2024     | Product Management 101                                     | Udemy                               |
