@@ -104,6 +104,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|:----------------------------------------------------------:|:-----------------------------------:|
+| 2025     | Data Analytics & Data Science for Executives               | DMSA Training (Udemy)               |
 | 2025     | Mastering Data Visualization: Theory and Foundations       | The Data Ink Lab (Udemy)            |
 | 2025     | Mastering Data Visualization with R                        | Quality Gurus (Udemy)               |
 | 2024     | Leadership Base Supervisor Development Program             | Turkish Aerospace Academy           |
