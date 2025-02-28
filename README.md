@@ -112,7 +112,7 @@
 | 2024     | Data Preprocessing 101                                     | Turkcell                            |
 | 2024     | Data Literacy 101                                          | Turkcell                            |
 | 2024     | the Expert: Internal Trainer Development Program           | Turkish Aerospace Academy           |
-| 2024     | Leading Change and Change Management                       | Enocta & Şapka Danışmanlık          |
+| 2024     | Leading Change and Change Management                       | Şapka Danışmanlık & Enocta          |
 | 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
 | 2024     | Product Management 101                                     | Udemy                               |
 | 2024     | Introduction to Data Literacy                              | Udemy                               |
@@ -122,7 +122,7 @@
 | 2023     | Human Analytics and Business Intelligence Training         | TEGEP                               |
 | 2022     | Applied Psychometry with R Shiny                           | Yaşam Boyu Psikoloji                |
 | 2022     | Conducting an Effective Hiring Interview                   | Skillsoft                           |
-| 2022     | Sectoral Developments and Big Data                         | BAUGO                               |
+| 2022     | Sectoral Developments and Big Data                         | BAUGO & Enocta                      |
 | 2022     | Analyses of Mediator and Moderator Variables               | EPODDER                             |
 | 2022     | Agile Methods and Scrum Framework                          | Turkish Aerospace Academy           |
 | 2022     | Prof. Dr. Weiss - New Applications of IRT-Based CAT        | EPODDER                             |
