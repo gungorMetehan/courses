@@ -1,7 +1,7 @@
 # courses
 
 | **Code** | **Course** | **Degree** | **Semester** | **Lecturer** | **University** |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|-----|:---:|:---:|-----|-----|
 | EGT101 | Introduction to Educational Sciences | B | 2009-2010 Fall | Dr. Yaşar Barut | Ondokuz Mayıs |
 | FIZ105 | Basic Physics I | B | 2009-2010 Fall |  | Ondokuz Mayıs |
 | FIZ115 | Basic Physics I Lab. | B | 2009-2010 Fall |  | Ondokuz Mayıs |
@@ -103,7 +103,7 @@
 
 
 | **Year** |                         **Course**                         |           **Organization**          |
-|:--------:|:----------------------------------------------------------:|:-----------------------------------:|
+|:--------:|------------------------------------------------------------|-------------------------------------|
 | 2025     | Training & Development Analytics                           | BNCInsight                          |
 | 2025     | Data Analytics & Data Science for Executives               | DMSA Training (Udemy)               |
 | 2025     | Mastering Data Visualization: Theory and Foundations       | The Data Ink Lab (Udemy)            |
