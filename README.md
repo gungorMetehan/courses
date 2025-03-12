@@ -1,5 +1,7 @@
 # courses
 
+${\color{lightgreen}University \space Courses}$
+
 | **Code** | **Course** | **Degree** | **Semester** | **Lecturer** | **University** |
 |:---:|-----|:---:|:---:|-----|-----|
 | EGT101 | Introduction to Educational Sciences | B | 2009-2010 Fall | Dr. Yaşar Barut | Ondokuz Mayıs |
@@ -101,6 +103,7 @@
 | 600306807021 | Study of Thesis | D | 2024-2025 Fall | Dr. Ergül Demir | Ankara |
 | 600306807021 | Graduate Specialization Course | D | 2024-2025 Fall | Dr. Ergül Demir | Ankara |
 
+${\color{lightgreen}Courses \space and \space Certificates}$
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
