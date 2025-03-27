@@ -107,7 +107,7 @@ ${\color{lightgreen}Courses \space and \space Certificates}$
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
-| 2025     | Data Analysis                                              | The Defence Industry Academy        |
+| 2025     | Data Analysis                                              | The Defense Industry Academy        |
 | 2025     | Training & Development Analytics                           | BNCInsight                          |
 | 2025     | Data Analytics & Data Science for Executives               | DMSA Training (Udemy)               |
 | 2025     | Mastering Data Visualization: Theory and Foundations       | The Data Ink Lab (Udemy)            |
