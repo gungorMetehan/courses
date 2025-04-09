@@ -107,6 +107,7 @@ ${\color{lightgreen}Courses \space and \space Certificates}$
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Workforce Analytics for HR                                 | Human Capital Management Institute  |
 | 2025     | Data Analysis                                              | The Defense Industry Academy        |
 | 2025     | Basic Python Programming                                   | upGrad                              |
 | 2025     | Training & Development Analytics                           | BNCInsight                          |
