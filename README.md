@@ -1,6 +1,6 @@
 # courses
 
-${\color{lightgreen}University \space Courses}$
+## University Courses
 
 | **Code** | **Course** | **Degree** | **Semester** | **Lecturer** | **University** |
 |:---:|-----|:---:|:---:|-----|-----|
@@ -103,7 +103,7 @@ ${\color{lightgreen}University \space Courses}$
 | 600306807021 | Study of Thesis | D | 2024-2025 Fall | Dr. Ergül Demir | Ankara |
 | 600306807021 | Graduate Specialization Course | D | 2024-2025 Fall | Dr. Ergül Demir | Ankara |
 
-${\color{lightgreen}Courses \space and \space Certificates}$
+## Courses and Certificates
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
