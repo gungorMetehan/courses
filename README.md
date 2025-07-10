@@ -107,6 +107,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Presenting Data                                            | HP LIFE                             |
 | 2025     | Data Science & Analytics                                   | HP LIFE                             |
 | 2025     | Programming Tools: Git & Github                            | Kampüs 365 & Enocta                 |
 | 2025     | Workforce Analytics for HR                                 | Human Capital Management Institute  |
