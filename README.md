@@ -9,14 +9,14 @@
 | FIZ115 | Basic Physics I Lab. | B | 2009-2010 Fall |  | Ondokuz Mayıs |
 | MAT101 | General Mathematics I | B | 2009-2010 Fall | Dr. İlker Eryılmaz | Ondokuz Mayıs |
 | MAT103 | Linear Algebra I | B | 2009-2010 Fall | Dr. Mustafa Bilici | Ondokuz Mayıs |
-| TDE101 | Turkish Language | B | 2009-2010 Fall |  | Ondokuz Mayıs |
+| TDE101 | Turkish Language I | B | 2009-2010 Fall |  | Ondokuz Mayıs |
 | TIT101 | Principles of Atatürk and History of Revolution I | B | 2009-2010 Fall |  | Ondokuz Mayıs |
 | EGT102 | Developmental Psychology | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | FIZ106 | Basic Physics II | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | FIZ116 | Basic Physics II Lab. | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | MAT102 | General Mathematics II | B | 2009-2010 Spring | Dr. İlker Eryılmaz | Ondokuz Mayıs |
-| MAT104 | Linear Algebra | B | 2009-2010 Spring | Dr. Mustafa Bilici | Ondokuz Mayıs |
-| TDE102 | Turkish Language | B | 2009-2010 Spring |  | Ondokuz Mayıs |
+| MAT104 | Linear Algebra II | B | 2009-2010 Spring | Dr. Mustafa Bilici | Ondokuz Mayıs |
+| TDE102 | Turkish Language II | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | TIT102 | Principles of Atatürk and History of Revolution II | B | 2009-2010 Spring |  | Ondokuz Mayıs |
 | YDI101 | English I | B | 2009-2010 Course Exemption | - | Ondokuz Mayıs |
 | YDI102 | English II | B | 2009-2010 Course Exemption | - | Ondokuz Mayıs |
