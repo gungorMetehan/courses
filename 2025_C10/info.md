@@ -1,43 +1,80 @@
 # İçerik
-0. Git & GitHub - Giriş [Video, 1 dk]
-1. Modül 1: Git
-   - Git Nedir? [8 dk]
-   - Commit Mantığı ve Yazılımcı Git Mantığı [Video, 7 dk]
-   - Diff [Video, 3 dk]
-   - Undo ile Geriye Alma [Video, 4 dk]
-   - Branch ve Merge [Video, 6 dk]
-2. Modül 2: Git Basics
-   - Çalışma Yapısı ve Komutlar [Video, 8 dk]
-   - Commit [Video, 11 dk]
-   - Git History [Video, 8 dk]
-   - Discard Changes ve Commit Amend [Video, 5 dk]
-   - Diff - 2 [Video, 8 dk]
-   - Branch & Merge [Video, 11 dk]
-3. Modül 3: GitHub
-   - Remote (Uzak) Repository [Video, 9 dk]
-   - GitHub Platformu ve Hesabı [Video, 2 dk]
-   - Repository [Video, 7 dk]
-   - Fork (Repo Kopyalama) [Video, 5 dk]
-   - Commit - 2 [Video, 9 dk]
-   - Branch [Video, 5 dk]
-   - Repository Settings (Ayarları) [Video, 7 dk]
-   - Issues (Görevler) [Video, 12 dk]
-   - Projects (Projeler) [Video, 7 dk]
-   - GitHub Wiki (Rehber) ve Insights (Raporlar) [Video, 4 dk]
-4. Modül 4: Github ile Çalışmak
-   - Repository Klonlamak [Video, 8 dk]
-   - Commit, Push ve Pull [Video, 9 dk]
-   - Branch Push [Video, 8 dk]
-   - Pull Request [Video, 5 dk]
-0. Git & GitHub - Çıkış [Video, 1 dk]
-
+1. Story
+   - A Brief History of Digital Data [Video, 1:33]
+2. Business Concept
+   - No Title [Video, 0:51]
+   - I. Data-First Innovations: Propelling Industries Into the Future [Text]
+     * Digital
+     * Traditional
+     * Omni-Channel
+   - II. Unleashing the Power of Data: Unveiling Digital Superpowers [Text]
+     * Personalization
+     * Predictive Analytics
+     * Real-Time Insights
+     * Automation
+     * Collaborative Decision-Making
+     * Fraud Detection
+   - III. Navigating the Data Landscape: Impact on Individuals and Businesses [Text]
+     * Data Overload
+     * Data Privacy and Security
+     * Data Quality
+     * Infrastructre and Storage
+     * Data Governance and Compliance
+     * Skills and Talent
+   - Business Concept Activity [Quiz] 
+3. Technology Skill
+   - No Title [Video, 1:15]
+   - I. Decoding the Digital Era: A Glossary of Essential Terms
+     * Artificial Intelligence (AI)
+     * Machine Learning (ML)
+     * Deep Learning (DL)
+     * Data Analysis
+     * Data Reporting
+     * Data Science
+     * Data Automation
+   - II. Unlocking Your Data Potential: Essential Skills for Data Science Careers
+     * A. Digital Fluency: Cultivating Skills for Today and Tomorrow
+       - Software Engineering
+       - Math
+       - Communication
+       - Business Understanding
+       - Creativity
+     * B. Cracking the Code: Key Skills for Data Scientists and Analysts
+       - Programming
+       - Data wrangling and database management
+       - Machine learning and deep learning
+       - Cloud computing
+       - Data visualization
+   - III. Navigating New Horizons: Emerging Careers in the Digital Era
+     * Data and Analytics Roles
+     * Must-Have Roles
+     * Business Roles
+     * Emerging Roles
+     * No Title [Video, 0:37]
+   - IV. The Future Rewritten: AI, Machine Learning, and a Shifting Paradigm
+     * Case Study
+   - V. Conscious Computing: Harnessing Data and AI for Good
+     * The Need for Responsible AI
+     * Fostering Fairness and Inclusiveness
+     * Prioritizing Reliability and Safety
+     * Safeguarding Privacy and Security
+     * Pursuing Transparency and Accountability
+   - VI. The Human Touch: Transforming Experiences for a More Connected World
+     * Gaming
+     * Automated Transportation
+     * Banking
+     * Personalized Digital Media
+     * Home Security
+     * Streamlined Logistics
+   - VII. Safeguarding the Future: Addressing Cybersecurity Risks in AI
+     * Cybersecurity
+     * How can organizations protect themselves?
+   - Data Science and Analytics Summary
 
 # Bilgi
-**Eğitim Dili:** Türkçe
+**Eğitim Dili:** İngilizce
 
-**Eğitmen:** Murat Başeren
-
-**Organizasyon:** Enocta & Kampüs365
+**Organizasyon:** HP
 
 # Notlar
-Eğitim çevrim içi idi. Sadece videolardan oluşuyordu. Eğitmen Git ve GitHub ile ilgili hemen hemen tüm temel özelliklere değindi. Eğitimi TUSAŞ Akademi'nin sunduğu Enocta sistemi (LMS) üzerinden aldım.
+Eğitim genel olarak video anlatımlar ve okuma metinleri üzerinden kurgulanmış. Tasarım pek çok animasyon ve etkileşimli içerik içeriyordu. Temel konulara değinilen, giriş seviyesinde bir eğitimdi.
