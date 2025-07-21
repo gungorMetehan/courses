@@ -25,7 +25,7 @@
 | 2024     | Leading Change and Change Management                       | Şapka Danışmanlık & Enocta          |
 | 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
 | 2024     | Product Management 101                                     | Udemy                               |
-| 2024     | Introduction to Data Literacy                              | Udemy                               |
+| 2024     | Introduction to Data Literacy                              | Sullivan Learning Group (Udemy)     |
 | 2023     | Building Dashboards with R Shiny                           | Yaşam Boyu Psikoloji                |
 | 2023     | Internal Trainer Development                               | Turkish Aerospace Academy           |
 | 2023     | Effective Presentation Techniques                          | Turkish Aerospace Academy           |
