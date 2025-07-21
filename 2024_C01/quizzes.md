@@ -8,6 +8,7 @@ What are some reasons for the increasing need to understand how to collect and a
   + c) To inspire creative development in visual arts as applied to advertising.
   + d) In ability of organizations to analyze data.
 
+
 **QUIZ 2**
 
 **Question 1:**
@@ -25,6 +26,7 @@ Products in a company's inventory are considered perishable or non-perishable. W
   + b) Discrete
   + c) Continuous
   + d) Interval
+
 
 **QUIZ 3**
 
@@ -60,6 +62,7 @@ If you have a normal distribution, how many data points would you expect to find
   + c) 95%
   + d) 100%
 
+
 **QUIZ 4**
 
 **Question 1:**
@@ -86,6 +89,7 @@ If you have data on average car sales prices for the past 48 months and want to 
   + b) MODE
   + c) FORECAST *
   + d) STDEV
+
 
 **QUIZ 5**
 
