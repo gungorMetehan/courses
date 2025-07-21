@@ -26,9 +26,22 @@
    - Quiz 3: Working with Data and Data Sets
 
 5. Section 5: Analyzing Data
+   - Data Analysis in Action [Video, 1 min]
+   - Analyzing Sales Data [Video, 5 min]
+   - Testing Different Options [Video, 7 min]
+   - Making Forecasts [Video, 4 min]
+   - Ouiz 4: Understanding How to Analyze Data
+     
 6. Section 6: Sharing Your Data and Analysis with Others
+   - Telling Stories with Data [Video, 1 min]
+   - Defining a Business Problem [Video, 1 min]
+   - Defining Measurements [Video, 1 min]
+   - Experiment & Collect Data [Video, 2 min]
+   - Comparing and Analyzing Data [Video, 5 min]
+   - Quiz 5: Telling Stories with Data
+   
 7. Section 7: Next Steps
-
+   - Next Steps to Building Your Data Literacy [Video, 1 min]
 
 # Bilgi
 **Eğitim Dili:** İngilizce
@@ -38,4 +51,4 @@
 **Organizasyon:** Sullivan Learning Group & Udemy
 
 # Notlar
-Eğitim çevrim içi idi. Eğitimi TUSAŞ Akademi'nin sağladığı 'business' hesap ile almıştım.
+Eğitim çevrim içi idi. Eğitimi TUSAŞ Akademi'nin sağladığı 'business' hesap ile almıştım. Eğitim içeriği oldukça temel konulardan oluşuyordu.
