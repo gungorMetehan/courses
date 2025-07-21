@@ -33,7 +33,7 @@ Products in a company's inventory are considered perishable or non-perishable. W
 You are provided a spreadsheet with values in 10 columns for each row and there are 200 rows with values. What term do we use to describe a collection of values like this?
   + a) A variable
   + b) A piece of data
-  + c) A data set
+  + c) A data set *
   + d) A measurement
 
 **Question 2:**
@@ -73,7 +73,7 @@ What kind of visualization would you likely use to compare same-store sales over
 **Question 2:**
 
 An A/B Test is used for what purpose?
-  + a) To test a hypothesis involving two values of a variable
+  + a) To test a hypothesis involving two values of a variable *
   + b) To make a forecast
   + c) To identify a trend
   + d) To determine the context of a data point
