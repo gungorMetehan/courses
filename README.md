@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Machine Learning                                           | Turkish Aerospace Academy           |
 | 2025     | Data Manipulation 101 & 201                                | Turkcell                            |
 | 2025     | Introduction to Cloud Technologies with Google Drive       | Bilgeİş                             |
 | 2025     | Presenting Data                                            | HP LIFE                             |
