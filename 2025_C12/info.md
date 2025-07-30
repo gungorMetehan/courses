@@ -22,8 +22,6 @@
 # Bilgi
 **Eğitim Dili:** Türkçe
 
-**Eğitmen:** XX
-
 **Organizasyon:** Bilgeİş
 
 # Notlar
