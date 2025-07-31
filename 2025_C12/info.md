@@ -25,4 +25,5 @@
 **Organizasyon:** Bilgeİş
 
 # Notlar
-Bilgeİş Öğrenme Portalı'ndan bu eğitimi çevrim içi olarak aldım. Ancak platform çok yavaştı. İnternette de bu konuyla ilgili epey bir şikayet bulunuyor. Eğitim sonunda 20 soruluk bir final sınavı vardı. 18 doğru ile 90 puan aldım.
+Bilgeİş Öğrenme Portalı'ndan bu eğitimi çevrim içi olarak aldım. Ancak platform çok yavaştı. İnternette de bu konuyla ilgili epey bir şikayet bulunuyor. 
+Oldukça temel düzeyde bir eğitimdi. Bir şirkette ilk defa çevrim içi bir grupla çalışması gereken kişilere atanabilecek türden bir eğitimdi. Eğitimde ancak temel düzeyde doküman, e-tablo ve sunu oluşturma konusunda yeterli miktarda bilgi verildi. Eğitim sonunda 20 soruluk bir final sınavı vardı. 18 doğru ile 90 puan aldım.
