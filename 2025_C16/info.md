@@ -35,3 +35,4 @@ Bu eğitim iki günlük idi. 31 Temmuz 2025 ve 1 Ağustos 2025 tarihlerinde ger�
   + `SEARCH()`
   + `IF()`
   + `YEAR()` & `TODAY()`
+  + `SWITCH()`
