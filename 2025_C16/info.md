@@ -40,4 +40,5 @@ Bu eğitim iki günlük idi. 31 Temmuz 2025 ve 1 Ağustos 2025 tarihlerinde ger�
   + `SUMX()`
   + `RELATED()` [Diğer tablolar ile arasında ilişki kurmak için kullanılıyor. Yani satış tablosu ile ürün tablosunda yer alan iki farklı değişkendeki değerleri çarpmak için en az bir kere bu fonksiyon kullanılmalı]
   + `SUM()`
+  + `COUNT()`
 - Ders esnasında tabloya emoji eklemeyi buldum. Bunun için New measure dendikten sonra koşul ile birlikte yeni bir değişken üretmek gerekiyor. Mesela, IF('Değişken Adı' > 0, "👌", "❌") gibi. Burada tırnak işaretlerini kullanmak önemli. Emojileri bulmak için ise kodu yazarken Windows Tuşu + . işaretine basılıyor.
