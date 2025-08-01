@@ -43,3 +43,4 @@ Bu eğitim iki günlük idi. 31 Temmuz 2025 ve 1 Ağustos 2025 tarihlerinde ger�
   + `COUNT()`
   + `DISTINCTCOUNT()`
 - Ders esnasında tabloya emoji eklemeyi buldum. Bunun için New measure dendikten sonra koşul ile birlikte yeni bir değişken üretmek gerekiyor. Mesela, IF('Değişken Adı' > 0, "👌", "❌") gibi. Burada tırnak işaretlerini kullanmak önemli. Emojileri bulmak için ise kodu yazarken Windows Tuşu + . işaretine basılıyor.
+- Bir tablodaki bir satırın tıklanması durumunda diğer tablolar ve kartlar etkilenmekte. Aslında bir filtreleme söz konusu. Zaten bu Power BI'ın sunduğu önemli özelliklerden biri. Ancak bazen bu filtrelemenin yapılması istenmeyebilir. Bu durumda aradaki ilişkiyi koparmak için ilgili tablo/grafik seçildikten sonra View > Edit Interactions seçilmeli. Sonrasında ilgili kartlar/tablolar/grafiklerin sağ üstünde beliren sembolü tıklamak gerekiyor. 
