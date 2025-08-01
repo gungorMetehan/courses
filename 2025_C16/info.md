@@ -31,5 +31,6 @@ Bu eğitim iki günlük idi. 31 Temmuz 2025 ve 1 Ağustos 2025 tarihlerinde ger�
 ## 2. GÜN
 - Veri setlerine Column tools menüsündeki New column seçeneği kullanıldıktan sonra fonksiyonlar yardımıyla yeni sütunlar eklenebiliyor.
 - Şu fonksiyonlar örneklendirildi:
-  + LEFT()
-  + SEARCH()
+  + `LEFT()`
+  + `SEARCH()`
+  + `IF()`
