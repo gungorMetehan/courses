@@ -17,8 +17,46 @@
    + Quiz 5
    + Section closing and summary learning points [Video, 1 min]
    + Quiz 6: End-of-section Quiz
-   + Section 2 - Additional links and reading materials [Text, 1 min] 
-
+   + Section 2 - Additional links and reading materials [Text, 1 min]
+3. Section 3: Introduction to Analytics & Case Study Examples
+   + Section introduction and summary learning points [Video, 2 min]
+   + The art and science of Workforce Analytics [Video, 5 min]
+   + Quiz 7
+   + Case study: Starbucks workforce engagement strategy [Video, 8 min]
+   + Quiz 8
+   + The AACEE maturity model [Video, 3 min]
+   + Quiz 9
+   + Assignment 2: Workforce Analytics Self Assessment
+   + Building the foundation for data-driven decision making [Video, 7 min]
+   + Quiz 10
+   + Workforce Analytics foundation & value creation examples [Video, 17 min]
+   + Quiz 11
+   + The power of combining data sources [Video, 8 min]
+   + Quiz 12
+   + Assignment 3: Recruiting Source Analysis
+   + Section closing and summary learning points [Video, 1 min]
+   + Section 3 - Additional links and reading materials [Text, 1 min]
+   + Quiz 13: End-of-section Quiz
+4. Section 4: Metrics: Good, Important, and Critical Metrics
+   + Section opening and key summary learning points [Video, 5 min]
+   + Key metrics & KPI selection methodology [Video, 9 min]
+   + Quiz 14
+   + Examples for linking human capital to metrics [Video, 9 min]
+   + Quiz 15
+   + Balanced scorecard [Video, 7 min]
+   + Example - Metrics and KPIs in the recruiting process [Video, 6 min]
+   + Case study: SE Asia Property's scorecard [Video, 6 min]
+   + Quiz 16
+   + Application of balanced scorecard in HR [Video, 5 min]
+   + Quiz 17
+   + More balanced scorecard examples [Video, 16 min]
+   + Assignment 4: Building Scorecard and Business Case
+   + Section closing and summary learning points [Video, 1 min]
+   + Section 4 - Additional links and reading materials [Text, 1 min]
+   + Quiz 18: En-of-section Quiz
+5. Section 5: You're almost done
+   + Next steps [Text, 1 min]
+   + More Workforce Analytics resources avaible here [Text, 1 min] 
 
 # Bilgi
 **Eğitim Dili:** İngilizce
