@@ -1,6 +1,6 @@
 **QUIZ 1**
 
-**Question 1:**
+**Question 1**
 
 What was the percentage of market cap made up by intangible assets in 2015?
   + a) 17%
@@ -11,7 +11,7 @@ What was the percentage of market cap made up by intangible assets in 2015?
 
 **QUIZ 2**
 
-**Question 1:**
+**Question 1**
 
 According Dr. Jac Fit-Enz’s analytics model, which of the following options is NOT a level of analytics featured in Dr. Jac’s model?
   + a) Predictive analytics
@@ -22,7 +22,7 @@ According Dr. Jac Fit-Enz’s analytics model, which of the following options is
 
 **QUIZ 3**
 
-**Question 1:**
+**Question 1**
 
 Select the correct reason(s) why companies should track, benchmark and report human capital information
   + a) Institutional investors are asking for it
@@ -34,7 +34,7 @@ Select the correct reason(s) why companies should track, benchmark and report hu
 
 **QUIZ 4**
 
-**Question 1:**
+**Question 1**
 
 According to the examples we just went through, which of the following workforce questions can be answered using Workforce Analytics?
   + a) How do we know we have the right size of workforce?
@@ -46,7 +46,7 @@ According to the examples we just went through, which of the following workforce
 
 **QUIZ 5**
 
-**Question 1:**
+**Question 1**
 
 Which of the following item(s) are **NOT** the essential components of a workforce analytics business case?
   + a) A compelling question and/or business need
@@ -135,3 +135,34 @@ We found something in nature that reflects the challenge in measuring human capi
   + b) Stock
   + c) Diamond *
   + d) Commodity
+
+
+**QUIZ 7**
+
+**Question 1**
+
+Which of the following statements correctly describe the role of an analytics translator in People Analytics? 
+  + a) Analytics translators help translate technical analyses into executable strategies
+  + b) Analytics translators help ensure that organizations can achieve real impact from their findings
+  + c) Analytics translators help translate analytics commucation between departments and business units
+  + d) A & B *
+  + e) B & C
+
+
+**QUIZ 8**
+
+According to the Starbucks’ case study, which of the following variables was **NOT** used in the analysis? 
+  + a) Company Engagement / Partners' engagement
+  + b) Average Workforce Tenure
+  + c) Average Commuting Time *
+  + d) Store Manager Stability
+  + e) Satisfaction with Pay
+
+
+
+
+
+
+
+
+
