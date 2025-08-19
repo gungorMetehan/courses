@@ -151,6 +151,8 @@ Which of the following statements correctly describe the role of an analytics tr
 
 **QUIZ 8**
 
+**Question 1**
+
 According to the Starbucks’ case study, which of the following variables was **NOT** used in the analysis? 
   + a) Company Engagement / Partners' engagement
   + b) Average Workforce Tenure
