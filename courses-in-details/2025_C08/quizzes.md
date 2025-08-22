@@ -161,10 +161,43 @@ According to the Starbucks’ case study, which of the following variables was *
   + e) Satisfaction with Pay
 
 
+**QUIZ 9**
+
+**Question 1**
+
+Align all the stages of the AACEE maturity model in the correct order
+  + a) Excellence > Competence > Effectiveness > Awareness > Action
+  + b) Awareness > Action > Competence > Effectiveness > Excellence *
+  + c) Competence > Awareness > Action > Excellence > Effectiveness
+  + d) Excellence > Competence > Effectiveness > Awareness > Action
 
 
+**QUIZ 10**
+
+**Question 1**
+
+Identify the statement that correctly describes a typical workforce analytics journey
+  + a) Most practitioners become efficient and excellence in workforce analytics only after 1 year of practice
+  + b) Most companies already have all the infrastructure in place and only need a team of data sciencist to discover million-dollar insights
+  + c) Advanced analytics practitoners combine workforce analytics and workforce planning to make the most optimal talent management decision *
+  + d) None of the above
 
 
+**QUIZ 11**
+
+**Question 1**
+In the Turnover Driver Analysis case study/example, which group has the longest commute and yet scored the lowest turnover?
+  + a) Management *
+  + b) IT Professional
+  + c) Sales Staff
+  + d) Professional Staff
 
 
+**QUIZ 12**
 
+**Question 1**
+Which one of the following statements is the final finding from the Recruiting Source analysis example you just went over?
+  + a) Employee referral is the worst recruiting source where the most employees left in terms of their percentage of turnover rate
+  + b) Employee referral provides twice the likelihood that a new employee is going to be a high performer and high potential than other recruiting sources
+  + c) A and B are both correct *
+  + d) A and B are both wrong
