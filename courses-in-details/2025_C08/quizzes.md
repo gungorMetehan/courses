@@ -259,4 +259,28 @@ To be effective at their job, data scientists will need _____
   + b) Structure and standards of HR metrics
   + c) Technical knowledge on HRIS systems
   + d) Technical knowledge on relational database
+  + e) All of the above *
+
+**Question 8**
+According to the Starbuck case study, what’s their key analytics objective?
+  + a) Measure and monitor employee engagement score
+  + b) Measure and monitor customer engagement score
+  + c) Identify driver of their customer service and engagement score *
+  + d) Create a workforce engagament scorecard
   + e) All of the above
+
+**Question 9**
+Fill in the blank
+
+According to the Starbucks case study, stores with higher Company Engagement Scores have _________
+  + a) Lower customer scores & lower comp sales
+  + b) Lower customer scores & higher comp sales
+  + c) Higher customer scores & higher comp sales *
+  + d) Higher customer scores & lower comp sales
+
+**Question 10**
+In the Analytics framework model, what’s referred to as the roof of the house for data driven decisions
+  + a) Millions of ROI from workforce cost management and optimization
+  + b) Predictive workforce planning model
+  + c) Linked workforce and business strategy *
+  + d) Root cause analyses
