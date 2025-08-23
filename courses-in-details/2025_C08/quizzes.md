@@ -56,7 +56,7 @@ Which of the following item(s) are **NOT** the essential components of a workfor
   + e) Timing, resources and process to carry out the interventions
 
 
-**QUIZ 6**
+**QUIZ 6: En-of-section Quiz**
 
 **Question 1**
 
@@ -201,3 +201,62 @@ Which one of the following statements is the final finding from the Recruiting S
   + b) Employee referral provides twice the likelihood that a new employee is going to be a high performer and high potential than other recruiting sources
   + c) A and B are both correct *
   + d) A and B are both wrong
+
+
+**QUIZ 13: En-of-section Quiz**
+
+**Question 1**
+Fill in the blank
+
+To be effective at their job, analytics translators will need _____
+  + a) Effective visualization and chart design skill
+  + b) Project and change management skill
+  + c) Proficiency in visualization tools
+  + d) Ability to formulate and position business cases
+  + e) All of the above *
+
+**Question 2**
+The role of an analytic translator in an HR analytics team is to translate data into monthly executive reports for line managers
+  + a) True
+  + b) False *
+
+**Question 3**
+According to the analytics framework model, which of the following statements correctly describe the relationship between Workforce Analytics and Workforce Planning?
+  + a) Workforce Planning is the roof and Workforce Analytics is the foundation
+  + b) Workforce Analytics and Workforce Planning are two rooms of the same house *
+  + c) There is no relationship between Workforce Analytics and Workforce Planning 
+  + d) None of the above
+
+**Question 4**
+In the turnover driver analysis example, which of the following is the most CORRECT finding from analyzing employees’ **commute distance**? 
+  + a) There is a strong correlation between commute distance and turnover rate
+  + b) There is no correlation or whatsoever between commute distance and turnover
+  + c) There is no correlation between commute distance and turnover but there are distinct patterns by location and job category *
+  + d) Senior Manager is the group with the lowest commute distance and lowest turnover rate
+  + e) None of the above
+
+**Question 5**
+According to the Power of Combining Data Source example, what’s the main cause for their conflicting analysis results?
+  + a) Recruiting data was corrupted
+  + b) There was no buy-in support from executives and management
+  + c) Recruiting, Performance and Recruiting databases didn't talk and were never linked together *
+  + d) All of the above
+
+**Question 6**
+According to the AACEE maturity model, hypothetically speaking, which one of the following examples is workforce analysis that only an organization at the Excellence stage can perform?
+  + a) Measures that align HR and business strategy
+  + b) Center of Excellence
+  + c) Advanced metrics and ROI analysis
+  + d) Conduct root cause analysis
+  + e) Workforce Analytics that quantify impact *
+  + f) Metrics and benchmark standards
+
+**Question 7**
+Fill in the blank
+
+To be effective at their job, data scientists will need _____
+  + a) Programing and statistical languages
+  + b) Structure and standards of HR metrics
+  + c) Technical knowledge on HRIS systems
+  + d) Technical knowledge on relational database
+  + e) All of the above
