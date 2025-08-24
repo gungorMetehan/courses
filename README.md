@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Learn ggplot2 in R for Data Visualization                  | The Data Ink Lab (Udemy)            |
 | 2025     | Introduction to Microsoft Power BI                         | Turkish Aerospace Academy           |
 | 2025     | Machine Learning Applications with Python                  | BTK Akademi                         |
 | 2025     | Machine Learning                                           | Turkish Aerospace Academy           |
