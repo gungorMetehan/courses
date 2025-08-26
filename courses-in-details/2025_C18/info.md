@@ -86,6 +86,6 @@
 **Organizasyon:** Savunma Sanayii Akademi
 
 # Notlar
-Bu eğitim SSA'nın Savunma Gelişim Projesi kapsamında çevrim içi olarak veriliyordu. İki eğitmeni bulunan eğitim, aslında savunma sanayiinde çalışan bireylere İKK konusunda farkındalık kazandırmayı amaçlıyordu. Bilgi Toplama Yöntemleri kısmı ve yaşanmış olaylar aslında ilgimi çekti. Aklımda kalan pek çok şey oldu.
+Bu eğitim SSA'nın Savunma Gelişim Projesi kapsamında çevrim içi olarak veriliyordu. İki eğitmeni bulunan eğitim, aslında savunma sanayiinde çalışan bireylere İKK konusunda farkındalık kazandırmayı amaçlıyordu. Eğitimi 25.08.2025 tarihinde tamamladım. Katılım belgesini sistemden indirdim. Ancak zaten belge kurumsal e-posta adresine de otomatik olarak yönlendirilmişti. Eğitimde Bilgi Toplama Yöntemleri kısmı ve yaşanmış olaylar aslında ilgimi çekti. Aklımda kalan pek çok şey oldu.
 Eğitimin genel olarak faydalı olduğunu düşünüyorum. Ancak, çok sayıda güvenlik ihlalinin olduğunu (hem Türkiye'de hem de dünyada) düşünecek olursak 'Vaka Analizleri' kısmı daha detaylı işlenebilirdi. Hem ilgi çekici olurdu, hem de çıkarılacak dersler daha fazla olurdu.
 Örneğin Cambridge Beşlisi kendi başına bir film hikayesi olabilir. Bunun gibi birçok örnek vaka incelendi. Ancak vakalar derinleştirilmedi diye düşünüyorum.
