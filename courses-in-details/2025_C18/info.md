@@ -1,5 +1,5 @@
 # İçerik
-* Modül 1: İstihbarata Karşı Koymanın Temelleri
+* Modül 1: İstihbarata Karşı Koymanın Temelleri [~24 dk] 
   + İstihbarata Karşı Koyma Eğitimi
     + Eğitmen Hakkında ve İKK Eğitim Yapısı
     + İstihbarata Karşı Koyma Eğitimi - Modül 1
@@ -37,7 +37,7 @@
     + Soru 5
   + Eğitim Sonu
     + Eğitim Sonu
-* Modül 2: Casusluğa Karşı Korunma
+* Modül 2: Casusluğa Karşı Korunma [~29 dk]
   + İstihbarata Karşı Koyma Eğitimi
     + İstihbarata Karşı Koyma Eğitimi - Modül 2
     + Eğitmen Hakkında ve Modül Yapısı
@@ -75,7 +75,7 @@
     + Soru 3
     + Soru 4
     + Soru 5
-* Modül 3: Elektronik Güvenlik Tedbirleri
+* Modül 3: Elektronik Güvenlik Tedbirleri [~22 dk]
   + İstihbarata Karşı Koyma Eğitimi
     + İstihbarata Karşı Koyma Eğitimi - Modül 3
     + Eğitmen Hakkında ve Modül Yapısı
@@ -124,10 +124,25 @@
     + Soru 3
     + Soru 4
     + Soru 5
-* Modül 4: Vaka Analizleri
+* Modül 4: Vaka Analizleri [~15 dk]
   + İstihbarata Karşı Koyma Eğitimi
     + İstihbarata Karşı Koyma Eğitimi - Modül 4
-    + Eğitmen Hakkında ve Modül Yapısı
+    + Modül Hakkında
+  + Gerçek Vakalar Üzerinden Casusluk
+    + Kim Philby ve Cambridge Beşlisi
+    + Izaak Vincent Kemp
+    + Song Guo Zheng
+    + Anna Chapman
+    + FBI Ghost Stories
+  + Casuslukta Doğal Yaklaşma Senaryoları
+    + Sosyal Etkileşim ile Yaklaşma
+    + Otel Odasında Veri Tehdidi
+  + Modül Sonu Değerlendirmesi
+    + Soru 1
+    + Soru 2
+    + Soru 3
+    + Soru 4
+    + Soru 5
 
   
 # Bilgi
