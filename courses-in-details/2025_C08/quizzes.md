@@ -284,3 +284,20 @@ In the Analytics framework model, what’s referred to as the roof of the house 
   + b) Predictive workforce planning model
   + c) Linked workforce and business strategy *
   + d) Root cause analyses
+
+**QUIZ 14**
+
+**Question 1**
+Which of the following statements is NOT a KPI best practice?
+  + a) KPIs should be linked to business goals and they change when organization strategy changes
+  + b) Ideally one KPI from each talent management lifecycle area to measure holistically
+  + c) A company can have as many as 100 KPIs as long as they're leading or predictive in nature *
+  + d) Leverage cascading metrics and supporting data as appropriate
+  + e) The ultimate test for a metric or scorecard is "if we improve by 10% what does the business get?"
+
+**Question 2**
+Which of the following statements is **TRUE** about Balanced Scorecard
+  + a) A balanced scorecard is a set of no more than two metrics used to measure, identify and improve the performance and outcomes of various business functions.
+  + b) A balanced scorecard is often used as tool to provide external reports to investors
+  + c) Ideally, balanced scorecards should help the management to make data-driven talent decisions for the organization *
+  + d) A balanced scorecard is an exclusive HR tool designed to communicate critical talent information to executives
