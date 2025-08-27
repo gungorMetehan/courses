@@ -186,6 +186,7 @@ Identify the statement that correctly describes a typical workforce analytics jo
 **QUIZ 11**
 
 **Question 1**
+
 In the Turnover Driver Analysis case study/example, which group has the longest commute and yet scored the lowest turnover?
   + a) Management *
   + b) IT Professional
@@ -196,6 +197,7 @@ In the Turnover Driver Analysis case study/example, which group has the longest 
 **QUIZ 12**
 
 **Question 1**
+
 Which one of the following statements is the final finding from the Recruiting Source analysis example you just went over?
   + a) Employee referral is the worst recruiting source where the most employees left in terms of their percentage of turnover rate
   + b) Employee referral provides twice the likelihood that a new employee is going to be a high performer and high potential than other recruiting sources
@@ -206,6 +208,7 @@ Which one of the following statements is the final finding from the Recruiting S
 **QUIZ 13: En-of-section Quiz**
 
 **Question 1**
+
 Fill in the blank
 
 To be effective at their job, analytics translators will need _____
@@ -216,11 +219,13 @@ To be effective at their job, analytics translators will need _____
   + e) All of the above *
 
 **Question 2**
+
 The role of an analytic translator in an HR analytics team is to translate data into monthly executive reports for line managers
   + a) True
   + b) False *
 
 **Question 3**
+
 According to the analytics framework model, which of the following statements correctly describe the relationship between Workforce Analytics and Workforce Planning?
   + a) Workforce Planning is the roof and Workforce Analytics is the foundation
   + b) Workforce Analytics and Workforce Planning are two rooms of the same house *
@@ -228,6 +233,7 @@ According to the analytics framework model, which of the following statements co
   + d) None of the above
 
 **Question 4**
+
 In the turnover driver analysis example, which of the following is the most CORRECT finding from analyzing employees’ **commute distance**? 
   + a) There is a strong correlation between commute distance and turnover rate
   + b) There is no correlation or whatsoever between commute distance and turnover
@@ -236,6 +242,7 @@ In the turnover driver analysis example, which of the following is the most CORR
   + e) None of the above
 
 **Question 5**
+
 According to the Power of Combining Data Source example, what’s the main cause for their conflicting analysis results?
   + a) Recruiting data was corrupted
   + b) There was no buy-in support from executives and management
@@ -243,6 +250,7 @@ According to the Power of Combining Data Source example, what’s the main cause
   + d) All of the above
 
 **Question 6**
+
 According to the AACEE maturity model, hypothetically speaking, which one of the following examples is workforce analysis that only an organization at the Excellence stage can perform?
   + a) Measures that align HR and business strategy
   + b) Center of Excellence
@@ -252,6 +260,7 @@ According to the AACEE maturity model, hypothetically speaking, which one of the
   + f) Metrics and benchmark standards
 
 **Question 7**
+
 Fill in the blank
 
 To be effective at their job, data scientists will need _____
@@ -262,6 +271,7 @@ To be effective at their job, data scientists will need _____
   + e) All of the above *
 
 **Question 8**
+
 According to the Starbuck case study, what’s their key analytics objective?
   + a) Measure and monitor employee engagement score
   + b) Measure and monitor customer engagement score
@@ -270,6 +280,7 @@ According to the Starbuck case study, what’s their key analytics objective?
   + e) All of the above
 
 **Question 9**
+
 Fill in the blank
 
 According to the Starbucks case study, stores with higher Company Engagement Scores have _________
@@ -279,15 +290,18 @@ According to the Starbucks case study, stores with higher Company Engagement Sco
   + d) Higher customer scores & lower comp sales
 
 **Question 10**
+
 In the Analytics framework model, what’s referred to as the roof of the house for data driven decisions
   + a) Millions of ROI from workforce cost management and optimization
   + b) Predictive workforce planning model
   + c) Linked workforce and business strategy *
   + d) Root cause analyses
 
+
 **QUIZ 14**
 
 **Question 1**
+
 Which of the following statements is NOT a KPI best practice?
   + a) KPIs should be linked to business goals and they change when organization strategy changes
   + b) Ideally one KPI from each talent management lifecycle area to measure holistically
@@ -296,8 +310,26 @@ Which of the following statements is NOT a KPI best practice?
   + e) The ultimate test for a metric or scorecard is "if we improve by 10% what does the business get?"
 
 **Question 2**
+
 Which of the following statements is **TRUE** about Balanced Scorecard
   + a) A balanced scorecard is a set of no more than two metrics used to measure, identify and improve the performance and outcomes of various business functions.
   + b) A balanced scorecard is often used as tool to provide external reports to investors
   + c) Ideally, balanced scorecards should help the management to make data-driven talent decisions for the organization *
   + d) A balanced scorecard is an exclusive HR tool designed to communicate critical talent information to executives
+
+
+**QUIZ 15**
+
+**Question 1**
+
+Which of the following KPI groups is NOT a part of SE Asia Property’s balanced scorecard? 
+  + a) Financial
+  + b) Environment
+  + c) Quality
+  + d) Labor Union *
+  + e) Time
+
+
+
+
+
