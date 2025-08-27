@@ -309,7 +309,10 @@ Which of the following statements is NOT a KPI best practice?
   + d) Leverage cascading metrics and supporting data as appropriate
   + e) The ultimate test for a metric or scorecard is "if we improve by 10% what does the business get?"
 
-**Question 2**
+
+**QUIZ 15**
+
+**Question 1**
 
 Which of the following statements is **TRUE** about Balanced Scorecard
   + a) A balanced scorecard is a set of no more than two metrics used to measure, identify and improve the performance and outcomes of various business functions.
@@ -318,7 +321,7 @@ Which of the following statements is **TRUE** about Balanced Scorecard
   + d) A balanced scorecard is an exclusive HR tool designed to communicate critical talent information to executives
 
 
-**QUIZ 15**
+**QUIZ 16**
 
 **Question 1**
 
@@ -330,6 +333,12 @@ Which of the following KPI groups is NOT a part of SE Asia Property’s balanced
   + e) Time
 
 
+**QUIZ 17**
 
+**Question 1**
 
-
+Which of the following metrics are included in the Quality of Hire index metric?
+  + a) New Hire Turnover
+  + b) Percent of Job Requirements Met
+  + c) # of Qualified Applicants
+  + d) All of the above *
