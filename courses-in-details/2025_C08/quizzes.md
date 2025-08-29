@@ -342,3 +342,81 @@ Which of the following metrics are included in the Quality of Hire index metric?
   + b) Percent of Job Requirements Met
   + c) # of Qualified Applicants
   + d) All of the above *
+
+
+**QUIZ 18: En-of-section Quiz**
+
+**Question 1**
+
+How many KPIs should you have?
+  + a) Less than 10 and ideally one for each talent management lifecycle *
+  + b) More than 10
+  + c) At least 20 or more
+  + d) There is no ideal number of KPI that an organization should have
+
+**Question 2**
+
+Who’s the main audience for KPI reports?
+  + a) Mid-management
+  + b) Store managers
+  + c) Top management and Board of Directors *
+  + d) All managers
+
+**Question 3**
+
+In a KPI report, ideally, you will need to include at least ____ KPI(s) from each talent management lifecycle area to measure holistically
+  + a) One *
+  + b) Two
+  + c) Three
+  + d) Four
+
+**Question 4**
+
+What’s missing from the following KPI selection methodology
+
+Step 1: Conduct research
+
+Step 2: Have key stakeholders participated in the initial KPIs selection
+
+Step 3: Set initial goals and targets
+
+Step 4: _______________
+
+Step 5: Communicate and publish KPIs
+  + a) Double check the results
+  + b) Conduct additional research
+  + c) Verify the results with key stakeholders
+  + d) Obtain management buy-in *
+
+**Question 5**
+
+Which of the following questions is the most important question that a metrics, KPI or balanced scorecard need to be able to answer? 
+  + a) What's our historical trend from the past 3 years?
+  + b) Where are we heading in the next 5 years?
+  + c) If we improve by 10% what does the business get? *
+  + d) None of the above
+
+**Question 6**
+
+Which of the following statements is **NOT** correct about Balanced Scorecard?
+  + a) Balanced Scorecard is made up by a set of several performance metrics
+  + b) Balanced Scorecard is used to measure, identify and improve the performance and outcomes of various business functions
+  + c) Balanced Scorecard is ofted used to align the day-to-day work that everyone is doing with strategy
+  + d) Balanced Scorecard is comprised of several metrics weighted by percentages as a means to assign importance to each metric *
+
+**Question 7**
+
+What’re the key drawbacks of a typical recruiting process? 
+  + a) Recruiters are pressured for close or next-to-impossible tasks
+  + b) Poor quality of hire
+  + c) Candadites often feel rushed
+  + d) Too many interviews for hiring managers
+  + e) All of the above *
+
+**Question 8**
+
+According to the Performance of Recruiting staff example, who are the best performing recruiters in this organization?
+  + a) Recruiter 7 & 8 *
+  + b) Recruiter 1 & 2
+  + c) Recruiter 1 & 7
+  + d) Recruiter 4 & 5
