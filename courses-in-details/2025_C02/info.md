@@ -61,4 +61,4 @@
 **Organizasyon:** The Data Ink Lab | Udemy
 
 # Notlar
-Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı ile çevrim içi aldım.
+Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı ile çevrim içi aldım. Eğitmen, eğitim içeriğine epey çalışmış görünüyordu. Veri görselleştirmeye giriş bağlamında alınabilecek en iyi eğitimlerden biri olduğunu söyleyebilirim. Özellikle insanların veri görselleştirmeyi algılama görevleri ve veri görselleştirmenin altın kuralları kısmını çok beğendim. Bu bilgiler, pek çok giriş eğitiminde yer almıyor. Eğitmenin 3-boyutlu grafiklerle ilgili verdiği komik örnek (3-boyutlu grafiklerin neden tercih edilmemesini gösteren bir akış) de güzeldi. Bu örneği sonrasında hatırlamak üzere [görselleştirdim](https://github.com/gungorMetehan/courses/blob/main/courses-in-details/2025_C02/files/3D_plots.pdf). Yeni birer kavram olarak aklımda kalanlar ise (1) lie factor ve (2) data-ink ratio.
