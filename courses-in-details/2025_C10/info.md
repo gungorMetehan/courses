@@ -78,3 +78,4 @@
 
 # Notlar
 Eğitim genel olarak video anlatımlar ve okuma metinleri üzerinden kurgulanmış. Tasarım pek çok animasyon ve etkileşimli içerik içeriyordu. Temel konulara değinilen, giriş seviyesinde bir eğitimdi.
+Eğitimi 10 Temmuz 2025 tarihinde çevrim içi olarak tamamladım.
