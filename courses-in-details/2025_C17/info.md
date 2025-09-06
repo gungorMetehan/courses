@@ -59,6 +59,46 @@
   + Boxplots and Violin plots: Exercises [Video, 2 min]
   + Boxplots and Violin plots: Exercise Solution [Video, 5 min]
 * Section 7: Position adjustment, Scales, and Bar plots
+  + Chapter 6: Introduction [Video, 1 min]
+  + Position Adjustment: identity, jitter & nudge [Video, 12 min]
+  + Position Adjustment: stack, fill & dodge [Video, 13 min]
+  + Scales: Definition & Usage [Video, 11 min]
+  + Scales: Classification [Video, 7 min]
+  + Scales: Position scales [Video, 14 min]
+  + Scales: Data scales [Video, 9 min]
+  + Scales: Color scales [Video, 18 min]
+  + Scales: Manual & Identity scales [Video, 8 min]
+  + Shortcuts to scales: labs & lims [Video, 4 min]
+  + Bar plots [Video, 11 min]
+  + How to make bar plots look good? [Video, 7 min]
+  + Bar plots Exercise [Video, 2 min]
+  + Bar plots Exercise Solution [Video, 8 min]
+* Section 8: Coordinate systems, the Theme System, and Maps
+  + Chapter 7: Introduction [Video, 1 min]
+  + Coordinate Systems: Cartesian & Flip [Video, 8 min]
+  + Coordinate Systems: Fixed & Quickmap [Video, 7 min]
+  + Coordinate Systems: Polar [Video, 5 min]
+  + The Theme System [Video, 5 min]
+  + Modifying Individual Components of the Theme System [Video, 21 min]
+  + [NEW] Bonus Track: ggplot's theme system cheatsheet [Text, 1 min]
+  + Creating your own Custon Theme [Video, 11 min]
+  + Maps: Background maps [Video, 7 min]
+  + Maps: Choropleth maps [Video, 8 min]
+  + Maps: Annotated & Bubble maps [Video, 12 min]
+  + Maps: Plotting GIS Data [Video, 8 min]
+* Section 9: Facets and Custom Plots
+  + Chapter 8: Introduction [Video, 1 min]
+  + Facets [Video, 6 min]
+  + facet_grid vs facet_wrap [Video, 14 min]
+  + Faceting example: follow-along exercise [Video, 6 min]
+  + Maps & facets Exercise [Video, 2 min]
+  + Maps & facets Exercise Solution [Video, 12 min]
+  + Custom plots: the Lollipop plot [Video, 15 min]
+  + Custom plots: the Dumbbell plot [Video, 15 min]
+  + Custom plots: the "Fire" plot [Video, 15 min]
+* Section 10: What next?
+  + Congratulations! What next?
+
 
 # Bilgi
 **Eğitim Dili:** İngilizce
