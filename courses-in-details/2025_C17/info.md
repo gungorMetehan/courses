@@ -35,6 +35,17 @@
   + Drawing line plots with multiple liens [Video, 4 min]
   + Line plot Exercise [Video, 1 min]
   + Line plot Exercise: Solution [Video, 3 min]
+* Section 5: Datasets, mapping, and scatter plots.
+  + Chapter 4: Introduction [Video, 1 min]
+  + Datasets and mappings [Video, 11 min]
+  + Overriding aesthetics [Video, 3 min]
+  + Setting vs. mapping [Video, 5 min]
+  + Data formats and the melt function [Video, 13 min]
+  + Scatter plots (1 of 2) [Video, 9 min]
+  + Scatter plots (2 of 2): Colors and labels [Video, 14 min]
+  + Scatter plots: Exercise [Video, 2 min]
+  + Scatter plots: Exercise Solution [Video, 10 min]
+* Section 6: Statistical transformations and Plotting Distributions
 
 # Bilgi
 **Eğitim Dili:** İngilizce
