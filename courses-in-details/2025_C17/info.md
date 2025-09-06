@@ -46,6 +46,19 @@
   + Scatter plots: Exercise [Video, 2 min]
   + Scatter plots: Exercise Solution [Video, 10 min]
 * Section 6: Statistical transformations and Plotting Distributions
+  + Chapter 5: Introduction [Video, 1 min]
+  + Statistical transformations (stats) [Video, 11 min]
+  + Interesting stats [Video, 10 min]
+  + Computed aesthetics [Video, 4 min]
+  + What are distributions and how to plot them? [Video, 2 min]
+  + Histograms and frequency polygons [Video, 10 min]
+  + Density plots [Video, 5 min]
+  + Histograms and stats: Exercise Solution [Video, 5 min]
+  + Boxplots [Video, 13 min]
+  + Violin plots [Video, 7 min]
+  + Boxplots and Violin plots: Exercises [Video, 2 min]
+  + Boxplots and Violin plots: Exercise Solution [Video, 5 min]
+* Section 7: Position adjustment, Scales, and Bar plots
 
 # Bilgi
 **Eğitim Dili:** İngilizce
