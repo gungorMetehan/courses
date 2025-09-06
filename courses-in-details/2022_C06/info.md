@@ -16,4 +16,11 @@
 **Organizasyon:** BAUGO (Enocta)
 
 # Notlar
-...
+Eğitimi, çalıştığım şirketin LMS'i olan Enocta üzerinden, çevrim içi olarak almıştım. Eğitim tamamen teorik idi. Uygulamalar yer almıyordu. Temel düzeyde bilgiler içeriyordu. Tek aklımda kalan, veriye 'big data' diyebilmek için gerekli olan koşulların bulunduğu ve bu koşulların giderek arttığı, günümüzde ise bu kuralın adının 6V olarak özetlendiği idi.
+6V's of Data
+* Volume – Scale of Data
+* Velocity – Speed of Data
+* Variety – Diversity of Data
+* Veracity – Trustworthiness of Data
+* Value – Usefulness of Data
+* Variability – Inconsistency of Data
