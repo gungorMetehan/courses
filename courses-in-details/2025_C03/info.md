@@ -49,7 +49,7 @@
 # Bilgi
 **Eğitim Dili:** İngilizce
 
-**Eğitmen:** Metthew Bernath
+**Eğitmen:** Matthew Bernath
 
 **Organizasyon:** DMSA Training (Udemy)
 
