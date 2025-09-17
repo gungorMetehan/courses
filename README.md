@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Artificial Intelligence and Copyright                      | The Defense Industry Academy        |
 | 2025     | Data Science Project Cycle                                 | Turkcell                            |
 | 2025     | Counterintelligence Training                               | The Defense Industry Academy        |
 | 2025     | Learn ggplot2 in R for Data Visualization                  | The Data Ink Lab (Udemy)            |
