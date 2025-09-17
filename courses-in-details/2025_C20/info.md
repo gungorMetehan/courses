@@ -8,6 +8,8 @@
 # Bilgi
 **Eğitim Dili:** Türkçe
 
+**Eğitim Adı:** Yapay Zeka ve Telif Hakları
+
 **Eğitmenler:** Av. Elif Kenan (ASELSAN)
 
 **Organizasyon:** Savunma Sanayii Akademi | Savunma Gelişim
