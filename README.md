@@ -4,7 +4,6 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
-| 2025     | Introduction to Data Concepts                              | IBM SkillsBuild                     |
 | 2025     | Artificial Intelligence and Copyright                      | The Defense Industry Academy        |
 | 2025     | Data Science Project Cycle                                 | Turkcell                            |
 | 2025     | Counterintelligence Training                               | The Defense Industry Academy        |
