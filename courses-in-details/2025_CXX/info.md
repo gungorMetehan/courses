@@ -54,5 +54,7 @@
 Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor.
 Eğitim 1: Introduction to Data Concepts
 Eğitimde genellikle metinler üzerinden ilerleniyordu. Güzel bir tasarım yapılmış.
-Büyük Veri kavramı 5V ile açıklandı. Bu V'ler sık sık değişiyor. Daha önceleri 4V ve 6V olarak da görmüştüm. Eğitimdeki 5V şunlar idi: :1: Volume, :2: Variety, :3: Velocity, :4: Veracity ve :5: Value.
+Büyük Veri kavramı 5V ile açıklandı. Bu V'ler sık sık değişiyor. Daha önceleri 4V ve 6V olarak da görmüştüm. Eğitimdeki 5V şunlar idi: (1) Volume, (2) Variety, (3) Velocity, (4) Veracity ve (5) Value.
 Bunun yanı sıra bilindiği üzere veri analitiğinin 4 türü var. Bunlar da aşağıdaki görsel ile özetlenmişti.
+
+<img width="1680" height="1038" alt="IntroData_TypesOfDataAnalytics_en" src="https://github.com/user-attachments/assets/749e7a7c-6efa-4612-9202-646e87a7478a" />
