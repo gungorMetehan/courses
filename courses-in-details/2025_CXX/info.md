@@ -68,4 +68,18 @@ Eğitimde Data Analytics ile Data Science arasındaki farklılık şu şekilde a
 > Data analysts collect and examine large data sets to identify trends, forecasts, and data visualizations to tell a compelling story through actionable insights. These insights help businesses make informed decisions about business needs.
 Data scientists design and create new processes for data modeling. They use algorithms, predictive analytics, and statistical analysis. Data scientists have technical skills to arrange unstructured data and build their own methodologies to make predictions based on data trends.
 
+<img width="1485" height="900" alt="DSWorld_DataAnalyticsVSDataScience_en" src="https://github.com/user-attachments/assets/830b18a5-22b3-4d3d-b17a-3777670cb092" />
 
+Veri Bilimi için üç farklı yaygın metodolojiden bahsediliyordu:
+
+* Cross-Industry Standard Process for Data Mining (CRISP-DM)
+* Knowledge Discovery in Database (KDD)
+* Sample, Explore, Modify, Model, Assess (SEMMA).
+
+Bu metodojilerin özet görselleri sırasıyla aşağıdadır.
+
+![DSWorld_CRISPDM_en](https://github.com/user-attachments/assets/ebcbb2bc-f190-4f51-982d-3771ee69a928)
+
+![DSWorld_KDD_en](https://github.com/user-attachments/assets/344deb43-13e7-4bde-9abd-5c023ea8ae35)
+
+![DSWorld_SEMMA_en](https://github.com/user-attachments/assets/725781db-7af0-4bde-ba0d-03d967d02cdb)
