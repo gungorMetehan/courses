@@ -111,3 +111,30 @@ In which step of the data science methodology would you create a chart to view, 
   + b) Data representation and transformation
   + c) Business understanding
   + d) Data exploration and preparation
+
+
+**MODULE 5: Quiz**
+
+**Question 1**
+
+Which of the following statements is correct about a data science team?
+  + a) A data scientist is responsible for understanding the business problem.
+  + b) A data science team has a common goal to extract valuable insights from data to answer business problems. *
+  + c) A data scientist is responsible for managing the team’s data “pipeline”.
+  + d) A data science team can change roles and responsibilities depending on the data science project.
+
+**Question 2**
+
+Which job role collects, cleans, and analyzes large amounts of data to identify trends and find patterns to communicate in visualizations and presentations?
+  + a) Data visualizer
+  + b) Data engineer
+  + c) Data analyst *
+  + d) Data scientist
+
+**Question 3**
+
+Which job role uses statistics, machine learning, and data models to find patterns and predict outcomes?
+  + a) Data engineer
+  + b) Data visualizer
+  + c) Data scientist *
+  + d) Data analyst
