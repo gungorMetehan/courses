@@ -41,7 +41,47 @@
      * Final assessment (15 Questions)
      * Course completion
 2. Data Science in Our World
-   
+   + Course Overview
+     * About this course
+     * Earn a credential!
+     * Course design   
+   + MODULE 1: WHAT IS DATA SCIENCE?
+     * About this module
+     * Defining data science
+     * Be curious
+     * Science, technology, and data are connected
+     * Data analytics versus data science
+     * Module 1 Quiz
+   + MODULE 2: DATA SCIENCE METHODOLOGIES
+     * About this module
+     * What is a methodology?
+     * Example 1: CRISP-DM
+     * Example 2: KDD
+     * Example 3: SEMMA
+     * Putting it together
+     * Module 2 Quiz
+   + MODULE 3: FOLLOW A DATA SCIENCE METHODOLOGY
+     * About this module
+     * Methodology overview
+     * Step 1: Business understanding
+     * Step 2: Data exploration and preparation
+     * Step 3: Data representation and transformation
+     * Step 4: Data visualization and presentation
+     * Step 5: Train data models
+     * Step 6: Deploy data models
+     * Module 3 Quiz
+   + MODULE 4: APPLYING DATA SCIENCE TO OUR WORLD
+     * About this module
+     * Data scientists have changed almost every industry
+   + MODULE 5: DATA SCIENCE IS A TEAM SPORT
+     * About this module
+     * The data science project team
+     * Module 5 Quiz
+   + SUMMARY AND FINAL ASSESSMENT
+     * You've come so far!
+     * Key point to remember
+     * Final assessment (XX Questions)
+     * Course completion
 
 # Bilgi
 **Eğitim Dili:** İngilizce
