@@ -91,7 +91,7 @@
 **Organizasyon:** IBM SkillsBuild
 
 # Notlar
-Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor.
+Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım.
 
 Eğitim 1: Introduction to Data Concepts
 Eğitimde genellikle metinler üzerinden ilerleniyordu. Güzel bir tasarım yapılmış.
