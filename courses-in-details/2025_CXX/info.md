@@ -52,9 +52,20 @@
 
 # Notlar
 Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor.
+
 Eğitim 1: Introduction to Data Concepts
 Eğitimde genellikle metinler üzerinden ilerleniyordu. Güzel bir tasarım yapılmış.
 Büyük Veri kavramı 5V ile açıklandı. Bu V'ler sık sık değişiyor. Daha önceleri 4V ve 6V olarak da görmüştüm. Eğitimdeki 5V şunlar idi: (1) Volume, (2) Variety, (3) Velocity, (4) Veracity ve (5) Value.
 Bunun yanı sıra bilindiği üzere veri analitiğinin 4 türü var. Bunlar da aşağıdaki görsel ile özetlenmişti.
 
 <img width="1680" height="1038" alt="IntroData_TypesOfDataAnalytics_en" src="https://github.com/user-attachments/assets/749e7a7c-6efa-4612-9202-646e87a7478a" />
+
+Eğitim 2: Data Science in Our World
+Eğitimde Data Analytics ile Data Science arasındaki farklılık şu şekilde açıklanmakta:
+
+> The main difference between data analytics and data science is in what data analysts and data scientists do with data, meaning the tactics used. Here is how they are differentiated:
+
+> Data analysts collect and examine large data sets to identify trends, forecasts, and data visualizations to tell a compelling story through actionable insights. These insights help businesses make informed decisions about business needs.
+Data scientists design and create new processes for data modeling. They use algorithms, predictive analytics, and statistical analysis. Data scientists have technical skills to arrange unstructured data and build their own methodologies to make predictions based on data trends.
+
+
