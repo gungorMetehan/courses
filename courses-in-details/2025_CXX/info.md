@@ -123,3 +123,59 @@ Bu metodojilerin özet görselleri sırasıyla aşağıdadır.
 ![DSWorld_KDD_en](https://github.com/user-attachments/assets/344deb43-13e7-4bde-9abd-5c023ea8ae35)
 
 ![DSWorld_SEMMA_en](https://github.com/user-attachments/assets/725781db-7af0-4bde-ba0d-03d967d02cdb)
+
+Bir veri bilimi takımındaki (data science team) roller şu şekilde açıklanmıştır.
+
+**JOSEPH, DATA ANALYST**
+
+**What does Joseph do?**
+
+Joseph is in the office day-to-day, working with structured data in databases and using statistics.
+
+* Joseph’s primary responsibility is to collect, organize, clean, and analyze mountains of data. He uses standardized methods and tools from his company to identify trends, find patterns, and make forecasts.
+* Joseph knows the industry and uses his knowledge of the business.
+* Joseph communicates findings and depicts insights to the business sponsors using data visualizations and presentations to help them make decisions and drive action.
+
+**What are helpful characteristics and skills to have?**
+
+* Methodical 
+* Critical thinker
+* Skilled in data transformation tools to clean data and visualization tools to show insights
+* Great communicator with presentation skills
+
+**ZHANNA, DATA SCIENCIST**
+
+**What does Zhanna do?**
+
+Zhanna is in the office and involved from the beginning to the end of a project.
+
+* Given the business problem, Zhanna develops a hypothesis to research and find hidden patterns.
+* Zhanna works with data from many sources. Depending on the project, she might travel or go into the field to collect data and measurements. The data can be unstructured or structured, if it has already been “wrangled”. 
+* Zhanna conducts experiments to build custom models using the company’s data science methodology and tools. 
+* Zhanna uses techniques such as machine learning to build and train models to predict future outcomes. 
+* Overall, Zhanna transforms data into knowledge to produce actionable insights that can be used to improve future outcomes.
+
+**What are helpful characteristics and skills to have?**
+
+* Always curious and wondering “why?”
+* Research and scientific mindset
+* Problem solver
+* Math, statistics, and machine learning
+* Skilled in data analytics tools
+
+**RONNIE, DATA ENGINEER**
+
+**What does Ronnie do?**
+
+Ronnie manages the data infrastructure for the company. His primary responsibility is to set up systems and processes for the data analysts and data scientists to use and rely on when working with data.
+
+* Ronnie understands the flow of data and transforms large volumes of raw data into usable “pipelines” for projects. 
+* Ronnie is focused on tools and uses advanced programming techniques.
+* Ronnie works on the steps to test and deploy machine-learning models into production for the company. 
+
+**What are helpful characteristics and skills to have?**
+
+* Tech savvy 
+* Math, statistics, machine learning
+* Skilled in programming
+* Familiar with infrastructure architecture (IA)
