@@ -33,3 +33,29 @@ Select the three that apply.
   + Artificial intelligence (AI) [X]
   + The scientific method [X]
   + d) Data science is a multidisciplinary approach to extract insights from large volumes of data. *
+
+
+**MODULE 2: Quiz**
+
+**Question 1**
+
+Which of the following is a common characteristic that you can conclude across the CRISP-DM, KDD, and SEMMA data science methodologies?
+  + a) They can all focus on project requirements from a business perspective.
+  + b) They can all be iterative. *
+  + c) They can all focus on unstructured data.
+  + d) They can all integrate with machine learning.
+
+**Question 2**
+
+Fill in the blank. The first phase of the __________ methodology is to understand the project objective from a business perspective and define the data problem to solve.
+  + a) SEMMA
+  + b) KDD
+  + c) CRISP-DM *
+
+**Question 3**
+
+Which of the following statements is correct about CRISP-DM, KDD, and SEMMA?
+  + a) CRISP-DM, KDD, and SEMMA use data deployment methods that are best suited for unstructured data.
+  + b) CRISP-DM, KDD, and SEMMA are dependent on a company’s technologies and tools.
+  + c) CRISP-DM, KDD, and SEMMA are industry-recognized methodologies that offer a set of techniques to follow in sequence once.
+  + d) CRISP-DM, KDD, and SEMMA use data mining methods that are best suited for structured data. *
