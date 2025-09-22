@@ -93,3 +93,48 @@ In which step of the data science methodology is the team working?
    + d) Data visualization and presentation
    + e) Business understanding
    + f) Data representation and transformation *
+
+**Question 11**
+
+Why is the CRISP-DM methodology unique, compared to other data science methodologies?
+   + a) The CRISP-DM methodology begins with a business understanding phase to understand the project objective from a business perspective and define the data problem to solve. *
+   + b) The CRISP-DM methodology is iterative, meaning that its phases can be repeated.
+   + c) The CRISP-DM methodology begins with a visualization understanding and preparation phase to understand the data requirements from a business perspective and define the data problem to solve.
+   + d) The CRISP-DM methodology uses data mining methods that are best suited for unstructured data.
+
+**Question 12**
+
+Which of the following statements about the application of data science is NOT correct?
+   + a) Data science projects are happening across industries like e-commerce, retail, banking, healthcare, technology, and much more.
+   + b) Data science projects are happening in organizations working to address global challenges like climate change, poverty, inequity, and terrorism.
+   + c) Data science projects are happening primarily in finance-related industries that focus on revenue growth and increasing profits. *
+   + d) Data science projects are happening around the world to solve problems and help innovations.
+
+**Question 13**
+
+You are looking for a job and notice there are job postings in the fields of data analytics and data science.
+How are these fields the same?
+   + a) They both use algorithms, predictive analytics, and statistical analysis.
+   + b) They both work with data and share the same goal, which is to translate data analysis into business intelligence. *
+   + c) They both use the same tactics and strategies when working with data.
+   + d) They both design and create new processes for data modeling.
+
+**Question 14**
+
+Mario conducts experiments and uses techniques such as machine learning to build and train data models to find patterns, predict outcomes, and produce actionable insights for businesses.
+What is Mario’s role?
+   + a) Data engineer
+   + b) Data scientist *
+   + c) Data analyst
+
+**Question 15**
+
+You are considering a career in the field of data science and want to make sure you have the knowledge needed.  
+Which of the following areas is NOT part of data science?
+   + Storytelling
+   + Math and statistics
+   + Programming
+   + Linguistics [X]
+   + Analytics
+   + The scientific method
+   + Artificial intelligence (AI)
