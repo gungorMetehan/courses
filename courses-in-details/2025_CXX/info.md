@@ -80,7 +80,7 @@
    + SUMMARY AND FINAL ASSESSMENT
      * You've come so far!
      * Key point to remember
-     * Final assessment (XX Questions)
+     * Final assessment (15 Questions)
      * Course completion
 
 # Bilgi
