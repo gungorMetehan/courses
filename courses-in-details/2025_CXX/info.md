@@ -127,14 +127,16 @@
 # Notlar
 Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım. Üçüncü eğitimi (Overview of Data Tools and Languages) 23 Eylül 2025 tarihinde tamamladım.
 
-Eğitim 1: Introduction to Data Concepts
+**Eğitim 1: Introduction to Data Concepts**
+
 Eğitimde genellikle metinler üzerinden ilerleniyordu. Güzel bir tasarım yapılmış.
 Büyük Veri kavramı 5V ile açıklandı. Bu V'ler sık sık değişiyor. Daha önceleri 4V ve 6V olarak da görmüştüm. Eğitimdeki 5V şunlar idi: (1) Volume, (2) Variety, (3) Velocity, (4) Veracity ve (5) Value.
 Bunun yanı sıra bilindiği üzere veri analitiğinin 4 türü var. Bunlar da aşağıdaki görsel ile özetlenmişti.
 
 <img width="1680" height="1038" alt="IntroData_TypesOfDataAnalytics_en" src="https://github.com/user-attachments/assets/749e7a7c-6efa-4612-9202-646e87a7478a" />
 
-Eğitim 2: Data Science in Our World
+**Eğitim 2: Data Science in Our World**
+
 Eğitimde Data Analytics ile Data Science arasındaki farklılık şu şekilde açıklanmakta:
 
 > The main difference between data analytics and data science is in what data analysts and data scientists do with data, meaning the tactics used. Here is how they are differentiated:
@@ -214,5 +216,6 @@ Ronnie manages the data infrastructure for the company. His primary responsibili
 * Skilled in programming
 * Familiar with infrastructure architecture (IA)
 
-Eğitim 3: Overview of Data Tools and Languages
+**Eğitim 3: Overview of Data Tools and Languages**
+
 Bu eğitim, diğerlerine göre biraz zayıftı. Programlama dilleri özenli seçilmemişti ve quiz'lerde ve final assessment'ta bunlar sıkıntı oldu. Mesela eğitimde SQL bir programlama dili değil şeklinde ifade edilirken, sınavda bunun programlama dili olduğu söyleniyordu. R'dan kursun ana içeriğinde bahsedilmiyordu. Onun yerine Google Sheets, Microsoft Excel ve Tableau daha fazla yer kaplıyordu. Bu programlar ile ilgili ifadeler gereğinden fazla net idi. Sınav sorularında hangi yazılım ile görselleştirme ya da analiz yapılamayacağı soruluyordu mesela. Hemen hemen her program ile bunlar temel düzeyde de olsa yapılabilir.
