@@ -86,3 +86,41 @@ Which data science tool could Tamika use for these capabilities?
   + b) Tableau *
   + c) IBM Watson Studio
   + d) Python
+
+
+**MODULE 3: Quiz**
+
+**Question 1**
+
+Complete the sentence. If you are a beginner who is determining a data analysis or visualization tool for a new project, you can consider how _______________ the tool is to meet the project’s needs and how easy it is for you to _______________.
+  + a) challenging, download
+  + b) flexible, learn *
+  + c) flexible, upload
+  + d) difficult, learn
+
+**Question 2**
+
+Which of the following data science tools can a business use to analyze data?
+Select the two that apply.
+  + IBM Watson Studio [X]
+  + Tableau
+  + Google Sheets
+  + Python [X]
+
+**Question 3**
+
+Which of the following data science tools can a business use to collect and clean data?
+Select the three that apply.
+  + Tableau
+  + Microsoft Excel [X]
+  + SQL (and NoSQL) [X]
+  + Google Sheets [X]
+
+**Question 4**
+
+Which of the following factors can a business consider when selecting data science tools for projects? 
+Select all that apply.
+  + The available budget [X]
+  + The percentage of data that can be deleted
+  + The job roles who will use the tools [X]
+  + The type and volume of data to analyze [X]
