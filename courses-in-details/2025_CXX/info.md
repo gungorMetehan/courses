@@ -82,6 +82,40 @@
      * Key point to remember
      * Final assessment (15 Questions)
      * Course completion
+3. Overview of Data Tools and Languages
+   + Course Overview
+     * About this course
+     * Earn a credential!
+     * Course design   
+   + MODULE 1: THE VALUE OF OPEN SOURCE
+     * About this module
+     * What does it mean to be "open"?
+     * Why is open source software valuable?
+     * Git and GitHub
+     * Module 1 Quiz
+   + MODULE 2: TOOLS TO ANALYZE AND VISUALIZE DATA
+     * About this module
+     * Overview
+     * Microsoft Excel
+     * Google Sheets
+     * Structured Query Language
+     * Python
+     * IBM Watson Studio
+     * Tableau
+     * Matplotlib
+     * And many more tools
+     * Module 2 Quiz
+   + MODULE 3: IS THERE A RIGHT TOOL?
+     * About this module
+     * Your toolbox
+     * How does a business select tools?
+     * How can you pick a tool to learn?
+     * Module 3 Quiz
+   + SUMMARY AND FINAL ASSESSMENT
+     * You've come so far!
+     * Key point to remember
+     * Final assessment (15 Questions)
+     * Course completion
 
 # Bilgi
 **Eğitim Dili:** İngilizce
@@ -91,7 +125,7 @@
 **Organizasyon:** IBM SkillsBuild
 
 # Notlar
-Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım.
+Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım. Üçüncü eğitimi (Overview of Data Tools and Languages) 23 Eylül 2025 tarihinde tamamladım.
 
 Eğitim 1: Introduction to Data Concepts
 Eğitimde genellikle metinler üzerinden ilerleniyordu. Güzel bir tasarım yapılmış.
@@ -179,3 +213,6 @@ Ronnie manages the data infrastructure for the company. His primary responsibili
 * Math, statistics, machine learning
 * Skilled in programming
 * Familiar with infrastructure architecture (IA)
+
+Eğitim 3: Overview of Data Tools and Languages
+Bu eğitim, diğerlerine göre biraz zayıftı. Programlama dilleri özenli seçilmemişti ve quiz'lerde ve final assessment'ta bunlar sıkıntı oldu. Mesela eğitimde SQL bir programlama dili değil şeklinde ifade edilirken, sınavda bunun programlama dili olduğu söyleniyordu. R'dan kursun ana içeriğinde bahsedilmiyordu. Onun yerine Google Sheets, Microsoft Excel ve Tableau daha fazla yer kaplıyordu. Bu programlar ile ilgili ifadeler gereğinden fazla net idi. Sınav sorularında hangi yazılım ile görselleştirme ya da analiz yapılamayacağı soruluyordu mesela. Hemen hemen her program ile bunlar temel düzeyde de olsa yapılabilir.
