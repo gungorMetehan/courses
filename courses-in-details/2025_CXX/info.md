@@ -116,6 +116,38 @@
      * Key point to remember
      * Final assessment (15 Questions)
      * Course completion
+4. Clean, Refine, and Visualize Data with IBM Watson Studio
+   + Course Overview
+     * About this course
+     * Earn a credential!
+     * Course design   
+   + MODULE 1: INTRODUCING IBM WATSON STUDIO
+     * About this module
+     * IBM Watson Studio
+     * Data refinery tool
+   + MODULE 2: START YOUR PROJECT
+     * About this module
+     * Your data science project
+     * Simulation: Start a project and upload data
+     * Module 2 Quiz
+   + MODULE 3: UNDERSTAND AND CLEAN THE DATA
+     * About this module
+     * Simulation: Understand and clean the data
+     * Module 3 Quiz
+   + MODULE 4: REFINE THE DATA
+     * About this module
+     * Simulation: Refine the data
+     * Module 4 Quiz
+   + MODULE 5: VISUALIZE THE DATA
+     * About this module
+     * Simulation: Visualize the data
+     * Conclude insights for your project
+     * Module 5 Quiz
+   + SUMMARY
+     * You've come so far!
+     * Key points to remember
+     * Explore more!
+     * Course completion
 
 # Bilgi
 **Eğitim Dili:** İngilizce
@@ -125,7 +157,7 @@
 **Organizasyon:** IBM SkillsBuild
 
 # Notlar
-Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım. Üçüncü eğitimi (Overview of Data Tools and Languages) 23 Eylül 2025 tarihinde tamamladım.
+Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım. Üçüncü eğitimi (Overview of Data Tools and Languages) 23 Eylül 2025 tarihinde tamamladım. Dördüncü eğitimi (Clean, Refine, and Visualize Data with IBM Watson Studio) 24 Eylül 2025 tarihinde tamamladım.
 
 **Eğitim 1: Introduction to Data Concepts**
 
