@@ -251,3 +251,7 @@ Ronnie manages the data infrastructure for the company. His primary responsibili
 **Eğitim 3: Overview of Data Tools and Languages**
 
 Bu eğitim, diğerlerine göre biraz zayıftı. Programlama dilleri özenli seçilmemişti ve quiz'lerde ve final assessment'ta bunlar sıkıntı oldu. Mesela eğitimde SQL bir programlama dili değil şeklinde ifade edilirken, sınavda bunun programlama dili olduğu söyleniyordu. R'dan kursun ana içeriğinde bahsedilmiyordu. Onun yerine Google Sheets, Microsoft Excel ve Tableau daha fazla yer kaplıyordu. Bu programlar ile ilgili ifadeler gereğinden fazla net idi. Sınav sorularında hangi yazılım ile görselleştirme ya da analiz yapılamayacağı soruluyordu mesela. Hemen hemen her program ile bunlar temel düzeyde de olsa yapılabilir.
+
+**Eğitim 4: Clean, Refine, and Visualize Data with IBM Watson Studio**
+
+Sonunda bir final assessment olmayan ilk eğitim bu idi. Eğitim genel olarak oldukça temel bilgileri vererek aslında IBM Watson Studio isimli IDE'nin tanıtımını yapıyordu. Simülasyon kısımlarında görseller üzerinden projenin nasıl oluşturulacağı, verinin nasıl inceleneceği ve düzenleneceği, veri görselleştirmenin nasıl yapıldığı gösteriliyordu. Eminim daha detaylı işlemler yapılabiliyordur. Bu IDE'de özellikle Data sekmesindeki görüntü biraz Power BI'ın tasarımını anımsattı bana.
