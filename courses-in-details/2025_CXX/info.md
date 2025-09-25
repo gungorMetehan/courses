@@ -148,6 +148,36 @@
      * Key points to remember
      * Explore more!
      * Course completion
+5. Your Future in Data: The Job Landscape
+   + Course Overview
+     * About this course
+     * Earn a credential!
+     * Course design   
+   + MODULE 1: THE JOB MARKET AND FUTURE
+     * About this module
+     * The global demand
+     * What is the future of data analytics?
+   + MODULE 2: WORKING WITH DATA
+     * About this module
+     * Data helps all industries
+     * Data analyst responsibilities
+     * Data scientist responsibilities
+     * Hear from Armen, who works with data
+     * Hear from DeShaun, who works with data
+   + MODULE 3: WHAT EMPLOYERS ARE LOOKING FOR
+     * About this module
+     * Skills to build and tools to know
+     * Good things to keep in mind
+     * Helpful characteristics
+   + MODULE 4: HELPFUL RESOURCES AND GETTING STARTED
+     * About this module
+     * Resources to explore
+     * Getting started in the field
+   + SUMMARY AND FINAL ASSESSMENT
+     * You've come so far!
+     * Key point to remember
+     * Final assessment (5 Questions)
+     * Course completion
 
 # Bilgi
 **Eğitim Dili:** İngilizce
@@ -157,7 +187,7 @@
 **Organizasyon:** IBM SkillsBuild
 
 # Notlar
-Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım. Üçüncü eğitimi (Overview of Data Tools and Languages) 23 Eylül 2025 tarihinde tamamladım. Dördüncü eğitimi (Clean, Refine, and Visualize Data with IBM Watson Studio) 24 Eylül 2025 tarihinde tamamladım.
+Eğitimi IBM SkillsBuild üzerinden çevrim içi olarak aldım. Farklı bir sistemleri var. Aslında bu bir patika. Eğitimi tamamlamak için 5 farklı eğitimi tamamlamak gerekiyor. İlk eğitimi (Introduction to Data Concepts) 19 Eylül 2025 tarihinde tamamladım. İkinci eğitimi (Data Science in Our World) 22 Eylül 2025 tarihinde tamamladım. Üçüncü eğitimi (Overview of Data Tools and Languages) 23 Eylül 2025 tarihinde tamamladım. Dördüncü eğitimi (Clean, Refine, and Visualize Data with IBM Watson Studio) 24 Eylül 2025 tarihinde tamamladım. Beşinci ve son eğitimi (Your Future in Data: The Job Landscape) 25 Eylül 2025 tarihinde aldım.
 
 **Eğitim 1: Introduction to Data Concepts**
 
