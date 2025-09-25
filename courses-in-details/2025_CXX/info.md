@@ -271,3 +271,20 @@ The World Economic Forum (WEF) placed data and artificial intelligence (AI) in t
 > Glassdoor compiled a list of the 50 Best Jobs in America for 2022 based on earning potential, job satisfaction, and job openings. Data scientist is ranked #3. Data engineer is ranked #7.
 – [Glassdoor](https://www.glassdoor.com/Award/index.htm)
 
+Data analyst'in ve data scientist'in sahip olması gereken yetkinlikler şu şekilde açıklanıyordu.
+
+**Data Analyst**
+
+Baseline skills: Data analysis, Data science, Data quality
+
+Specialized skills: Communication skills, Teamwork and collaboration, Problem solving, Research, Detail-oriented, Writing
+
+Tool skills: Microsoft Excel, SQL, Python, Tableau, Microsoft Power BI
+
+**Data Scientist**
+
+Baseline skills: Data analysis, Data science, Machine learning, Predictive Models, Artificial Intelligence (AI)
+
+Specialized skills: Communication skills, Teamwork and Collaboration, Problem Solving, Research, Creativity, Writing, Presentation Skills
+
+Tools skills: SQL, Python, Tableau, Additional tools and programming expertise, such as R, Apache Hadoop, TensorFlow, Scala, Scikit-learn, and more
