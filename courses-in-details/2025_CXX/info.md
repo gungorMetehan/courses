@@ -255,3 +255,19 @@ Bu eğitim, diğerlerine göre biraz zayıftı. Programlama dilleri özenli seç
 **Eğitim 4: Clean, Refine, and Visualize Data with IBM Watson Studio**
 
 Sonunda bir final assessment olmayan ilk eğitim bu idi. Eğitim genel olarak oldukça temel bilgileri vererek aslında IBM Watson Studio isimli IDE'nin tanıtımını yapıyordu. Simülasyon kısımlarında görseller üzerinden projenin nasıl oluşturulacağı, verinin nasıl inceleneceği ve düzenleneceği, veri görselleştirmenin nasıl yapıldığı gösteriliyordu. Eminim daha detaylı işlemler yapılabiliyordur. Bu IDE'de özellikle Data sekmesindeki görüntü biraz Power BI'ın tasarımını anımsattı bana.
+
+**Eğitim 5: Your Future in Data: The Job Landscape**
+
+> Eğitimde veri analitiği ve veri bilimi üzerine işlerden bahsediliyordu. Birkaç rapor çıktısı paylaşımı ile başladı.
+The World Economic Forum (WEF) placed data and artificial intelligence (AI) in the seven top-growing professions in 2020, with a growth rate of 41%. That is the highest growth rate of all the professions mentioned in the report.
+– [Jobs of Tomorrow report by WEF](http://www3.weforum.org/docs/WEF_Jobs_of_Tomorrow_2020.pdf)
+
+> Data analytics jobs are projected to grow 33% from 2020 to 2030 in the United States, which is much faster than the average for all occupations.
+– [US Bureau of Labor Statistics](https://www.bls.gov/ooh/math/mathematicians-and-statisticians.htm)
+
+> Analytics Insight has forecast that by 2025, there will be 137,630 data science job openings in India, rising from 62,793 jobs in 2020.
+– [Analytics Insight](https://www.analyticsinsight.net/analytics-insight-predicts-137630-new-jobs-in-data-science-in-india-by-2025?utm_source=skillsbuild.org)
+
+> Glassdoor compiled a list of the 50 Best Jobs in America for 2022 based on earning potential, job satisfaction, and job openings. Data scientist is ranked #3. Data engineer is ranked #7.
+– [Glassdoor](https://www.glassdoor.com/Award/index.htm)
+
