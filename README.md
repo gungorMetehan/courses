@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Data Fundamentals                                          | IBM SkillsBuild                     |
 | 2025     | Data Manipulation in R                                     | CodeSignal                          |
 | 2025     | Artificial Intelligence and Copyright                      | The Defense Industry Academy        |
 | 2025     | Data Science Project Cycle                                 | Turkcell                            |
