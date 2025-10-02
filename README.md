@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Data Cleaning and Preprocessing with R                     | CodeSignal                          |
 | 2025     | Statistical Analysis with R                                | CodeSignal                          |
 | 2025     | Data Fundamentals                                          | IBM SkillsBuild                     |
 | 2025     | Data Manipulation in R                                     | CodeSignal                          |
