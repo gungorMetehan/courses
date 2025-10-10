@@ -108,4 +108,19 @@
 **Organizasyon:** The Data Ink Lab (Udemy)
 
 # Notlar
-...
+Eğitimde gerçekten çok değerli bilgiler vardı. Temel bir ggplot2 ya da Grammar of Graphics tanıtımından öte ileri düzey uygulamaların da yer aldığı bir eğitimdi. Kullanıcı tanımlı bir temanın (theme) nasıl oluşturulacağı, choropleth harita görselleştirmesi, facet_grid() ve facet_wrap() fonksiyonları arasındaki fark gibi konular da yer alıyordu.
+
+En ilgi çekici bilgilerden biri şu idi: Aşağıdaki komutları çalıştırarak basit bir görselleştirme yapalım.
+```
+p <- ggplot(mtcars, aes(x = mpg, y = hp)) + geom_point() + geom_smooth()
+p
+```
+Eldeki grafiğe yakından bakmak için x ekseninde sınırlar belirlenebilir. Aşağıdaki gibi bir kod çalıştırılabileceğini biliyoruz. Ancak bu doğru bir zoom-in yöntemi değil. Çünkü bu yöntemde aslında aralığa girmeyen veri noktaları görmezden geliniyor.
+```
+p + scale_x_continuous(limits = c(15, 20))
+```
+Oysa aşağıdaki gibi x eksenindeki limitler belirlenirse, istenildiği şekli ile grafiğe bir yaklaşma söz konusu olacak idi.
+```
+p + coord_cartesian(xlim = c(15, 20))
+```
+Kısacası, grafiği yakınlaştırmak için `coord_cartesian()` fonksiyonu `xlim` veya `ylim` argümanları ile birlikte kullanılmalı.
