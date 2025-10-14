@@ -38,3 +38,14 @@ Eğitim, yüksek stresli durumlarda kişisel karar verme süreçlerine odaklanı
 * Sonuçları Görselleştirme: Kararların uzun vadeli etkilerini öngörerek daha düşünceli seçimler yapabilirsiniz.
 * Direnci Güçlendirmek: Derin nefes alma, pozitif bir zihin durumu, gerçekçi hedefler belirleme gibi teknikler direnci artırabilir.
 * İlişkileri Güçlendirmek: Destekleyici bir ağ kurmak, stresi hafifletmede faydalıdır.
+
+**Types of Decision-Making**
+1) Strategic: Big-picture choices
+2) Tactical: More focused and short-term
+3) Operational: Day-to-day choices
+
+**Types of Stress**
+1) Acute Stress: Short-term
+2) Chronic Stress: Long-term
+3) Episodic Acute Stress: Frequently experiences acute stress
+4) Eustress: Positive form of stress
