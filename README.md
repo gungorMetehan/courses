@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Hypothesis Testing in R                                    | CodeSignal                          |
 | 2025     | Decision-Making in High-Stress Situations                  | Finnse Academy (Udemy)              |
 | 2025     | Advanced Data Transformation Techniques                    | CodeSignal                          |
 | 2025     | Data Cleaning and Preprocessing with R                     | CodeSignal                          |
