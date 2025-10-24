@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                         |           **Organization**          |
 |:--------:|------------------------------------------------------------|-------------------------------------|
+| 2025     | Statistics for Data Science and Business Analysis          | 365 Careers (Udemy)                 |
 | 2025     | Data Visualization with ggplot2                            | CodeSignal                          |
 | 2025     | Hypothesis Testing in R                                    | CodeSignal                          |
 | 2025     | Decision-Making in High-Stress Situations                  | Finnse Academy (Udemy)              |
