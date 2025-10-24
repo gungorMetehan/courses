@@ -33,3 +33,11 @@
 **Organizasyon:** 365 Careers
 
 # Notlar
+Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı ile çevrim içi olarak 23 Ekim 2025 tarihinde tamamladım. Eğitim eğlenceli bir şekilde kurgulanmıştı. Epey yatırım yapılmıştı animasyonlara. Oldukça geniş bir konu kapsamı vardı <bkz: info.md>.
+Eğitmen, özellikle istatistiğe giriş 101 kapsamındaki tüm konuları Excel belgeleri üzerinde hazırlamıştı ve ilgili formüllerin nasıl uygulandığını gösterdi. Temel düzeydeki biri için oldukça geliştirici bir eğitimdi. Dikkatimi çeken bir iki kısım ise şunlar oldu:
+
+<img width="1022" height="493" alt="sst_ssr_sse" src="https://github.com/user-attachments/assets/7442c9e5-8397-4d83-897e-118fcd81a883" />
+
+<img width="1132" height="524" alt="OLS_assumptions" src="https://github.com/user-attachments/assets/9ad505d9-0180-4817-bbd1-928b2dd9c3c5" />
+
+Adjusted R-squared neyi adjust ediyor?: Bağımlı değişkeni açıklamada kullanılan bağımsız değişkenlerin sayısının artması durumunu. Bağımsız değişken sayısı arttıkça adjusted R^2'nin kullanılması daha uygun olacaktır.
