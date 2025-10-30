@@ -101,6 +101,55 @@
   + Test for the mean. Independent samples (Part 2) [Video, 4 min]
   + Quiz 24: Test for the mean. Independent samples (Part 2)
   + Test for the mean. Independent samples (Part 2) [Text, 1 min]
+* Section 12: Practical example: hypothesis testing
+  + Practical example: hypothesis testing [Video, 7 min]
+  + Practical example: hypothesis testing [Text, 1 min]
+* Section 13: The fundamentals of regression analysis
+  + Introduction to regression analysis [Video, 1 min]
+  + Quiz 25: Introduction
+  + Correlation and causation [Video, 4 min]
+  + Quiz 26: Correlation and causation
+  + The linear regression model made easy [Video, 6 min]
+  + Quiz 27: The linear regression model
+  + What is the difference between correlation and regression? [Video, 2 min]
+  + Quiz 28: Correlation vs regression
+  + A geometrical representation of the linear regression model [Video, 1 min]
+  + Quiz 29: A geometrical representation of the linear regression model
+  + A practical example - Reinforced learning [Video, 6 min]
+* Section 14: Subtleties of regression analysis
+  + Decomposing the linear regression model - understanding its nuts and bolts [Video, 4 min]
+  + Quiz 30: Decomposition
+  + What is R-squared and how does it help us? [Video, 5 min]
+  + Quiz 31: R-squared
+  + The ordinary least squares setting and its practical applications [Video, 2 min]
+  + Quiz 32: The ordinary least squares setting and its practical applications
+  + Studying regression tables [Video, 5 min]
+  + Quiz 33: Studying regression tables
+  + Regression tables. Exercise [Text, 1 min]
+  + The multiple linear regression model [Video, 3 min]
+  + Quiz 34: The multiple linear regression model
+  + The adjusted R-squared [Video, 5 min]
+  + Quiz 35: The adjusted R-squared
+  + What does the F-statistic show us and why do we need to understand it? [Video, 2 min]
+* Section 15: Assumptions for linear regression analysis
+  + OLS assumptions [Video, 2 min]
+  + Quiz 36: OLS assumptions
+  + A1. Linearity [Video, 2 min]
+  + Quiz 37: A1. Linearity
+  + A2. No endogeneity [Video, 4 min]
+  + Quiz 38: A2. No endogeneity
+  + A3. Normality and homoscedasticity [Video, 6 min]
+  + Quiz 39: A3. Normality and homoscedasticity
+  + A4. No autocorrelation [Video, 3 min]
+  + Quiz 40: A4. No autocorrelation
+  + A5. No multicollinearity [Video, 3 min]
+  + Quiz 41: A5. No multicollinearity
+* Section 16: Dealing with categorical data
+  + Dummy variables [Video, 5 min]
+* Section 17: Practical example: regression analysis
+  + Practical example: regression analysis [Video, 14 min]
+* Section 18: Bonus lecture
+  + Bonus lecture: Next steps [Text, 1 min]
 
 # Bilgi
 **Eğitim Dili:** İngilizce
