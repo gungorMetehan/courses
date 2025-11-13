@@ -151,3 +151,42 @@ Why should we do a product strategy?
   + a) Yes, CEO, you are right.
   + b) Absolutely, we should do fast prototyping and rapid market experiments. However, some intensive strategy work will help guide our choice of prototypes and experiments, and ensure we are doing our testing in markets that have solid growth potential for us as a company. *
   + c) To ensure we are on the right path as a company, we should do full market, customer, and competitive analysis, determine our vision and objectives, and develop the strategy to get us there. Spending two or three monts doing this prior to any market testing will ensure we do market tests in areas that have high upside potential.
+
+
+**QUIZ 5: Prioritization and roadmapping**
+
+**Question 1:**
+
+"OKR" stands for...
+  + a) Objectives and key results *
+  + b) Obstacles keep receding
+  + c) Observation and key response
+  + d) Other known redundancies
+
+**Question 2:**
+
+Which of the following is true about roadmaps:
+  + a) Roadmaps can be an effective way of showing a product's evolution over time
+  + b) Roadmaps can sometimes cause issues when sales teams communicate them prematurely with clients, who then come to expect delivery of roadmap items
+  + c) Many of the product management tools - like Aha! and ProductPlan - offer the capability to create product roadmaps
+  + d) If we keep roadmaps high-level and linked to strategy, they can be a very effective communication and prioritization tool
+  + e) All of the above *
+
+**Question 3:**
+
+What are the advantages of a theme-based roadmap?
+  + a) A) We can make our marketing team more effective. They can craft communication, promotions, and launches all linked to our themes.
+  + b) B) This type of roadmap makes it easier to say "no" to unrelated additions to our roadmap. "That might be a good idea, but for the next quarter, we are focused on X theme, and don't want to get diverted from this."
+  + c) C) We can avoid committing to delivery dates, and my engineering team hates talking about dates.
+  + d) D) Theme-based roadmaps are easier to communicate to our teams than roadmaps with more random enhancements. People look at a theme-based roadmap, and they understand it (they get it)
+  + e) A, B, and D above *
+  + f) A, B, C, and D above.
+
+**Question 4:**
+
+(Challenge) Your VP Sales says, "I should set the development team's priorities. I talk to customers every day and know exactly what product enhancements we should make." Is this true?
+  + a) A) No. Sales teams have a bias toward the biggest accounts, while product teams look at all customer segments.
+  + b) B) No. Our product development priorities should be guided by multiple things: strategy, growth potential, profitability, market feedback, specific requests from our biggest clients, etc. Sales teams are often overly focused on requests from key clients.
+  + c) C) Yes. We should be sales-driven. How else can we survive as a company unless we make sales?
+  + d) A & B *
+  + e) A, B, & C above
