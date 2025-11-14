@@ -190,3 +190,79 @@ What are the advantages of a theme-based roadmap?
   + c) C) Yes. We should be sales-driven. How else can we survive as a company unless we make sales?
   + d) A & B *
   + e) A, B, & C above
+
+
+**QUIZ 6: Discovery and delivery**
+
+**Question 1:**
+
+If an executive comes by your desk with her favorite product enhancement idea, and requests that it be developed, one of the best responses is...
+  + a) Yes
+  + b) No
+  + c) Our roadmap is full, and we have no bandwidth for this.
+  + d) It's a good idea. We'll run it through our discovery process, and test market reaction. *
+
+**Question 2:**
+
+For many companies, the ideal team to lead a discovery & delivery process consists of:
+  + a) Product manager, product designer, engineering lead *
+  + b) Product manager, marketing communications lead, sales representative
+  + c) Engineering lead, quality assurance representative, technical support
+  + d) Product manager, client services manager, finance representative
+
+**Question 3:**
+
+Let's look back a few years for this question. The Ministry of Defense in Japan has organized a mass COVID vaccination site in Tokyo. You (and your product team) are responsible for the reservation site software. You are expecting more than 20,000 sign-ups in the first hour after the reservation site goes live. Which of the following is a good idea?
+  + a) You and your team should run multiple pre-release trials with Tokyo residents to ensure they understand how to navigate your site and make a vaccination appointment. For any areas where residents are having difficulty, you should make enhancements to your software, and test again. *
+  + b) You should get feedback on your reservation site software from a panel of university usability scientists. If you do this, there is really no need to test with Tokyo residents.
+  + c) To governor of Tokyo likes your software. Her vote of confidence is good enough to move forward, without testing with Tokyo residents.
+  + d) Your plan is to test your reservation software with a group of university students. If 100% of this group can successfully make an appointment, then you are confident there will be no issues when you roll this out to all Tokyo residents.
+
+**Question 4:**
+
+With software, what can we learn from product analytics? Select the answer that is **not** true.
+  + a) Daily active users, weekly active users, monthly active users
+  + b) How users go through our software to access key features ("flows")
+  + c) Why people love this product *
+  + d) How "sticky" our product is (how many people continue to use it over time)
+
+**Question 5:**
+
+(Challenge) A few years ago, inventor Tom Chi met with top Google executives to discuss early versions of Google Glass. At the meeting, there was a long debate on the color of the display text. Sergey Brin said "red" because red (as a low energy color) would produce less eyestrain, and because this was the color described in science fiction novels. Tom thought the whole discussion was ridiculous. Why?
+  + a) The discussion included lots of smart people, but did not include display specialists
+  + b) Rapid prototyping is a better way to find the answer. Debating people's experience with an uninvented invention is a "guess-a-thon" *
+  + c) Science fiction can never give us good insight for future inventions
+
+
+**QUIZ 7: Launch**
+
+**Question 1:**
+
+A very effective launch will...
+  + a) Help generate sales sooner than would have happened with a weaker launch
+  + b) Increase the total sales of a product over its lifetime versus a weaker launch
+  + c) Take significant upfront planning and coordination
+  + d) All of the above *
+
+**Question 2:**
+
+You should reach out to the press, and do a press release...
+  + a) As often as you can, including all feature enhancements
+  + b) With every new client you sign up
+  + c) When you have Priority 1 launches *
+
+**Question 3:**
+
+Technical support teams...
+  + a) Usually want to know everything that changes with your product, including bug fixes and minor feature enhancements *
+  + b) Only want to be informed when you have Priority 1 launches
+  + c) Don't mind being suprised by customer questions about a new product enhancement - even if the tech support teams have not been briefed on the change
+
+**Question 4:**
+
+(Challenge) Executives at technology companies often want to launch a product before it is ready. This is smart in some situations, but not the right move in other situations. You should avoid launching a product early if...
+  + a) A) You have existing sales that will be delayed as customers wait for the new product.
+  + b) B) Your technology could be quickly copied by competitors
+  + c) C) Your product is new-to-the-world
+  + d) A & B *
+  + e) A, B & C
