@@ -2,105 +2,105 @@
 
 ## Courses and Certificates
 
-| **Year** |                         **Course**                         |           **Organization**          |
-|:--------:|------------------------------------------------------------|-------------------------------------|
-| 2025     | Statistics for Data Science and Business Analysis          | 365 Careers (Udemy)                 |
-| 2025     | Data Visualization with ggplot2                            | CodeSignal                          |
-| 2025     | Hypothesis Testing in R                                    | CodeSignal                          |
-| 2025     | Decision-Making in High-Stress Situations                  | Finnse Academy (Udemy)              |
-| 2025     | Advanced Data Transformation Techniques                    | CodeSignal                          |
-| 2025     | Data Cleaning and Preprocessing with R                     | CodeSignal                          |
-| 2025     | Statistical Analysis with R                                | CodeSignal                          |
-| 2025     | Data Fundamentals                                          | IBM SkillsBuild                     |
-| 2025     | Data Manipulation in R                                     | CodeSignal                          |
-| 2025     | Artificial Intelligence and Copyright                      | The Defense Industry Academy        |
-| 2025     | Data Science Project Cycle                                 | Turkcell                            |
-| 2025     | Counterintelligence Training                               | The Defense Industry Academy        |
-| 2025     | Learn ggplot2 in R for Data Visualization                  | The Data Ink Lab (Udemy)            |
-| 2025     | Introduction to Microsoft Power BI                         | Turkish Aerospace Academy           |
-| 2025     | Machine Learning Applications with Python                  | BTK Akademi                         |
-| 2025     | Machine Learning                                           | Turkish Aerospace Academy           |
-| 2025     | Data Manipulation 101 & 201                                | Turkcell                            |
-| 2025     | Introduction to Cloud Technologies with Google Drive       | Bilgeİş                             |
-| 2025     | Presenting Data                                            | HP LIFE                             |
-| 2025     | Data Science & Analytics                                   | HP LIFE                             |
-| 2025     | Programming Tools: Git & Github                            | Kampüs 365 & Enocta                 |
-| 2025     | Workforce Analytics for HR                                 | Human Capital Management Institute  |
-| 2025     | Remote Working and Productivity                            | Boğaziçi Institute                  |
-| 2025     | Data Analysis                                              | The Defense Industry Academy        |
-| 2025     | Basic Python Programming                                   | upGrad                              |
-| 2025     | Training & Development Analytics                           | BNCInsight                          |
-| 2025     | Data Analytics & Data Science for Executives               | DMSA Training (Udemy)               |
-| 2025     | Mastering Data Visualization: Theory and Foundations       | The Data Ink Lab (Udemy)            |
-| 2025     | Mastering Data Visualization with R                        | Quality Gurus (Udemy)               |
-| 2024     | Leadership Base Supervisor Development Program             | Turkish Aerospace Academy           |
-| 2024     | Introduction to Data Science & AI 101                      | Turkcell                            |
-| 2024     | Data Preprocessing 101                                     | Turkcell                            |
-| 2024     | Data Literacy 101                                          | Turkcell                            |
-| 2024     | the Expert: Internal Trainer Development Program           | Turkish Aerospace Academy           |
-| 2024     | Leading Change and Change Management                       | Şapka Danışmanlık & Enocta          |
-| 2024     | Python for Software Engineers                              | Turkish Aerospace Academy           |
-| 2024     | Product Management 101                                     | Udemy                               |
-| 2024     | Introduction to Data Literacy                              | Sullivan Learning Group (Udemy)     |
-| 2023     | Building Dashboards with R Shiny                           | Yaşam Boyu Psikoloji                |
-| 2023     | Internal Trainer Development                               | Turkish Aerospace Academy           |
-| 2023     | Effective Presentation Techniques                          | Turkish Aerospace Academy           |
-| 2023     | Human Analytics and Business Intelligence Training         | TEGEP                               |
-| 2022     | Applied Psychometry with R Shiny                           | Yaşam Boyu Psikoloji                |
-| 2022     | Conducting an Effective Hiring Interview                   | Skillsoft                           |
-| 2022     | Sectoral Developments and Big Data                         | BAUGO & Enocta                      |
-| 2022     | Analyses of Mediator and Moderator Variables               | EPODDER                             |
-| 2022     | Agile Methods and Scrum Framework                          | Turkish Aerospace Academy           |
-| 2022     | Prof. Dr. Weiss - New Applications of IRT-Based CAT        | EPODDER                             |
-| 2022     | Data Analysis with R                                       | IDUSEM                              |
-| 2022     | Computerized Adaptive Testing: Theory & Practice           | TÜBİTAK & Boğaziçi University       |
-| 2021     | Scale Development and Adaptation                           | AYEUM                               |
-| 2021     | Structural Equation Modeling and CFA (LISREL)              | AYEUM                               |
-| 2021     | Data Privacy Fundamentals                                  | Northeastern University             |
-| 2021     | Introduction to Data Science                               | IBM                                 |
-| 2021     | Quantitative Methods                                       | University of Amsterdam             |
-| 2021     | Introduction to AI, Robotics and Data                      | Global AI Hub                       |
-| 2021     | Social Network Analysis Using R                            | Linkedin Learning                   |
-| 2021     | Data Science: R Basics                                     | Harvard University (HarvardX)       |
-| 2021     | Teaching Problem Solving in Math for Elementary Learners   | edWeb                               |
-| 2021     | Teamwork                                                   | Turkish Aerospace Academy           |
-| 2021     | Effective Communication Techniques                         | Turkish Aerospace Academy           |
-| 2020     | Remote Teaching Online                                     | Udemy                               |
-| 2020     | Recalculating Secondary-Level Math                         | edWeb                               |
-| 2020     | Assessment for Learning                                    | University of Illinois U-C          |
-| 2020     | Statistics for Data Science 101 & 201                      | Turkcell                            |
-| 2020     | Microsoft Excel: Beginner to Advanced                      | Udemy                               |
-| 2020     | Data Visualization in Excel: All Excel Charts & Graphs     | Start-Tech                          |
-| 2020     | Data Science Ethics                                        | University of Michigan              |
-| 2020     | Data Visualization with Tableau                            | Udemy                               |
-| 2020     | Data Science Math Skills                                   | Duke University                     |
-| 2020     | Modern R Programming                                       | Veri Bilimi Okulu                   |
-| 2019     | Introduction to Data Science                               | Veri Bilimi Okulu                   |
-| 2019     | Personality Analysis                                       | Global Institute                    |
-| 2019     | Introduction to Basic Programming                          | IIENSTITU                           |
-| 2016     | Social Media Literacy Trainer Training                     | Habitat Association & Microsoft     |
-| 2016     | Information Security                                       | Türk Telekom Academy                |
-| 2016     | Internet in Future                                         | Türk Telekom Academy                |
-| 2016     | Telecommunication Technologies                             | Türk Telekom Academy                |
-| 2016     | Storytelling in Speech                                     | Türk Telekom Academy                |
-| 2016     | Be the Coach of Your Life                                  | Türk Telekom Academy                |
-| 2016     | What is Written in the Notebooks of Successful People?     | Türk Telekom Academy                |
-| 2016     | Rythm Motivation Workshop                                  | M3 Works                            |
-| 2016     | Mobile Photography                                         | M3 Works                            |
-| 2016     | Erasmus+ Digital Timelines Project PDM Trainer Training    | Genç Yaşamin Sesleri Association    |
-| 2015     | English Language                                           | Samsun British Culture Schools      |
-| 2015     | Diction                                                    | Atakum Public Education Center      |
-| 2013     | Career Coaching                                            | Samsun Rotary Club                  |
-| 2013     | Life's Simpler with Internet Master Trainer Training       | Habitat Association & TTNET         |
-| 2012     | Building a CV                                              | Turkcell Akademi                    |
-| 2012     | Düşler Atölyesi Volunteer Training                         | TEGV Samsun EP                      |
-| 2011     | Okuyorum Oynuyorum Volunteer Training                      | TEGV Samsun EP                      |
-| 2010     | Design Your Future Trainer Training                        | Habitat Association & Microsoft     |
-| 2010     | Sales & Marketing                                          | Garanti Bonus Akademisi             |
-| 2010     | I Can Manage My Money                                      | Habitat Association & VISA          |
-| 2010     | Bilgi Benim İşim Volunteer Training                        | TEGV Samsun EP                      |
-| 2009     | Learning Approaches and Models                             | TEGV                                |
-| 2009     | Communication                                              | TEGV                                |
+| **Year** |                         **Course**                                       |           **Organization**          |
+|:--------:|--------------------------------------------------------------------------|-------------------------------------|
+| 2025     | Statistics for Data Science and Business Analysis                        | 365 Careers (Udemy)                 |
+| 2025     | Data Visualization with ggplot2                                          | CodeSignal                          |
+| 2025     | Hypothesis Testing in R                                                  | CodeSignal                          |
+| 2025     | Decision-Making in High-Stress Situations                                | Finnse Academy (Udemy)              |
+| 2025     | Advanced Data Transformation Techniques                                  | CodeSignal                          |
+| 2025     | Data Cleaning and Preprocessing with R                                   | CodeSignal                          |
+| 2025     | Statistical Analysis with R                                              | CodeSignal                          |
+| 2025     | Data Fundamentals                                                        | IBM SkillsBuild                     |
+| 2025     | Data Manipulation in R                                                   | CodeSignal                          |
+| 2025     | Artificial Intelligence and Copyright                                    | The Defense Industry Academy        |
+| 2025     | Data Science Project Cycle                                               | Turkcell                            |
+| 2025     | Counterintelligence Training                                             | The Defense Industry Academy        |
+| 2025     | Learn ggplot2 in R for Data Visualization                                | The Data Ink Lab (Udemy)            |
+| 2025     | Introduction to Microsoft Power BI                                       | Turkish Aerospace Academy           |
+| 2025     | Machine Learning Applications with Python                                | BTK Akademi                         |
+| 2025     | Machine Learning                                                         | Turkish Aerospace Academy           |
+| 2025     | Data Manipulation 101 & 201                                              | Turkcell                            |
+| 2025     | Introduction to Cloud Technologies with Google Drive                     | Bilgeİş                             |
+| 2025     | Presenting Data                                                          | HP LIFE                             |
+| 2025     | Data Science & Analytics                                                 | HP LIFE                             |
+| 2025     | Programming Tools: Git & Github                                          | Kampüs 365 & Enocta                 |
+| 2025     | Workforce Analytics for HR                                               | Human Capital Management Institute  |
+| 2025     | Remote Working and Productivity                                          | Boğaziçi Institute                  |
+| 2025     | Data Analysis                                                            | The Defense Industry Academy        |
+| 2025     | Basic Python Programming                                                 | upGrad                              |
+| 2025     | Training & Development Analytics                                         | BNCInsight                          |
+| 2025     | Data Analytics & Data Science for Executives                             | DMSA Training (Udemy)               |
+| 2025     | Mastering Data Visualization: Theory and Foundations                     | The Data Ink Lab (Udemy)            |
+| 2025     | Mastering Data Visualization with R                                      | Quality Gurus (Udemy)               |
+| 2024     | Leadership Base Supervisor Development Program                           | Turkish Aerospace Academy           |
+| 2024     | Introduction to Data Science & AI 101                                    | Turkcell                            |
+| 2024     | Data Preprocessing 101                                                   | Turkcell                            |
+| 2024     | Data Literacy 101                                                        | Turkcell                            |
+| 2024     | Expert in the Profession: Internal Trainer Development Program           | Turkish Aerospace Academy           |
+| 2024     | Leading Change and Change Management                                     | Şapka Danışmanlık & Enocta          |
+| 2024     | Python for Software Engineers                                            | Turkish Aerospace Academy           |
+| 2024     | Product Management 101                                                   | Udemy                               |
+| 2024     | Introduction to Data Literacy                                            | Sullivan Learning Group (Udemy)     |
+| 2023     | Building Dashboards with R Shiny                                         | Yaşam Boyu Psikoloji                |
+| 2023     | Internal Trainer Development                                             | Turkish Aerospace Academy           |
+| 2023     | Effective Presentation Techniques                                        | Turkish Aerospace Academy           |
+| 2023     | Human Analytics and Business Intelligence Training                       | TEGEP                               |
+| 2022     | Applied Psychometry with R Shiny                                         | Yaşam Boyu Psikoloji                |
+| 2022     | Conducting an Effective Hiring Interview                                 | Skillsoft                           |
+| 2022     | Sectoral Developments and Big Data                                       | BAUGO & Enocta                      |
+| 2022     | Analyses of Mediator and Moderator Variables                             | EPODDER                             |
+| 2022     | Agile Methods and Scrum Framework                                        | Turkish Aerospace Academy           |
+| 2022     | Prof. Dr. Weiss - New Applications of IRT-Based CAT                      | EPODDER                             |
+| 2022     | Data Analysis with R                                                     | IDUSEM                              |
+| 2022     | Computerized Adaptive Testing: Theory & Practice                         | TÜBİTAK & Boğaziçi University       |
+| 2021     | Scale Development and Adaptation                                         | AYEUM                               |
+| 2021     | Structural Equation Modeling and CFA (LISREL)                            | AYEUM                               |
+| 2021     | Data Privacy Fundamentals                                                | Northeastern University             |
+| 2021     | Introduction to Data Science                                             | IBM                                 |
+| 2021     | Quantitative Methods                                                     | University of Amsterdam             |
+| 2021     | Introduction to AI, Robotics and Data                                    | Global AI Hub                       |
+| 2021     | Social Network Analysis Using R                                          | Linkedin Learning                   |
+| 2021     | Data Science: R Basics                                                   | Harvard University (HarvardX)       |
+| 2021     | Teaching Problem Solving in Math for Elementary Learners                 | edWeb                               |
+| 2021     | Teamwork                                                                 | Turkish Aerospace Academy           |
+| 2021     | Effective Communication Techniques                                       | Turkish Aerospace Academy           |
+| 2020     | Remote Teaching Online                                                   | Udemy                               |
+| 2020     | Recalculating Secondary-Level Math                                       | edWeb                               |
+| 2020     | Assessment for Learning                                                  | University of Illinois U-C          |
+| 2020     | Statistics for Data Science 101 & 201                                    | Turkcell                            |
+| 2020     | Microsoft Excel: Beginner to Advanced                                    | Udemy                               |
+| 2020     | Data Visualization in Excel: All Excel Charts & Graphs                   | Start-Tech                          |
+| 2020     | Data Science Ethics                                                      | University of Michigan              |
+| 2020     | Data Visualization with Tableau                                          | Udemy                               |
+| 2020     | Data Science Math Skills                                                 | Duke University                     |
+| 2020     | Modern R Programming                                                     | Veri Bilimi Okulu                   |
+| 2019     | Introduction to Data Science                                             | Veri Bilimi Okulu                   |
+| 2019     | Personality Analysis                                                     | Global Institute                    |
+| 2019     | Introduction to Basic Programming                                        | IIENSTITU                           |
+| 2016     | Social Media Literacy Trainer Training                                   | Habitat Association & Microsoft     |
+| 2016     | Information Security                                                     | Türk Telekom Academy                |
+| 2016     | Internet in Future                                                       | Türk Telekom Academy                |
+| 2016     | Telecommunication Technologies                                           | Türk Telekom Academy                |
+| 2016     | Storytelling in Speech                                                   | Türk Telekom Academy                |
+| 2016     | Be the Coach of Your Life                                                | Türk Telekom Academy                |
+| 2016     | What is Written in the Notebooks of Successful People?                   | Türk Telekom Academy                |
+| 2016     | Rythm Motivation Workshop                                                | M3 Works                            |
+| 2016     | Mobile Photography                                                       | M3 Works                            |
+| 2016     | Erasmus+ Digital Timelines Project PDM Trainer Training                  | Genç Yaşamin Sesleri Association    |
+| 2015     | English Language                                                         | Samsun British Culture Schools      |
+| 2015     | Diction                                                                  | Atakum Public Education Center      |
+| 2013     | Career Coaching                                                          | Samsun Rotary Club                  |
+| 2013     | Life's Simpler with Internet Master Trainer Training                     | Habitat Association & TTNET         |
+| 2012     | Building a CV                                                            | Turkcell Akademi                    |
+| 2012     | Düşler Atölyesi Volunteer Training                                       | TEGV Samsun EP                      |
+| 2011     | Okuyorum Oynuyorum Volunteer Training                                    | TEGV Samsun EP                      |
+| 2010     | Design Your Future Trainer Training                                      | Habitat Association & Microsoft     |
+| 2010     | Sales & Marketing                                                        | Garanti Bonus Akademisi             |
+| 2010     | I Can Manage My Money                                                    | Habitat Association & VISA          |
+| 2010     | Bilgi Benim İşim Volunteer Training                                      | TEGV Samsun EP                      |
+| 2009     | Learning Approaches and Models                                           | TEGV                                |
+| 2009     | Communication                                                            | TEGV                                |
 
 ## University Courses
 
