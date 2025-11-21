@@ -266,3 +266,53 @@ Technical support teams...
   + c) C) Your product is new-to-the-world
   + d) A & B *
   + e) A, B & C
+
+
+**QUIZ 8: Positioning and communication**
+
+**Question 1:**
+
+Value propositions include all of the following, **except:**
+  + a) Our competitive differentation
+  + b) Customer needs and product benefits
+  + c) Our target customer
+  + d) How we will guide customers to our solutions, for example blog posts, websites, and eBooks *
+
+**Question 2:**
+
+Benefit trees can...
+  + a) Help clarify the relationship between different product benefits
+  + b) Be crafted from customer interviews where we ask a series of probing "why's" - for example, "why is that important to you?"
+  + c) Help guide messaging to different target customers within the same company
+  + d) All of the above *
+
+**Question 3:**
+
+<Challenge> Your marketing team created a persona for your product. However when you read it, you thought, "There is no customer in the world like this!" What is the problem?
+  + a) Marketing shouldn't be creating personas. Product managers should do these.
+  + b) There is no problem. A persona is a "stand-in" for a needs-based segment, so it might not feel like a real customer.
+  + c) This persona was created without deep customer insight. The marketing staff who wrote the persona may not have understood your target customer *
+
+
+**QUIZ 9: Pricing**
+
+**Question 1:**
+
+Most product managers...
+  + a) Spend too much time on pricing
+  + b) Spend too little time on pricing *
+  + c) Have Ph.D's in pricing
+
+**Question 2:**
+
+Which has a greater impact on a company's profitability?
+  + a) 1% increase in price *
+  + b) 1% reduction in fixed costs
+  + c) 1% reduction in variable costs
+
+**Question 3:**
+
+Which of the following is **not** true about value-based pricing?
+  + a) We have opportunities for higher profit margins
+  + b) Our pricing considers a customer's willingness to pay. Our costs might be $20, but customers are willing to pay us $100, so we will price at $100.
+  + c) With value-based pricing, we base our pricing primarily on competitor's pricing *
