@@ -349,3 +349,30 @@ You had promised your sales team that a new feature would be ready next month. H
   + b) If the deal is large and the new feature has some value to other clients, say "yes"
   + c) Since a contract has been signed, work to create the feature - but also work with the VP Sales and sales teams to clarify the rules around new features, specifically that every new feature must be pre-approved before any contracts are signed *
   + d) Just say "no". Your sales team is playing games, and you shouldn't play along. Schedule a training session with the sales team to explain the rules about new features
+
+
+**QUIZ 11: Sales channels**
+
+**Question 1:**
+
+How can sales channels add value to a product?
+  + a) Making purchase easy
+  + b) Adding complementary products
+  + c) Installing a product
+  + d) All of the above *
+
+**Question 2:**
+
+In Morocco, Toyota sells its cars through a network of dealers, and does not sell directly to customers.  Toyota does this for all the following reasons, **except:**
+  + a) It would take large amounts of capital for Toyota to establish fully-owned car retail stores in all of the countries it operates
+  + b) Toyota can leverage local market experts, rather than trying to develop this expertise in-house
+  + c) Toyota can enter new markets more quickly through partnerships
+  + d) Toyota is not really committed to markets in Africa, and sees sales there as strictly opportunistics *
+
+**Question 3:**
+
+Product managers can help sales channels succeed by all of the following, **except...**
+  + a) Sharing product value proposition and competitive positioning
+  + b) Providing sales tools like return-on-investment (ROI) calculators
+  + c) Providing product expertise for large enterprise deals
+  + d) Negotiating price with the customer *
