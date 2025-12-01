@@ -316,3 +316,36 @@ Which of the following is **not** true about value-based pricing?
   + a) We have opportunities for higher profit margins
   + b) Our pricing considers a customer's willingness to pay. Our costs might be $20, but customers are willing to pay us $100, so we will price at $100.
   + c) With value-based pricing, we base our pricing primarily on competitor's pricing *
+
+
+**QUIZ 10: Sales support**
+
+**Question 1:**
+
+Why do product managers and sales representatives sometimes misunderstand each other?
+  + a) Sales reps see the market with an individual client-by-client view, while product managers see market segments
+  + b) Sales reps often have a very near-term focus (especially meeting this quarter's sales targets), while product managers tend to take more of a mid to long-term view
+  + c) Sales reps often feel intense pressure to hit sales targets, while product managers may not feel this pressure as intensely
+  + d) All of the above *
+
+**Question 2:**
+
+We should regularly talk to sales representatives. Why?
+  + a) Since we don't talk to customers, we need to learn from our sales reps
+  + b) The sales team decides our future product roadmap, so we need to hear what they want
+  + c) We want to understand what sales representatives are hearing in the market, understand their sales issues, and hear what help they need. We also want to actively show our support for their work, and show we are listening *
+  + d) We are the primary people who demo our product, so we need to get the customer meeting schedule
+
+**Question 3:**
+
+You had promised your sales team that a new feature would be ready next month. However, in your sprint planning this week, it was clear that this feature will be delayed. What should you do?
+  + a) Nothing
+  + b) Let your sales team know *
+
+**Question 4:**
+
+(Challenge) Your London-based sales rep promised a new feature to a client to win a deal. The deal has been signed, and he's now asking you to deliver this feature in three months, as specified in the contract. You had no knowledge of this before the deal was signed. What should you do?
+  + a) If the deal is small and the new feature has little value to other clients, say "no"
+  + b) If the deal is large and the new feature has some value to other clients, say "yes"
+  + c) Since a contract has been signed, work to create the feature - but also work with the VP Sales and sales teams to clarify the rules around new features, specifically that every new feature must be pre-approved before any contracts are signed *
+  + d) Just say "no". Your sales team is playing games, and you shouldn't play along. Schedule a training session with the sales team to explain the rules about new features
