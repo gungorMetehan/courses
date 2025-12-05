@@ -1,15 +1,15 @@
 # İçerik
-* Introduction to relations databases
-* Mathematical background of the relational databases
-* Data definition and data manipulation with SQL
-* SQL keywords and functions for data manipulation
-* Querying relational tables with SQL
-* Subqueries
+* İlişkisel veritabanlarına giriş (Introduction to relational databases)
+* İlişkisel veritabanlarının matematiksel altyapısı (Mathematical background of the relational databases)
+* SQL kullanarak veri tanımlama ve veri işleme (Data definition and data manipulation with SQL)
+* Veri işlemek için kullanılan SQL söz dizimleri ve fonksiyonları (SQL keywords and functions for data manipulation)
+* SQL ile ilişkili tabloları sorgulamak (Querying relational tables with SQL)
+* Alt sorgular (Subqueries)
   
 # Bilgi
 **Eğitim Dili:** Türkçe
 
-**Eğitim Adı:** (Introduction to Relational Databases and SQL)
+**Eğitim Adı:** Introduction to Relational Databases and SQL
 
 **Eğitmen:** Özgür Bora Ergun
 
