@@ -17,7 +17,7 @@
 
 # Notlar
 Eğitim yüz yüze olarak 4-5 Aralık 2025 tarihlerinde iki gün olarak verildi. Genel itibarıyla temel matematiksel kavramlar ve veritabanı kavramları tanıtıldı. Ardından uygulama, hocanın hazırladığı veriler ile Microsoft Access üzerinden gerçekleştirildi. 
-Eğitim esnasında fark ettiğim, sorgu sonrasında gelen tabloyu sadece Run ederek değil `Ctrl + ,` ile de görmek mümkün (SQL View). Yine geriye (Datasheet View) `Ctrl + .` tuşu ile dönmek mümkün.
+Eğitim esnasında fark ettiğim, sorgu sonrasında gelen tabloyu sadece Run ederek değil `Ctrl + ,` ile de görmek mümkün (SQL View). Yine geriye (Datasheet View) `Ctrl + .` tuş kombinasyonu ile dönmek mümkün.
 Genel olarak uygulamalar (Customer, Department, Desk, Employee, Product, ProductModel ve Sales veri setleri vardı) temel fonksiyonlar ile gerçekleştirildi. Sıklıkla kullandıklarımız şunlardı:
 * SELECT
 * FROM
