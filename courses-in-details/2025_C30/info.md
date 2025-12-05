@@ -23,6 +23,6 @@
 **Organizasyon:** TUSAŞ Sağlık Merkezi
 
 # Notlar
-Eğitim yüz yüze olarak 19-20 Aralık 2025 tarihlerinde iki gün olarak verildi. Resmi bir İlkyardım Eğitimi. TUSAŞ Akademi eğitim kataloğunda TTC1556 koduyla kayıtlı. Eğitimi, sağlık merkezinde çalışan doktorlardan biri verdi. 
+Eğitim yüz yüze olarak 19-20 Kasım 2025 tarihlerinde iki gün olarak verildi. Resmi bir İlkyardım Eğitimi. TUSAŞ Akademi eğitim kataloğunda TTC1556 koduyla kayıtlı. Eğitimi, sağlık merkezinde çalışan doktorlardan biri verdi. 
 Eğitimde özellikle bazı uygulamaların akılda kalması önemli: Heimlich manevrası, RENTEK manevrası, şok pozisyonu, koma pozisyonu gibi.
-Eğitim sonrasında bir sınav uygulaması gerçekleştirilecek, sonuca göre katılımcılar İlkyardımcı Sertifikası alacaklarmış.
+Eğitim sonrasında bir sınav uygulaması gerçekleştirilecek, sonuca göre katılımcılar İlkyardımcı Sertifikası alacaklardı. 3 Aralık 2025 tarihinde de sınav gerçekleştirildi. Sınavda 40 çoktan seçmeli (4 seçenekli) soru vardı. Bu sınavda 34 ve daha fazla sayıda doğru yapanlar uygulamalı sınava alınıyordu.
