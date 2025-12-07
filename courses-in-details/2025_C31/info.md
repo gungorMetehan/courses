@@ -55,3 +55,14 @@
 **Eğitmen(ler):** Patrycja Hannagan & Kirill Eremenko
 
 # Notlar
+Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı üzerinden çevrim içi olarak aldım. 25 Kasım 2025 tarihinde tamamladım. İçerikte ilgimi çeken kısımlar oldu. Özellikle birbirinden farklı üç grup için veri görselleştirmede renk kullanımı örnekleri, benzer şekilde ikili ikili benzer olan dört farklı grup için dörtlü renk seçimi gibi konular aslında üzerinde durulabilecek konular.
+RGB ve CMYK arasındaki farklar ilgi çekiciydi.
+<img width="1092" height="699" alt="rgb_cmyk" src="https://github.com/user-attachments/assets/a67d97a7-fa45-48b4-9bd2-eb6d49fc7ad1" />
+
+Benzer şekilde Hue, Tint, Tone, Shade kavramları da ilgimi çekti. Ayrım çok net.
+<img width="1536" height="1339" alt="shade-tint-tone-difference" src="https://github.com/user-attachments/assets/5d1f07b4-5901-4758-b0e4-74c6c8f7a463" />
+
+Son olarak, eğitim genelde aşağıdaki color wheel üzerinden anlatıldı hep.
+<img width="1480" height="970" alt="color-wheel-with-primary-secondary-tertiary-colors" src="https://github.com/user-attachments/assets/de4c8448-310a-4e70-ae41-b19a5bb0977e" />
+
+Özetle, veri görselleştirmede renk seçiminde renk teorisine dayalı olarak seçim yapılabilir. Adobe Color ve Paletton gibi araçlardan bunun için yararlanılabilir.
