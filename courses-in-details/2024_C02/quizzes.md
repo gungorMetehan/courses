@@ -376,3 +376,69 @@ Product managers can help sales channels succeed by all of the following, **exce
   + b) Providing sales tools like return-on-investment (ROI) calculators
   + c) Providing product expertise for large enterprise deals
   + d) Negotiating price with the customer *
+
+
+**QUIZ 12: Product support**
+
+**Question 1:**
+
+As a product manager, the best approach to solve serious technical issues include all of the following, **except:**
+  + a) Work with the relevant teams to reach quick issue resolution
+  + b) Communicate broadly to your client services teams, sales teams, and executives, so that they know the status and feel confident the issue is getting resolved
+  + c) Try to solve the underlying process issues so that as a product manager, you don't need to be involved next time
+  + d) Tell your executives that you don't have time for this technical issue because you are working on a long-term product strategy *
+
+
+**QUIZ 13: Finding growth**
+
+**Question 1:**
+
+During the pandemic (Covid), Zoom grew from 10 million users to 300 million users, and went from $752 million annual recurring revenue (ARR) to $3.5 billion ARR, all within one year. OMG, how did they do this?
+  + a) A) Users were able to sign up, try the product, and then becoming playing subscribers without ever talking to a sales rep
+  + b) B) Users of Zoom introduced other people to Zoom by inviting them to meetings, helping the product go viral
+  + c) C) Zoom had no sales team
+  + d) D) Zoom got people to value fast. People found the application easy to use, and easy to get on video calls.
+  + e) All of the above
+  + f) A, B, and D above *
+
+**Question 2:**
+
+What is **not** true about product-led growth?
+  + a) Product-led growth companies get users to value fast in their products
+  + b) Slack is a product-led growth company
+  + c) If we are in banking or insurance or selling hardware, we can't use a product-led growth go-to-market model, and there is nothing to learn from product-led growth companies. *
+  + d) Many product-led growth companies make it easy for users to invite others and advocate for the product
+
+**Question 3:**
+
+In mature and declining markets...
+  + a) One way to maximize profits is to reduce price to gain market share
+  + b) Companies should invest heavily in finding new customers, for example with a big ad campaign
+  + c) Companies may consider a "harvest and exit" strategy, by raising prices and reducing marketing investments. *
+
+**Question 4:**
+
+In markets with rapid growth, good approaches include...
+  + a) Developing new sales channels
+  + b) Reaching out to new, untapped customer segments
+  + c) Expanding into new geographies
+  + d) All of the above *
+
+
+**QUIZ 14: Obsolescence**
+
+**Question 1:**
+
+Which of the following would make you hesitate about obsoleting a product...
+  + a) The product is not growing and generates very little revenue, but is critical component of a larger service used by a key enterprise account *
+  + b) The product takes significant time from the technical support team
+  + c) Purchases are very infrequent - maybe only one order every six months
+  + d) The product no longer fits the company strategy
+
+**Question 2:**
+
+Obsoleting a product is a pain.  Why bother?
+  + a) Obsoleting a product will probably increase your bonus
+  + b) You will get recognized and praised at a company all-employee meeting
+  + c) Obsoleting poorly performing, non-strategic products can free up your team's time to focus on higher value work *
+  + d) Long-time employees, who spent their early days working on these products, will welcome obsolescence.
