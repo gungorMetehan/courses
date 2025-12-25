@@ -5,7 +5,7 @@
 | **Year** |                         **Course**                                       |           **Organization**          |
 |:--------:|--------------------------------------------------------------------------|-------------------------------------|
 | 2025     | Colors for Data Science A-Z: Data Visualization Color Theory             | SuperDataScience Team (Udemy)       |
-| 2025     | First Aid (Valid for 2 Years)                                            | Turkish Aerospace Health Center     |
+| 2025     | First Aid (Valid for 3 Years)                                            | Turkish Aerospace Health Center     |
 | 2025     | Statistics for Data Science and Business Analysis                        | 365 Careers (Udemy)                 |
 | 2025     | Data Visualization with ggplot2                                          | CodeSignal                          |
 | 2025     | Hypothesis Testing in R                                                  | CodeSignal                          |
