@@ -29,9 +29,9 @@ Compare the areas of the following triangles. How much bigger is triangle B comp
 <img width="394" height="305" alt="img3" src="https://github.com/user-attachments/assets/4089992f-ac91-4658-b1f0-f2f76031b89d" />
 
   + a) B is 2 times the area of A.
-  + a) B is 5 times the area of A.
-  + a) B is 4 times the area of A. *
-  + a) B is 3 times the area of A.
+  + b) B is 5 times the area of A.
+  + c) B is 4 times the area of A. *
+  + d) B is 3 times the area of A.
 
 **Question 4:**
 
@@ -55,3 +55,27 @@ All the following squares are shaded in purple. Can you tell which one of the sq
   + b) Square B4 *
   + c) Square A3
   + d) Square D5
+
+
+**QUIZ 2: Identify the Elementary Perceptual Tasks**
+
+**Question 1:**
+
+What elementary perceptual tasks are we doing primarily when decoding a Pie Chart?
+  + a) Angle + Area *
+  + b) Length
+  + c) Direction
+  + d) Curvature
+
+**Question 2:**
+
+What elementary perceptual tasks do we need to do to decode this bubble plot?
+  + a) Area + Color
+  + b) Position in a common scale + Area + Color *
+  + c) Direction + Area + Color
+
+**Question 3:**
+
+Which one of these graphs is less complex (it involves elementary perceptual tasks higher in the ranking)?
+  + a) The left one, the Pie Chart.
+  + b) The right one, the Bar Chart. *
