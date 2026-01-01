@@ -4,6 +4,8 @@
 
 | **Year** |                         **Course**                                       |           **Organization**          |
 |:--------:|--------------------------------------------------------------------------|-------------------------------------|
+| 2025     | Introduction to Relational Databases and SQL                             | Turkish Aerospace Academy           |
+| 2025     | Microsoft Excel from Beginning to Intermediate Level                     | Turkish Aerospace Academy           |
 | 2025     | Colors for Data Science A-Z: Data Visualization Color Theory             | SuperDataScience Team (Udemy)       |
 | 2025     | First Aid (Valid for 3 Years)                                            | Turkish Aerospace Health Center     |
 | 2025     | Statistics for Data Science and Business Analysis                        | 365 Careers (Udemy)                 |
