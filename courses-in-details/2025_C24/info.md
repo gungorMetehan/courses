@@ -34,7 +34,7 @@
 **Organizasyon:** CodeSignal
 
 # Notlar
-Eğitimi çevrim içi olarak aldım ve 2 Ekim 2025 tarihinde tamamladım. Sanıyorum, içeriği etkinlikler ile verme amacı vardı sistemin. Çok kısa metin anlatımlar (isteyenler için aynı metnin video anlatımı da vardı) yapıldıktan sonra hemen kodlama pratiklerine geçiliyordu, datacamp gibi.
+Eğitimi çevrim içi olarak aldım ve 2 Ekim 2025 tarihinde tamamladım. Sanıyorum, içeriği etkinlikler ile verme amacı vardı sistemin. Çok kısa metin anlatımlar (isteyenler için aynı metnin video anlatımı da vardı) yapıldıktan sonra hemen kodlama pratiklerine geçiliyordu, datacamp gibi. Bu eğitim 6 eğitimden oluşan **Data Analysis 101 with R** isimli bir patikanın üçüncü eğitimi idi.
 Kodlama ödevleri de basitti. Eğitim adını tam karşılamıyordu içerik kısacası. 
 Bir de kodlama pratiklerinde, Cosmo isimli bir yapay zeka robotu (köpek şeklinde) yardım ediyordu. Ancak onun da bir enerji sınırı vardı. Tek seferde doğru ya da yanlış en fazla 5 pratik yapılabiliyordu. Belki de bu nedenle eğitim içeriği eğitim adını kapsayamayacak şekilde tasarlanmak zorunda kalmıştı.
 
