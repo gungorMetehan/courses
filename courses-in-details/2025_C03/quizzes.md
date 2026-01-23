@@ -72,3 +72,51 @@ Artificial Intelligence is…
 
 **Question 1**
 
+
+
+
+
+**SECTION 4**
+
+**QUIZ 11: Data & Concept Drift**
+
+**Question 1**
+
+Concept drift refers to the statistical properties of the target variable, which the model is trying to predict, changing over time in unforeseen ways.
+  + a) True *
+  + b) False
+
+**Question 2**
+
+COVID-19 is an example of…
+  + a) Sudden drift *
+  + b) Gradual drift
+  + c) Incremental drift
+
+**Question 3**
+
+Seasonal changes are an example of…
+  + a) Sudden drift
+  + b) Reoccuring drift *
+  + c) Incremental drift
+
+
+
+
+
+**SECTION 6**
+
+**QUIZ 14: Analytics Zen**
+
+**Question 1**
+
+Which of the following is not a principle of analytics zen?
+  + a) Decision-useful
+  + b) Technology specific *
+  + c) Data quality
+
+**Question 2**
+
+Data visualization is an example of decision-useful analytics.
+  + a) True *
+  + b) False
