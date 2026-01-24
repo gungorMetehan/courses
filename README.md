@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                                       |           **Organization**          |
 |:--------:|--------------------------------------------------------------------------|-------------------------------------|
+| 2026     | Vector and Matrix Operations with R                                      | CodeSignal                          |
 | 2026     | Fundamentals of Vectors and Matrices with R                              | CodeSignal                          |
 | 2025     | Introduction to Relational Databases and SQL                             | Turkish Aerospace Academy           |
 | 2025     | Microsoft Excel from Beginning to Intermediate Level                     | Turkish Aerospace Academy           |
