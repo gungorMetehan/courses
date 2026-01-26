@@ -72,11 +72,92 @@ Artificial Intelligence is…
 
 **Question 1**
 
+Which of the following is an example of Diagnostic Analytics?
+  + a) Logistic Regression
+  + b) Computer Vision
+  + c) Detective Analysis *
+
+**Question 2**
+
+Which of the following is an example of Predictive Analytics?
+  + a) Random Testing
+  + b) Detective Analysis
+  + c) Cluster Data *
+
+**Question 3**
+
+Which of the following is an example of Prescriptive Analytics?
+  + a) Natural Language Processing *
+  + b) Financial Statements
+  + c) Logistic Regression
 
 
+**SECTION 3**
+
+**QUIZ 6: How to Perform Data Science**
+
+**Question 1**
+
+Algorithms are able to answer vague questions.
+  + a) True
+  + b) False *
+
+**Question 2**
+
+Our algorithms are going to learn from the data we have, therefore we do not need more data
+  + a) True
+  + b) False *
+
+**Question 3**
+
+Crisp-dm is the global standard for data mining.
+  + a) True *
+  + b) False
+
+
+**QUIZ 7: Data Team**
+
+**Question 1**
+
+A Data ___ cleans and wrangles large data sets
+  + a) Scientist
+  + b) Engineer *
+
+**Question 2**
+
+A Data ___ looks for data acquisition opportunities and new datasets to bring onto their platforms
+  + a) Scientist
+  + b) Engineer *
+
+**Question 3**
+
+A Data ___ performs the four levels of analytics
+  + a) Scientist *
+  + b) Engineer
+
+
+**QUIZ 8: Data Visualization**
+
+**Question 1**
+
+Data visualization allows one to tell a data story
+  + a) True *
+  + b) False
+
+**Question 2**
+
+Using Anscombe’s Quartet, each dataset has the same summary statistics, and the datasets are clearly different and visually distinct.
+  + a) True *
+  + b) False
 
 
 **SECTION 4**
+
+**QUIZ 9: Data Across the Spectrum**
+
+
+**QUIZ 10: Data Monetization**
+
 
 **QUIZ 11: Data & Concept Drift**
 
@@ -101,7 +182,12 @@ Seasonal changes are an example of…
   + c) Incremental drift
 
 
+**SECTION 5**
 
+**QUIZ 12: High Frequency Data**
+
+
+**QUIZ 13: Alternative Data**
 
 
 **SECTION 6**
@@ -120,3 +206,28 @@ Which of the following is not a principle of analytics zen?
 Data visualization is an example of decision-useful analytics.
   + a) True *
   + b) False
+
+
+**SECTION 7**
+
+**QUIZ 15: AI Ethics**
+
+**Question 1**
+
+Does AI Ethics also cover data privacy?
+  + a) Yes *
+  + b) No
+
+**Question 2**
+
+Human over the loop refers to the type of control in which…
+  + a) The human maintains full control
+  + b) AI has full control
+  + c) The human can adjust parameters during the execution of the algorithm *
+
+**Question 3**
+
+Which type of control is best suited to high severity and probability of harm in terms of AI risk?
+  + a) Human in the loop *
+  + b) Human over the loop
+  + c) Human under the loop
