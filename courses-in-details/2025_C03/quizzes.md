@@ -155,8 +155,52 @@ Using Anscombe’s Quartet, each dataset has the same summary statistics, and th
 
 **QUIZ 9: Data Across the Spectrum**
 
+**Question 1**
+
+A company's data strategy is informed by its industry, competitive and regulatory environment and its overall strategy.
+  + a) True *
+  + b) False
+
+**Question 2**
+
+Which data strategy would a hospital most likely emphasize?
+  + a) Defensive *
+  + b) Offensive
+
+**Question 3**
+
+Which of the following is not a use of defensive analytics?
+  + a) Data quality and accessibility
+  + b) Ensuring regulations around data and analytics are adhered to
+  + c) Retaining existing clients *
+
+**Question 4**
+
+An example of ____ is helping business and client-facing teams ensure data is being used to drive value for clients and the business.
+  + a) Defensive
+  + b) Offensive *
+
 
 **QUIZ 10: Data Monetization**
+
+**Question 1**
+
+Cost saving is an example of ___ data monetization
+  + a) Internal *
+  + b) External
+
+**Question 2**
+
+Improved risk management is an example of ___ data monetisation
+  + a) Internal *
+  + b) External
+
+**Question 3**
+
+Which of the following is an example of external data monetisation?
+  + a) APIS
+  + b) Direct Monetization
+  + c) Both *
 
 
 **QUIZ 11: Data & Concept Drift**
@@ -186,8 +230,38 @@ Seasonal changes are an example of…
 
 **QUIZ 12: High Frequency Data**
 
+**Question 1**
+
+High frequency data is an example of nowcasting
+  + a) True *
+  + b) False
+
+**Question 2**
+
+All types of data can benefit from real-time analysis
+  + a) True
+  + b) False *
 
 **QUIZ 13: Alternative Data**
+
+**Question 1**
+
+An advantage of alternative data is that the bank relies on an external vendor to ensure the data is clean, accurate and complete.
+  + a) True
+  + b) False *
+
+**Question 2**
+
+Which of the following are examples of alternative data?
+  + a) Satellite imagery
+  + b) Geo-location data
+  + c) Both *
+
+**Question 3**
+
+Alternative data can provide a regulatory workaround for data that cannot be used for ethical reasons
+  + a) True *
+  + b) False
 
 
 **SECTION 6**
