@@ -78,7 +78,7 @@
 | 2020     | Microsoft Excel: Beginner to Advanced                                    | Udemy                               |
 | 2020     | Data Visualization in Excel: All Excel Charts & Graphs                   | Start-Tech                          |
 | 2020     | Data Science Ethics                                                      | University of Michigan              |
-| 2020     | Data Visualization with Tableau                                          | Udemy                               |
+| 2020     | Data Visualization & Data Analysis with Tableau                          | Udemy                               |
 | 2020     | Data Science Math Skills                                                 | Duke University                     |
 | 2020     | Modern R Programming                                                     | Veri Bilimi Okulu                   |
 | 2019     | Introduction to Data Science                                             | Veri Bilimi Okulu                   |
