@@ -31,6 +31,24 @@
 7. Bölüm 7: Formül Yapılarını Tekrar Edelim
    + Ödev 2: Basit Formülleri Tekrar Edelim
    + Ödev 3: EĞER (if) ve DÜŞEYARA (vlookup) Formüllerini Pekiştirelim
+8. Bölüm 8: Excel İle Profesyonel Olarak Çalışalım
+   + Profesyonel Çalışma Yol Haritamız [Video, 2 dk]
+   + Hücreler İle Kitabı Bozmadan Çalışma - Biçimlendirme [Video, 3 dk]
+   + Metni Sütunlara Dönüştürme [Video, 5 dk]
+   + Tablo Oluşturma ve Çalışma 1 [Video, 9 dk]
+   + Tablo Oluşturma ve Çalışma 1 [Video, 5 dk]
+   + Köprüleme - Yinelenenleri Kaldırma [Video, 5 dk]
+9. Bölüm 9: Profesyonel Denemeler
+   + Ödev 4: Profesyonel Denemeler
+10. Bölüm 10: İleri Düzey Uygulamalar
+   + PİVOT Nedir? Ne İçin Kullanılır? [Video, 16 dk]
+   + Grafikler İle Nasıl/Ne Yapabiliriz? [Video, 12 dk]
+   + Veri Doğrulama - İleri Düzey Programlama [Video, 13 dk]
+   + Tablo ve PİVOT Bağlantısı [Video, 3 dk]
+11. Bölüm 11: Genel Bilgi Ve Tanıtım Dokümanı
+   + Genel Bilgi Ve Tanıtım Dokümanı [Metin, 1 dk]
+   + GELİŞMİŞ - Kapsamlı Bir Şekilde Farklı Formüller Ve Detaylar [Metin, 1 dk]
+   + EXCEL'İN BAZI ÖNEMLİ İŞLEVLERİ ve PÜF NOKTALARI [Video, 13 dk]
 
 
 # Bilgi
