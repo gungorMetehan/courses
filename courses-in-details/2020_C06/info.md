@@ -49,6 +49,15 @@
    + Genel Bilgi Ve Tanıtım Dokümanı [Metin, 1 dk]
    + GELİŞMİŞ - Kapsamlı Bir Şekilde Farklı Formüller Ve Detaylar [Metin, 1 dk]
    + EXCEL'İN BAZI ÖNEMLİ İŞLEVLERİ ve PÜF NOKTALARI [Video, 13 dk]
+12. Bölüm 12: İleri Düzey Dokümanlar Oluşturalım
+   + YAPILACAKLAR LİSTESİ OLUŞTURMA (FORMÜL+GRAFİK) [Video, 19 dk]
+   + Ödev 5: Yapılacaklar Listesi Ödevi
+   + PERFORMANS TABLOSU OLUŞTURMA - 1 [Video, 11 dk]
+   + PERFORMANS TABLOSU OLUŞTURMA - 2 [Video, 7 dk]
+13. Bölüm 13: GENEL ÖDEV
+   + Ödev 6: Excel'in Geneli İle İlgili Bir Pratik Yapalım
+14. Bölüm 14: Final
+   + Bitiş [Video, 1 dk]
 
 
 # Bilgi
