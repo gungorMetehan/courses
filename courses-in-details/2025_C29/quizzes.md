@@ -352,3 +352,140 @@ What do we do when the p-value is lower than the level of significance?
 If we have a p-value of 0.001 and a significance level of 1% we reject the null hypothesis.
   + a) True *
   + b) False
+
+
+**QUIZ 24: Test for the mean. Independent samples (Part 2)**
+
+**Question 1:**
+
+As a rule of thumb, what t-score do researchers believe to be sufficiently significant for a T-test?
+  + a) 1.96
+  + b) 2 *
+  + c) 2.54
+  + d) 4
+
+
+**QUIZ 25: Introduction (Regression Analysis)**
+
+**Question 1:**
+
+Are you ready for regression analysis?
+  + a) Yes *
+  + b) No
+
+
+**QUIZ 26: Correlation and causation**
+
+**Question 1:**
+
+What does it mean if x and y have a positive correlation?
+  + a) An increase in x translates to a decrease in y.
+  + b) An increase in y translates to a decrease in x.
+  + c) The variables x and y tend to move in the same direction. *
+  + d) None of the above
+
+
+**QUIZ 27: The linear regression model**
+
+**Question 1:**
+
+You have an ice-cream shop. You noticed a relationship between the number of cones you order and the number of ice-creams you sell. Is this a suitable situation for regression analysis?
+  + a) Yes
+  + b) No *
+
+**Question 2:**
+
+You are trying to predict the amount of beer consumed in the US, depending on the state. Is this regression material?
+  + a) Yes *
+  + b) No
+
+
+**QUIZ 28: Correlation vs regression**
+
+**Question 1:**
+
+Which statement is **false**?
+  + a) Correlation does not imply causation.
+  + b) Correlation is symmetrical regarding both variables.
+  + c) Correlation could be represented as a line. *
+  + d) Correlation does not capture the direction of the causal relationship.
+
+
+**QUIZ 29: A geometrical representation of the linear regression model**
+
+**Question 1:**
+
+Assume you have the following sample regression: ŷ = 6 + Xi
+If we draw the regression line, what would be its slope?
+  + a) 1 *
+  + b) 6
+  + c) Xi
+  + d) None of the above
+
+
+**QUIZ 30: Decomposition**
+
+**Question 1:**
+
+Which of the following is true?
+  + a) SST=SSR+SSE *
+  + b) SSR=SST+SSE
+  + c) SSE=SST+SSR
+
+
+**QUIZ 31: R-squared**
+
+**Question 1:**
+
+SST = 1245, SSR = 945, SSE = 300. What is the R-squared of this regression?
+  + a) 0.24
+  + b) 0.52
+  + c) 0.76 *
+  + d) 0.87
+
+**Question 2:**
+
+The R-squared is a measure that: 
+  + a) measures how well your data fits the regression line.
+  + b) measures how well your regression line fits your data.
+  + c) measures how well your data fits your model.
+  + d) measures how well your model fits your data. *
+
+
+**QUIZ 32: The ordinary least squares setting and its practical applications**
+
+**Question 1:**
+
+Since OLS (Ordinary Least Squares) is simple enough to understand, why do advanced statisticians prefer using programming languages to solve regressions?
+  + a) Limitless capabilities and unmatched speed *
+  + b) Other software cannot compute so many calculations
+  + c) Huge datasets cannot be used in Excel
+  + d) None of the above
+
+
+**QUIZ 33: Studying regression tables**
+
+**Question 1:**
+
+What does a p-value of 0.503 suggest about the intercept coefficient?
+  + a) We can say that it is significantly different from 0
+  + b) We cannot say that it is significantly different from 0 *
+  + c) It is equal to 0.503
+  + d) None of the above
+
+**Question 2:**
+
+What does a p-value of 0.000 suggest about the coefficient (x)?
+  + a) It is significantly different from 0 *
+  + b) It is not significantly different from 0
+  + c) It does not tell us anything
+  + d) None of the above
+
+**Question 3:**
+
+Based on the regression table provided in the lecture, what is the predicted GPA of students with an SAT score of 1850?
+(Unlike in the lectures, this time assume that any coefficient with a p-value greater than 0.05 is not significantly different from 0)   
+  + a) 3.420
+  + b) 3.060
+  + c) 3.230
+  + d) 3.063 *
