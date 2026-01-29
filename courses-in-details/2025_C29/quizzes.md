@@ -141,3 +141,14 @@ Which of these is true about correlation and causality?
   + b) Correlation is an asymmetric relation (x affects y is different from y affects x)
   + c) Causality is an asymmetric relation. (x causes y is different from y causes x) *
   + d) None of the above
+
+
+**QUIZ 11: What is a distribution**
+
+**Question 1:**
+
+What is a distribution?
+  + a) A graph representing the probability of occurence of a variable.
+  + b) A graph representing the possible values of a variable and the probability of their occurence.
+  + c) A distribution is a function that shows the possible values for a variable and the probability of their occurence. *
+  + d) A distribution is a function that shows the probability of a variable.
