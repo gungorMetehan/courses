@@ -265,3 +265,90 @@ You want to test if the Obama administration issued fewer executive orders than 
   + b) H0: The Obama administration issued fewer executive orders than the Bush administration. ; H1: The Obama administration issued more executive orders than the Bush administration.
   + c) H0: The Obama administration issued at least as many executive orders as the Bush administration. ; H1: The Obama administration issued more executive orders than the Bush administration.
   + d) H0: The Obama administration issued at least as many executive orders as the Bush administration. ; H1: The Obama administration issued fewer executive orders than the Bush administration. *
+
+
+**QUIZ 21: Rejection region and significance level**
+
+**Question 1:**
+
+Which value is **NOT** typical when assigning a significance level?
+  + a) 0.05
+  + b) 0.01
+  + c) 0.5 *
+  + d) 0.1
+
+**Question 2:**
+
+If your test value falls into the rejection region:
+  + a) You will reject the test.
+  + b) You will reject the significance level.
+  + c) You will reject the alternative hypothesis.
+  + d) You will reject the null hypothesis. *
+
+
+**QUIZ 22: Type I error vs type II error**
+
+**Question 1:**
+
+Type II error is also known as:
+  + a) false error
+  + b) false negative *
+  + c) false positive
+  + d) it has no other name
+
+**Question 2:**
+
+Type I error or false positive comprises:
+  + a) accepting a null hypothesis that is true.
+  + b) rejecting a null hypothesis that is true. *
+  + c) accepting a null hypothesis that is false.
+  + d) rejecting a null hypothesis that is false.
+
+**Question 3:**
+
+What is another way to call the probability of rejecting a null hypothesis that is false?
+  + a) Type I error.
+  + b) Type II error.
+  + c) Type III error.
+  + d) Power of the test. *
+
+**Question 4:**
+
+You are taking a pregnancy test. The null hypothesis of this test is: I am not pregnant. In reality, you are not pregnant, but the test says you are. Which type of error occurred?
+  + a) No error was made.
+  + b) Both errors were made at the same time.
+  + c) Type I error *
+  + d) Type II error
+
+
+**QUIZ 23: p-value**
+
+**Question 1:**
+
+You have a z-score of 2.31. What is the p-value?
+  + a) 0.010
+  + b) 0.021
+  + c) none of those
+  + d) not enough information *
+
+**Question 2:**
+
+You have a z-score of 2.31 for a one-tailed test. What is the p-value?
+  + a) 0.010 *
+  + b) 0.021
+  + c) none of those
+  + d) not enough information
+
+**Question 3:**
+
+What do we do when the p-value is lower than the level of significance?
+  + a) Reject the null hypothesis *
+  + b) Accept the null hypothesis
+  + c) Neither reject, nor accept the null
+  + d) None of the above
+
+**Question 4:**
+
+If we have a p-value of 0.001 and a significance level of 1% we reject the null hypothesis.
+  + a) True *
+  + b) False
