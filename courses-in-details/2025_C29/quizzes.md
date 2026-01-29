@@ -152,3 +152,116 @@ What is a distribution?
   + b) A graph representing the possible values of a variable and the probability of their occurence.
   + c) A distribution is a function that shows the possible values for a variable and the probability of their occurence. *
   + d) A distribution is a function that shows the probability of a variable.
+
+
+**QUIZ 12: The Normal distribution**
+
+**Question 1:**
+
+Choose the **INCORRECT** answer. A Normal distribution is one of the most commonly used distribution types, because: 
+  + a) All variables can be represented by the Normal distribution. *
+  + b) Distributions of sample means with large enough sample sizes could be approximated to Normal.
+  + c) Computable statistics are elegant.
+  + d) Decisions based on Normal distribution insights have a good track record.
+
+
+**QUIZ 13: The standard normal distribution**
+
+**Question 1:**
+
+Imagine we have a variable X, which follows a Normal Distribution with a mean of 4 and a variance of 9. We want to standardize Z, so what formula do we use for the transformation?
+  + a) a) *
+  + b) b)
+  + c) c)
+  + d) d)
+
+
+**QUIZ 14: The central limit theorem**
+
+**Question 1:**
+
+Choose the **INCORRECT** answer about the central limit theorem.
+  + a) The means of the samples we extract will be closer to normally distributed if we extract more samples.
+  + b) The distribution of the sample means is expected to have a mean equal to the mean of the original dataset.
+  + c) The distribution of the sample means is expected to have a variance equal to the variance of the original dataset, divided by the sample size.
+  + d) The means of the samples we extract will be closer to normally distributed, the smaller the samples we extract. *
+
+
+**QUIZ 15: Standard error**
+
+**Question 1:**
+
+How does sample size (n) affect SE (Standard Error)?
+  + a) As sample size increases, so does SE.
+  + b) As sample size decreases, so does SE
+  + c) It doesn't.
+  + d) None of the above. *
+
+
+**QUIZ 16: Estimators and estimates**
+
+**Question 1:**
+
+You are given a dataset with a sample mean of 10. In this case, 10 is:
+  + a) a point estimator
+  + b) a point estimate *
+  + c) an interval estimator
+  + d) an interval estimate
+
+
+**QUIZ 17: Confidence intervals**
+
+**Question 1:**
+
+How is a confidence interval related to a point estimate?
+  + a) Whenever we can't calculate an interval, the confidence interval is equal to the point estimate.
+  + b) The point estimate is the starting point of the interval.
+  + c) The point estimate is the midpoint of the interval. *
+  + d) The point estimate is the ending point of the interval.
+
+
+**QUIZ 18: Student's T distribution**
+
+**Question 1:**
+
+The Student’s T distribution:
+  + a) Approximates the Normal distribution but has fatter tails. *
+  + b) Approximates the Normal distribution but has bigger probability.
+  + c) Approximates the Normal distribution only for big samples.
+  + d) Is a particular case of the Normal distribution.
+
+
+**QUIZ 19: Margin of error**
+
+**Question 1:**
+
+Which of the following would decrease the margin of error?
+  + a) A higher statistic and a higher sample size.
+  + b) A higher statistic and a higher standard deviation.
+  + c) A lower statistic and a higher standard deviation.
+  + d) A lower statistic and a higher sample size. *
+
+
+**QUIZ 20: Null vs alternative**
+
+**Question 1:**
+
+You own an ice-cream shop. You suspect you sell exactly as many ice-creams as your competitor, Gelatou. Gelatou sells 100 ice-creams per day. State the null and alternative hypotheses of the test that would answer your question:
+  + a) H0: The average number of ice-creams our shop sells is 100. ; H1: The average number of ice-creams our shop sells differs from 100. *
+  + b) H0: The average number of ice-creams our shop sells differs from 100. ; H1: The average number of ice-creams our shop sells is 100.
+
+**Question 2:**
+
+You want to check if your height is above average, compared to your classmates. State the null and alternative hypotheses of this test.
+  + a) H0: My height is higher or equal to the average height in the class. ; H1: My height is lower than the average height in the class.
+  + b) H0: My height is higher than the average height in the class. ; H1: My height is lower or equal to the average height in the class.
+  + c) H0: My height is lower or equal to the average height in the class. ; H1: My height is higher than the average height in the class. *
+  + d) H0: My height is lower than the average height in the class. ; H1: My height is higher or equal to the average height in the class.
+
+**Question 3:**
+
+You want to test if the Obama administration issued fewer executive orders than the Bush administration. State the null and alternative hypotheses of this test.
+  + a) H0: The Obama administration issued more executive orders than the Bush administration. ; H1: The Obama administration issued fewer executive orders than the Bush administration.
+  + b) H0: The Obama administration issued fewer executive orders than the Bush administration. ; H1: The Obama administration issued more executive orders than the Bush administration.
+  + c) H0: The Obama administration issued at least as many executive orders as the Bush administration. ; H1: The Obama administration issued more executive orders than the Bush administration.
+  + d) H0: The Obama administration issued at least as many executive orders as the Bush administration. ; H1: The Obama administration issued fewer executive orders than the Bush administration. *
