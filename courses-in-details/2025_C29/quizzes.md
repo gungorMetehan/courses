@@ -489,3 +489,115 @@ Based on the regression table provided in the lecture, what is the predicted GPA
   + b) 3.060
   + c) 3.230
   + d) 3.063 *
+
+
+**QUIZ 34: The multiple linear regression model**
+
+**Question 1:**
+
+Why do we prefer using a multiple linear regression model to a simple linear regression model?
+  + a) Easier to compute
+  + b) Having more independent variables makes the graphical representation clearer
+  + c) More realistic - things often depend on 2, 3, 10 or even more factors *
+  + d) None of the above
+
+
+**QUIZ 35: The adjusted R-squared**
+
+**Question 1:**
+
+The adjusted R-squared is a measure that:
+  + a) measures how well your model fits the data.
+  + b) measures how well your model fits the data but penalizes the excessive use of variables. *
+  + c) measures how well your model fits the data but penalizes excessive use of p-values.
+  + d) measures how well your data fits the model but penalizes the excessive use of
+
+**Question 2:**
+
+The adjusted R-squared is:
+  + a) usually bigger than the R-squared.
+  + b) usually smaller than the R-squared. *
+  + c) usually the same as the R-squared.
+  + d) incomparable to the R-squared.
+
+**Question 3:**
+
+What can you tell about a new parameter if adding it increases the R-squared but decreases adjusted R-squared?
+  + a) The variable improves our model
+  + b) The variable can be omitted since it holds no predictive power *
+  + c) It has a quadratic relationship with the dependent variable
+  + d) None of the above
+
+
+**QUIZ 36: OLS assumptions**
+
+**Question 1:**
+
+If a regression assumption is violated:
+  + a) Some things change.
+  + b) You cannot perform regression analysis.
+  + c) Performing regression analysis will yield an incorrect result. *
+  + d) It is no big deal.
+
+
+**QUIZ 37: A1. Linearity**
+
+**Question 1:**
+
+What should you do if you want to employ a linear regression but the relationship in your data is not linear?
+  + a) Not use it
+  + b) Ignore it and proceed with your analysis
+  + c) Transform it appropriately before using it *
+  + d) None of the above
+
+
+**QUIZ 38: A2. No endogeneity**
+
+**Question 1:**
+
+The easiest way to detect an omitted variable bias is through:
+  + a) the error term *
+  + b) the independent variables
+  + c) the dependent variable
+  + d) sophisticated software
+
+
+**QUIZ 39: A3. Normality and homoscedasticity**
+
+**Question 1:**
+
+What should you do if the data exhibits heteroscedasticity?
+  + a) Try to identify and remove outliers
+  + b) Try a log transformation
+  + c) Try to reduce bias by accounting for omitted variables
+  + d) All of the above *
+
+
+**QUIZ 40: A4. No autocorrelation**
+
+**Question 1:**
+
+Autocorrelation is not likely to be observed in:
+  + a) the series data.
+  + b) sample data.
+  + c) panel data.
+  + d) cross-sectional data. *
+
+**Question 2:**
+
+How do you fix autocorrelation when using a linear regression model?
+  + a) Try to identify and remove outliers
+  + b) Use log transformation
+  + c) Try to reduce bias by accounting for omitted variables
+  + d) None of the above *
+
+
+**QUIZ 41: A5. No multicollinearity**
+
+**Question 1:**
+
+No multicollinearity assumption is:
+  + a) easy to spot and easy to fix. *
+  + b) easy to spot but hard to fix.
+  + c) hard to spot but easy to fix.
+  + d) hard to spot and hard to fix.
