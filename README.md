@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                                       |           **Organization**          |
 |:--------:|--------------------------------------------------------------------------|-------------------------------------|
+| 2026     | Eigenvalues, Eigenvectors, and Diagonalization with R                    | CodeSignal                          |
 | 2026     | Applied Basic SPSS Training                                              | Udemy                               |
 | 2026     | Vector and Matrix Operations with R                                      | CodeSignal                          |
 | 2026     | Fundamentals of Vectors and Matrices with R                              | CodeSignal                          |
