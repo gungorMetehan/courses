@@ -89,10 +89,10 @@
 | 2016     | Social Media Literacy Trainer Training                                   | Habitat Association & Microsoft     |
 | 2016     | Information Security                                                     | Türk Telekom Academy                |
 | 2016     | Internet in Future                                                       | Türk Telekom Academy                |
-| 2016     | Telecommunication Technologies                                           | Türk Telekom Academy                |
-| 2016     | Storytelling in Speech                                                   | Türk Telekom Academy                |
 | 2016     | Be the Coach of Your Life                                                | Türk Telekom Academy                |
 | 2016     | What is Written in the Notebooks of Successful People?                   | Türk Telekom Academy                |
+| 2016     | Telecommunication Technologies                                           | Türk Telekom Academy                |
+| 2016     | Storytelling in Speech                                                   | Türk Telekom Academy                |
 | 2016     | Rythm Motivation Workshop                                                | M3 Works                            |
 | 2016     | Mobile Photography                                                       | M3 Works                            |
 | 2016     | Erasmus+ Digital Timelines Project PDM Trainer Training                  | Genç Yaşamin Sesleri Association    |
