@@ -64,3 +64,12 @@ SELECT
 FROM
   Customers WHERE Country NOT LIKE 'S_a%'
 ```
+
+Birbiri ile ilişkili iki tablodan bakarak adı Steven, soyadı Buchanan olan bir çalışanın karşıladığı satışlar listelenecektir.
+```
+SELECT
+*
+FROM 
+Orders LEFT JOIN Employees ON Orders.employeeid = Employees.employeeid
+WHERE Employees.FirstName = 'Steven' AND Employees.LastName = 'Buchanan'
+```
