@@ -31,6 +31,7 @@ Data source seçildikten sonra sorgu yazılarak veri getirtilebilir. Eğer bilin
 
 Kullanılan veri seti için ilk kullandığımız sorgu kodları şöyle bir şey idi.
 
+Customers veri setindeki ilk 5 satırı getirir.
 ```
 SELECT TOP 5
   Customers.CustomerID
@@ -46,4 +47,20 @@ SELECT TOP 5
   ,Customers.Fax
 FROM
   Customers
+```
+
+Customers veri setindeki Country değişkeninde yer alan 'Spain'i getirecektir (5 satır).
+```
+SELECT
+*
+FROM
+  Customers WHERE Country LIKE 'S_a%'
+```
+
+'Spain' dışındaki diğer ülkelerin olduğu satırlar gelecektir.
+```
+SELECT
+*
+FROM
+  Customers WHERE Country NOT LIKE 'S_a%'
 ```
