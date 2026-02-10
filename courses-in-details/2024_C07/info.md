@@ -35,4 +35,4 @@
 **Organizasyon:** Turkcell Geleceği Yazanlar
 
 # Notlar
-Eğitim genel olarak video anlatımlar üzerinden kurgulanmıştı. Öncelikle bir teorik anlatım, ardından uygulama yapılıyordu. Uygulamaların tümü Python ile gerçekleştirildi.
+Eğitim genel olarak video anlatımlar üzerinden kurgulanmıştı. Öncelikle bir teorik anlatım, ardından uygulama yapılıyordu. Uygulamaların tümü Python ile gerçekleştirildi. Eğitimi çevrim içi olarak 6 Aralık 2024 tarihinde tamamladım.
