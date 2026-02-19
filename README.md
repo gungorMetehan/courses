@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                                       |           **Organization**          |
 |:--------:|--------------------------------------------------------------------------|-------------------------------------|
+| 2026     | AI for Beginners                                                         | HP LIFE                             |
 | 2026     | Report Design with Microsoft Report Builder                              | Turkish Aerospace Academy           |
 | 2026     | Eigenvalues, Eigenvectors, and Diagonalization with R                    | CodeSignal                          |
 | 2026     | Applied Basic SPSS Training                                              | Udemy                               |
