@@ -24,6 +24,8 @@
 
 **Eğitim Adı:** Decision-Making in High-Stress Situations
 
+**Eğitmen:** Dr. Eduardo Aponte
+
 **Organizasyon:** Finnse Academy (Udemy)
 
 # Notlar
