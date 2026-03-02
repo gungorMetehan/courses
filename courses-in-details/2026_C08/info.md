@@ -1,0 +1,37 @@
+# İçerik
+* Section 0: undefined
+  + Course Overview: Leadership Skills [Video, 2 min]
+* Section 1: Leadership Skills Training
+  + Leadership Excellence & Vision (Part 1) [Video, 14 min]
+  + Leadership Excellence & Vision (Part 2) [Video, 14 min]
+  + Quiz 1: Leadership Excellence & Vision
+  + Courage & Integrity [Video, 15 min]
+  + Quiz 2: Courage & Integrity
+  + Communication & Visible Commitment (Part 1) [Video, 14 min]
+  + Communication & Visible Commitment (Part 2) [Video, 8 min]
+  + Quiz 3: Communication & Visible Commitment
+  + Attention to Individuals & Teamwork (Part 1) [Video, 17 min]
+  + Attention to Individuals & Teamwork (Part 2) [Video, 15 min]
+  + Attention to Individuals & Teamwork (Part 3) [Video, 15 min]
+  + Quiz 4: Attention to Individuals & Teamwork
+
+# Bilgi
+**Eğitim Dili:** İngilizce
+
+**Eğitim Adı:** Leadership Skills Training: Become an Inspiring Leader!
+
+**Eğitmen:** Tony Hunt
+
+**Organizasyon:** Lecturio GmbH
+
+# Notlar
+Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı ile çevrim içi olarak aldım.
+Eğitimde geçmişteki 'management' anlayışının bugün için yeterli olmayacağı, çünkü yetkinliklerin çok hızlı bir şekilde değiştiği, bir liderin bunların hepsini sürekli takip etmesinin mümkün olmadığı ifade ediliyor. 
+Liderin görevi, yeteneği kendisine rakip görmeyip onu beslemek ve onun için kolaylaştırıcılık görevini yürütmek.
+
+Şirket ve eğitmen liderliği 8 bileşen üzerinden tanımlıyor:
+
+| Leadership Excellence |
+|-----------------------|
+| **Intrapersonal**<br>1. Self Belief & Self Knowledge<br>2. Vision<br>3. Focus on Objectives<br>4. Courage & Integrity |
+| **Interpersonal**<br>5. Communication<br>6. Visible Commitment<br>7. Attention to Individuals<br>8. Teamwork |
