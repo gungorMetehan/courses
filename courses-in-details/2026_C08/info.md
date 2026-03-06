@@ -35,3 +35,8 @@ Liderin görevi, yeteneği kendisine rakip görmeyip onu beslemek ve onun için 
 |-----------------------|
 | **Intrapersonal**<br>1. Self Belief & Self Knowledge<br>2. Vision<br>3. Focus on Objectives<br>4. Courage & Integrity |
 | **Interpersonal**<br>5. Communication<br>6. Visible Commitment<br>7. Attention to Individuals<br>8. Teamwork |
+
+Eğitmen Nordstrom isimli bir şirkette verilen bir employee handbook'tan bahsediyor. Bu şirketin kurallarının anlatıldığı bir kitap. Ve yalnızca tek bir cümle içeriyormuş: **Use your good judgment in all situations. There will be no additional rules.** Bunun üzerine bir düşünmek lazım dedi. Çok gerçekçi gelmedi bana. Diğer kuralları da bir ara anlatıyor olmalılar (=
+
+Eğitmen, şu soruyu soruyor: Diyelim ki, terfi ettirildiniz, pazartesi günü işe geldiniz, ekibiniz ile ilk konuşmanız nasıl olacak? Kim olduğunuzu mu anlatacaksınız? Vizyonunuzu mu? Neleri birlikte yapacağınızı mı?
+Sonunda ekliyor, takımı / yetenekleri tanımadan nasıl bir konuşma yapabilirsiniz ki? Tavsiyem, ilk konuşmanızda çok konuşmayın.
