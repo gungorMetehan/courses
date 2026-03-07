@@ -5,8 +5,8 @@
   + Leadership Excellence & Vision (Part 1) [Video, 14 min]
   + Leadership Excellence & Vision (Part 2) [Video, 14 min]
   + Quiz 1: Leadership Excellence & Vision
-  + Courage & Integrity [Video, 15 min]
-  + Quiz 2: Courage & Integrity
+  + Focus on Objectives & Courage & Integrity [Video, 15 min]
+  + Quiz 2: Focus on Objectives & Courage & Integrity
   + Communication & Visible Commitment (Part 1) [Video, 14 min]
   + Communication & Visible Commitment (Part 2) [Video, 8 min]
   + Quiz 3: Communication & Visible Commitment
