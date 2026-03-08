@@ -36,3 +36,22 @@ What can be said about becoming a successful leader?
   + b) There are defined elements that will make you a successful leader.
   + c) You will be a successful leader if you change your behavior according to the expectations of your people.
   + d) There is a set of boxes that will make you a successful leader.
+
+
+**Quiz 2: Courage & Integrity**
+
+**Question 1**
+
+What is the purpose of having SMART goals?
+  + a) SMART goals can help the task and its expected outcome to be better defined, both for you and for your subordinate. It is also a useful mechanism for reviewing tasks upon completion. *
+  + b) There is no point in such an idea. I just tell people what to do.
+  + c) I do not sit down and follow up.
+  + d) If they get it wrong, I punish them. That is all the motivation and instruction they need.
+
+**Question 2**
+
+SMART stands for:
+  + a) Smart, measurable, agreed realistic, time bound
+  + b) Specific, measurable, agreed realistic, time bound *
+  + c) Specific, measurable, accepted, technical
+  + d) Specific, measurable, accepted, time bound
