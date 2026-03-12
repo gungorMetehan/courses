@@ -40,3 +40,15 @@ Eğitmen Nordstrom isimli bir şirkette verilen bir employee handbook'tan bahsed
 
 Eğitmen, şu soruyu soruyor: Diyelim ki, terfi ettirildiniz, pazartesi günü işe geldiniz, ekibiniz ile ilk konuşmanız nasıl olacak? Kim olduğunuzu mu anlatacaksınız? Vizyonunuzu mu? Neleri birlikte yapacağınızı mı?
 Sonunda ekliyor, takımı / yetenekleri tanımadan nasıl bir konuşma yapabilirsiniz ki? Tavsiyem, ilk konuşmanızda çok konuşmayın.
+
+Eğitimin bir kısmında toplantı yönetiminden bahsetti eğitmen "Parkinson's Law" kavramından yola çıkarak (iletişim ile alakalı olarak).
+
+Long Meeting? Cut it by 50%
+1. No purpose, no meeting: Gerek yoksa toplantıya gerek yok.
+2. Agenda: Bir ajanda olmalı. Alınacak kararlar liste yapmak için uygun olabilir mesela.
+   - Time limited
+   - Any Other Business
+   - List decisions
+3. Cost the meeting: Bir toplantının ne kadara mâl olacağını hesaplayabilirsiniz.
+4. List participants and their expected contributions: Gelecek kişilerin ne gibi katkılar sunabileceğini önceden söyleyin ki hazırlanabilsinler.
+5. "One Minute Minutes"
