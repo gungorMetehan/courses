@@ -55,3 +55,37 @@ SMART stands for:
   + b) Specific, measurable, agreed realistic, time bound *
   + c) Specific, measurable, accepted, technical
   + d) Specific, measurable, accepted, time bound
+
+
+**Quiz 3: Communication & Visible Commitment**
+
+**Question 1**
+
+When you become a leader, do you need to work on your communication style?
+  + a) My secretary handles all my communication.
+  + b) I will just email everybody.
+  + c) No - I got here, so my communication style must have been right to begin with.
+  + d) Yes, communication becomes vitally important, and it is often a skill that needs to be acquired or developed. *
+
+**Question 2**
+
+What does the Meeting Plan Format include in order to cut meetings by 50%?
+  + a) There is no way to cut meetings by 50%.
+  + b) No purposes - no meeting; agenda (time limited, any other business, list decisions); list participants and their expected contributions; "One Minute Minutes"
+  + c) No purposes - no meeting; agenda (time limited, any other business, list decisions); cost the meeting; list participants and their expected contributions; "One Minute Minutes" *
+  + d) No purposes - no meeting; agenda (time limited, any other business, list decisions); cost the meeting; list topics, "Five Minutes"
+
+**Question 3**
+
+What is not included in the skillset for getting the right people?
+  + a) Preparing a set of ideal answers *
+  + b) Job descriptions
+  + c) Interviewing for the right candidate
+  + d) Preparing a Candidate Assessment Tool
+
+**Question 4**
+
+Select the statements which are neither a goal or a standard.
+  + a) Motorola - 3.4 failures per million parts
+  + b) "Georgina needs to be on time more frequently." *
+  + c) "You will exceed last year's production by 10%."
