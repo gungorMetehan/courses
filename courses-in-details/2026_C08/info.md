@@ -25,7 +25,7 @@
 **Organizasyon:** Lecturio GmbH
 
 # Notlar
-Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı ile çevrim içi olarak aldım.
+Eğitimi TUSAŞ'ın sağladığı Udemy Business hesabı ile çevrim içi olarak aldım ve 17.03.2026 tarihinde tamamladım.
 Eğitimde geçmişteki 'management' anlayışının bugün için yeterli olmayacağı, çünkü yetkinliklerin çok hızlı bir şekilde değiştiği, bir liderin bunların hepsini sürekli takip etmesinin mümkün olmadığı ifade ediliyor. 
 Liderin görevi, yeteneği kendisine rakip görmeyip onu beslemek ve onun için kolaylaştırıcılık görevini yürütmek.
 
