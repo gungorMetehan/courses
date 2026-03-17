@@ -52,3 +52,5 @@ Long Meeting? Cut it by 50%
 3. Cost the meeting: Bir toplantının ne kadara mâl olacağını hesaplayabilirsiniz.
 4. List participants and their expected contributions: Gelecek kişilerin ne gibi katkılar sunabileceğini önceden söyleyin ki hazırlanabilsinler.
 5. "One Minute Minutes"
+
+Eğitmen, Dr. Belbin'in 'Belbin's Team Roles' kavramından yola çıkarak bir takımda yer alması gereken 9 özelliği (kişiyi) sıralıyor: Implementer, Shaper, Plant, Co-ordinator, Resource Investigator, Completer Finisher, Monitor Evaluator, Team Worker, Specialist
