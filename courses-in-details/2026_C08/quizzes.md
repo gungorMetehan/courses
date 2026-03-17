@@ -89,3 +89,62 @@ Select the statements which are neither a goal or a standard.
   + a) Motorola - 3.4 failures per million parts
   + b) "Georgina needs to be on time more frequently." *
   + c) "You will exceed last year's production by 10%."
+
+
+**Quiz 4: Attention to Individuals & Teamwork**
+
+**Question 1**
+
+Can you define a standard and a goal?
+  + a) Goals and standards are the same thing.
+  + b) Goals are set at the beginning of the year and we appraise people on whether or not they have met them. People should be assessed on whether or not they have met the standard.
+  + c) A standard is a level that must be achieved. A goal is aspirational. *
+  + d) "You must do better next year" is not a standard. It is vague and subjective and as a result cannot be measured objectively.
+
+**Question 2**
+
+What does not characterizes the informal coaching?
+  + a) It makes up to 95% of the overall coaching.
+  + b) Notes are taken after the event.
+  + c) It is monthly meeting with each employee to talk about their development. *
+  + d) It is the day to day interaction with the team members.
+
+**Question 3**
+
+What does not characterizes the formal coaching?
+  + a) It is monthly meeting with each employee to talk about their development.
+  + b) It makes up to 95% of the overall coaching. *
+  + c) It makes up to 5% of the overall coaching.
+  + d) Notes are taken during the event.
+
+**Question 4**
+
+Do you know how to look for the right kind of people, and can you keep them highly motivated by using the coaching process?
+  + a) They will just appear on the radar.
+  + b) Yes, I am familiar with psychometric profiling and up to date job interview techniques. I might outsource the process, but I understand the concepts very well. *
+  + c) I believe that people should just do what they are told.
+  + d) We have no time for coaching. Personal and professional development is not important as long as the job gets done.
+
+**Question 5**
+
+What are the four stages of team development?
+  + a) Forming, Storming, Norming, Performance *
+  + b) Performing, Adjourning, Nominating, Advocating
+  + c) Advocating, Adjusting, Abjuring, Absoluting
+  + d) Norming, Storming, Forming, Perforating
+
+**Question 6**
+
+Team members want …
+  + a) training, democracy, autocracy, freedom and social support.
+  + b) training, democracy, rewarding experiences and social support.
+  + c) training, democracy, autocracy, rewarding experiences and social support. *
+  + d) training, communism, autocracy, rewarding experiences and social support.
+
+**Question 7**
+
+Do I need to understand how teams develop over time?
+  + a) Teams are irrelevant.
+  + b) I want to retain absolute control of the decision making process. Unless you are leading a very small group of people, this is impossible as well as counter - productive. You should surround yourself with as many experts as possible - and your developed leadership skills will make sure that you do not feel threatened bhy their expertise. It is not your job to be more expert than them: it is your job to create experts.
+  + c) No, I do not need to understand how teams develop over time.
+  + d) Teams have been shown to be a very successful way of managing your workforce, so yes, you should understand the way they develop and the interventions that are needed to ensure success - if your organisation needs to develop long term relationships with your people. *
