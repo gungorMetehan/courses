@@ -4,6 +4,7 @@
 
 | **Year** |                         **Course**                                           |           **Organization**          |
 |:--------:|------------------------------------------------------------------------------|-------------------------------------|
+| 2026     | Leadership Skills Training: Become an Inspiring Leader!                      | Lecturio GmbH (Udemy)               |
 | 2026     | Artificial Intelligence and Autonomous Robots in Defense Industry Strategies | The Defense Industry Academy        |
 | 2026     | AI for Beginners                                                             | HP LIFE                             |
 | 2026     | Report Design with Microsoft Report Builder                                  | Turkish Aerospace Academy           |
