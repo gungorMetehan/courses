@@ -1,5 +1,11 @@
 # courses
 
+## Competencies
+
+<img width="1765" height="879" alt="competencies" src="https://github.com/user-attachments/assets/7e5153d1-6b09-4ff0-b9bf-36b423f49c94" />
+
+
+
 ## Courses and Certificates
 
 | **Year** |                         **Course**                                           |           **Organization**          |
