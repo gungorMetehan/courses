@@ -10,6 +10,7 @@
 
 | **Year** |                         **Course**                                           |           **Organization**          |
 |:--------:|------------------------------------------------------------------------------|-------------------------------------|
+| 2026     | Artificial Intelligence Awareness Training                                   | The Defense Industry Academy        |
 | 2026     | Natural Language Processing                                                  | Turkcell                            |
 | 2026     | Leadership Skills Training: Become an Inspiring Leader!                      | Lecturio GmbH (Udemy)               |
 | 2026     | Artificial Intelligence and Autonomous Robots in Defense Industry Strategies | The Defense Industry Academy        |
