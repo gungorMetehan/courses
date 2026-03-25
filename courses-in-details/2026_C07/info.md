@@ -34,7 +34,7 @@ Savunma Sanayii Stratejilerinde Yapay Zeka ve Otonom Robotlar - Bugün Neler Kaz
 **Organizasyon:** Savunma Sanayii Akademi - Savunma Gelişim
 
 # Notlar
-Eğitimi 25.02.2026 tarihinda SSA'nın Savunma Gelişim Projesi kapsamında çevrim içi olarak tamamladım. Eğitim genel itibarıyla YZ ve makine öğrenmesi üzerine olması ile birlikte hemen hemen tüm örnekler savunma sanayi üzerinden verilmişti. Bu açıdan spesifik bir alana hitap ettiği söylenebilir. Eğitimde ilgimi çeken özet tablolar oldu genellikle. Düzenlenmiş hallerini aşağıda paylaşıyorum.
+Eğitimi 25.02.2026 tarihinde SSA'nın Savunma Gelişim Projesi kapsamında çevrim içi olarak tamamladım. Eğitim genel itibarıyla YZ ve makine öğrenmesi üzerine olması ile birlikte hemen hemen tüm örnekler savunma sanayi üzerinden verilmişti. Bu açıdan spesifik bir alana hitap ettiği söylenebilir. Eğitimde ilgimi çeken özet tablolar oldu genellikle. Düzenlenmiş hallerini aşağıda paylaşıyorum.
 
 ## Yapay Zekanın Gelişimi
 | Dönem | Yıl Aralığı | Ana Gelişmeler ve Temsilciler |
