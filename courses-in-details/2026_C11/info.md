@@ -27,3 +27,22 @@
 
 # Notlar
 
+Model performansı değerlendirmek için farklı kriterler mevcuttur. Bunları iki başlık altında inceleyecek olursak;
+1) Gözetimsiz öğrenme algoritmaları için
+   - Davies-Bouldin Endeksi
+   - Dunn Endeksi
+   - Rand Endeksi
+   - Jackard Endeksi gibi endekler kullanılmaktadır.
+2) Gözetimli öğrenme algoritmaları için ise
+   - Doğruluk
+   - Duyarlılık
+   - Belirleyicilik
+   - Kesinlik
+   - ROC Eğrisi Altında Kalan Alan gibi ölçütler kullanılmaktadır.
+
+k-Means algoritması kümeleme algoritmaları arasında en yaygın kullanılmakta olan algoritma olmakla birlikte,
+- k-Medoids Algoritması
+- k-Modes Algoritması
+- k-Median Algoritması
+- k-Means++ Algoritması
+- Canopy Kümeleme Algoritması gibi algoritmalar da yine bölümleyici kümeleme algoritmaları olarak kullanılmaktadır.
