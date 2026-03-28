@@ -46,3 +46,9 @@ k-Means algoritması kümeleme algoritmaları arasında en yaygın kullanılmakt
 - k-Median Algoritması
 - k-Means++ Algoritması
 - Canopy Kümeleme Algoritması gibi algoritmalar da yine bölümleyici kümeleme algoritmaları olarak kullanılmaktadır.
+
+Başlıca yoğunluk tabanlı kümeleme algoritmaları;
+- DBSCAN
+- OPTICS
+- DENCLUE
+- CLIQUE'dir. Eğitimde yalnızca yaygın kullanılan DBSCAN örneklendirilmiştir. DBSCAN algoritması kullanılırken, epsilon (yarıçap) ve minpts (minimum nokta sayısı) kullanıcı tarafından algoritmaya verilmelidir. Tıpkı k-Means algoritmasındaki küme sayısı (k) gibi.
