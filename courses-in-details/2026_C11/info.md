@@ -21,7 +21,7 @@
 
 **Eğitim Adı:** Yapay Zeka Temelli Makine Öğrenmesi ve Temel Algoritmalar Eğitimi
 
-**Eğitmen:** Duygu Selin Ballı
+**Eğitmen:** Duygu Selin Ballı Turan
 
 **Organizasyon:** Ege Üniversitesi EGESEM
 
