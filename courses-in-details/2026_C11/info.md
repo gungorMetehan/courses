@@ -52,3 +52,5 @@ Başlıca yoğunluk tabanlı kümeleme algoritmaları;
 - OPTICS
 - DENCLUE
 - CLIQUE'dir. Eğitimde yalnızca yaygın kullanılan DBSCAN örneklendirilmiştir. DBSCAN algoritması kullanılırken, epsilon (yarıçap) ve minpts (minimum nokta sayısı) kullanıcı tarafından algoritmaya verilmelidir. Tıpkı k-Means algoritmasındaki küme sayısı (k) gibi.
+
+Eğitimde uygulamalar da vardı. Uygulamalar üç farklı yazılım üzerinde yapıldı: (1) WEKA, (2) C# (ACCORD.NET) ve (3) Python
