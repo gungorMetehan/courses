@@ -19,7 +19,7 @@
 # Bilgi
 **Eğitim Dili:** Türkçe
 
-**Eğitim Adı:** Yapay Zeka Temelli Makine Öğrenmesi ve Temel Algoritmalar Eğitimi
+**Eğitim Adı:** Yapay Zeka Temelli Makine Öğrenmesi ve Temel Algoritmalar Eğitimi (Artificial Intelligence-Based Machine Learning and Fundamental Algorithms Training)
 
 **Eğitmen:** Duygu Selin Ballı Turan
 
