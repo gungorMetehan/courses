@@ -10,7 +10,7 @@
 
 | **Year** |                         **Course**                                           |           **Organization**          |
 |:--------:|------------------------------------------------------------------------------|-------------------------------------|
-| 2026     | AI-Based Machine Learning and Fundamental Algorithms Training                | EGESEM                              |
+| 2026     | AI Based Machine Learning and Basic Algorithms Training                      | EGESEM                              |
 | 2026     | Artificial Intelligence Awareness Training                                   | The Defense Industry Academy        |
 | 2026     | Natural Language Processing                                                  | Turkcell                            |
 | 2026     | Leadership Skills Training: Become an Inspiring Leader!                      | Lecturio GmbH (Udemy)               |
