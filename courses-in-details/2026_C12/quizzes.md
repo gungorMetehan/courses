@@ -30,6 +30,34 @@ Yapay zekâ, geçmiş deneyimlerden öğrenebilen ve kendi kararlarını verebil
 + a) Yanlış
 + b) Doğru *
 
+**Soru 3:**
+
+Ahmet, bir iş başvurusu sistemi geliştirmek istiyor. Ancak sistem, yalnızca geçmişte işe alınan erkek adayların verileriyle eğitilmiş. Bu durumda sistemin hangi riski taşıması beklenir?
+
++ a) Tarafsız ve adil değerlendirme sunması  
++ b) Kadın adayların sistematik olarak dezavantajlı hale gelmesi *  
++ c) Doğru tahmin oranının artması  
++ d) Verileri otomatik olarak silebilmesi
+
+**Soru 4:**
+
+Aşağıdakilerden hangisi yapay zekânın gelişiminde dönüm noktası olan olaylardan biridir?
+
++ a) Watson’un hava durumu tahmini yapması  
++ b) Mikrodalgaların dijitalleşmesi  
++ c) OpenAI’nin veri gizliliği politikası  
++ d) Alan Turing’in Turing Testi’ni önermesi *  
+
+**Soru 5:**
+
+Aşağıdakilerden hangisi yapay zekâ sistemlerinin güvenilir kullanımı için gerekli değildir?
+
++ a) Etik kullanım ilkelerine dikkat edilmesi  
++ b) Şeffaf veri kaynaklarının kullanılması  
++ c) Sistemlerin tamamen kendi başına bırakılması *  
++ d) Eleştirel düşüncenin geliştirilmesi
+
+
 # Etkinlik 2 - 1
 
 ## 2. Bölüm Sonu Etkinlik-1
