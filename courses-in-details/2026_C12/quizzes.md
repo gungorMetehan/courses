@@ -73,3 +73,48 @@ Aşağıdaki cümleleri yanda verilen kelime veya kavramları kullanarak tamamla
 3. Yapay zekâ ne kadar çok veriyle karşılaşırsa, kararları o kadar **doğru** hale gelir.  
 4. Derin öğrenme, daha karmaşık kararları alabilen gelişmiş bir **makine** öğrenmesi yöntemidir.  
 5. Yapay zekâ **deneyim** kazandıkça daha isabetli kararlar alır.
+
+# Etkinlik 2 - 2
+
+**Soru 1:**
+
+Aşağıdakilerden hangisi bir algoritma örneğidir?
+
++ a) Makine öğrenmesinin denetimsiz öğrenme süreci
++ b) Bir banka ATM'sinden para çekme işlemi *
++ c) Bir yapay zekâ sisteminin kendi kendine veri etiketlemesi
++ d) Derin öğrenmenin yüz tanıma algoritması
+
+**Soru 2:**
+
+Makine öğrenmesi, veriler arasında benzerlikleri keşfederek sınıflandırma yapan denetimsiz bir öğrenme modelidir.
+
++ a) Doğru *
++ b) Yanlış
+
+**Soru 3:**
+
+Bir müzik uygulaması, sizin dinlediğiniz şarkılara göre benzer şarkılar öneriyorsa bu hangi yapay zekâ öğrenme türüdür?
+
++ a) Denetimli öğrenme
++ b) Pekiştirmeli öğrenme
++ c) Derin öğrenme
++ d) Denetimsiz öğrenme *
+
+**Soru 4:**
+
+Aşağıdaki ifadelerden hangisi derin öğrenmenin bir özelliğidir?
+
++ a) İnsan beynine benzeyen çok katmanlı yapılarla öğrenir *
++ b) Kurallı veri sınıflandırması yapar
++ c) Tek katmanlı veri analizi ile çalışır
++ d) Verileri sadece etiketli olarak işler
+
+**Soru 5:**
+
+ Aşağıdaki durumlardan hangisinde makine öğrenmesinin pekiştirmeli öğrenme yaklaşımı kullanılır?
+
++ a) Sistem, etiketli görsellerle eğitilerek sınıflandırma yapar.
++ b) Satranç oynayan yapay zekâ, ödül-ceza sistemine göre hamlelerini geliştirir. *
++ c) Sistem, verilerdeki benzerliklere göre gruplama yapar.
++ d) Müzik uygulaması, en çok dinlenen şarkılara göre liste önerir.
