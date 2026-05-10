@@ -61,3 +61,4 @@
 **Organizasyon:** HEMBA (Halk Eğitimi Merkezleri Bilişim Ağı)
 
 # Notlar
+Millî Eğitim Bakanlığı Hayat Boyu Öğrenme Genel Müdürlüğü'nün Avrupa Yetişkin Öğrenimi Gündemi Projesi kapsamında hazırlanan bir eğitim idi. Çevrim içi ortamda aldım ve 10.05.2026 tarihinde tamamladım.
