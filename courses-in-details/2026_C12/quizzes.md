@@ -116,5 +116,19 @@ Aşağıdaki ifadelerden hangisi derin öğrenmenin bir özelliğidir?
 
 + a) Sistem, etiketli görsellerle eğitilerek sınıflandırma yapar.
 + b) Satranç oynayan yapay zekâ, ödül-ceza sistemine göre hamlelerini geliştirir. *
+
+# Etkinlik 5 - 1
+
+## 1. Bölüm Sonu Etkinlik-1
+
+Aşağıda verilen ifadelerin doğru veya yanlış olduklarını ilgili kutucuğa işaretleyiniz.
+
+| No | İfade | Doğru | Yanlış |
+|----|-------|-------|--------|
+| 1 | Adınız ve soyadınız dışında, arama geçmişi ve sosyal medya beğenileri de kişisel veridir. | [x] | [ ] |
+| 2 | Yapay zekâ sistemleri veri toplar ama dijital iz bırakmaz. | [ ] | [x] |
+| 3 | Avrupa Birliği’nde GDPR, Türkiye’de KVKK gibi yasal çerçeveler, kişisel verilerinizi korumayı amaçlar. | [x] | [ ] |
+| 4 | Yapay zekâ araçları veri işler ve kalıcı kayıtlar oluşturur. | [x] | [ ] |
+| 5 | Aktif izler ve pasif izler farkında olmadan bıraktığınız dijital izlerden kaynaklanır. | [ ] | [x] |
 + c) Sistem, verilerdeki benzerliklere göre gruplama yapar.
 + d) Müzik uygulaması, en çok dinlenen şarkılara göre liste önerir.
