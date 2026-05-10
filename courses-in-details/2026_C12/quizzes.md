@@ -146,3 +146,28 @@ Aşağıda verilen ifadelerin doğru veya yanlış olduklarını ilgili kutucuğ
 | 3 | Avrupa Birliği’nde GDPR, Türkiye’de KVKK gibi yasal çerçeveler, kişisel verilerinizi korumayı amaçlar. | [x] | [ ] |
 | 4 | Yapay zekâ araçları veri işler ve kalıcı kayıtlar oluşturur. | [x] | [ ] |
 | 5 | Aktif izler ve pasif izler farkında olmadan bıraktığınız dijital izlerden kaynaklanır. | [ ] | [x] |
+
+# Etkinlik 6 - 1
+
+## 2. Bölüm Sonu Etkinlik-1
+
+Aşağıdaki cümleleri yanda verilen kelime veya kavramları kullanarak tamamlayınız.
+
+**Kelime Havuzu:** sadece, cihaza, sızıntısına, botlarında, analiz
+
+## Sorular
+
+1. Yapay zeka artık **sadece** uzmanların değil, aynı zamanda hepimizin hayatında yer alıyor.
+2. Yapay zekâ sadece içerik değil, yazma şeklinizden kullandığınız **cihaza** kadar birçok veriyi analiz eder.
+3. Anonimleştirme yeterli olmadığında veri **sızıntısına** dönüşebilir.
+4. Görsel oluşturma **botlarında** oluşturduğunuz görseller, kullandığınız metin komutlarıyla birlikte herkese açık olabilir.
+5. Müşteri verileri veya **analiz** raporları sisteme girerse, bu veri yapay zekâ havuzuna karışabilir.
+
+
+
+
+
+
+
+
+
