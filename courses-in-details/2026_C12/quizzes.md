@@ -119,6 +119,20 @@ Aşağıdaki ifadelerden hangisi derin öğrenmenin bir özelliğidir?
 + c) Sistem, verilerdeki benzerliklere göre gruplama yapar.
 + d) Müzik uygulaması, en çok dinlenen şarkılara göre liste önerir.
 
+# Etkinlik 3 - 1
+
+## 3. Bölüm Sonu Etkinlik-1
+
+Aşağıda verilen ifadelerin doğru veya yanlış olduklarını ilgili kutucuğa işaretleyiniz.
+
+| No | İfade | Doğru | Yanlış |
+|----|-------|-------|--------|
+| 1 | Yapay zekâ öğrenmeyi kişiselleştirir ve işleri kolaylaştırır. | [x] | [ ] |
+| 2 | Bankalar kredi notunuzu değerlendirirken yapay zekâ destekli modeller kullanır. | [x] | [ ] |
+| 3 | İnternette kısa süreli bir ürün araması yaptığınızda, sonrasında o ürünle ilgili reklamlarla sık sık karşılaşmanız yapay zekâ sebebiyledir. | [x] | [ ] |
+| 4 | E-ticaret ve bankaların mobil uygulamalarında karşımıza çıkan sohbet kutularındaki asistanlar genellikle bir chatbot’tur. | [x] | [ ] |
+| 5 | Yapay zekâ kullanımında etik farkındalık ve bilinçli kullanıma gerek yoktur. | [ ] | [x] |
+
 # Etkinlik 5 - 1
 
 ## 1. Bölüm Sonu Etkinlik-1
