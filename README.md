@@ -10,6 +10,7 @@
 
 | **Year** |                         **Course**                                           |           **Organization**          |
 |:--------:|------------------------------------------------------------------------------|-------------------------------------|
+| 2026     | Machine Learning 101 & 201 & 301 & 401 & 501                                 | Turkcell                            |
 | 2026     | Artificial Intelligence Literacy                                             | HEMBA                               |
 | 2026     | AI Based Machine Learning and Basic Algorithms Training                      | EGESEM                              |
 | 2026     | Artificial Intelligence Awareness Training                                   | The Defense Industry Academy        |
