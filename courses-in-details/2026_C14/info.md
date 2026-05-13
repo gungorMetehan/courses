@@ -78,8 +78,9 @@
 
 **Eğitmenler:** Kemal İslamoğlu ve Yekta Özcan Özözer
 
-**Organizasyon:** Şapka & Sürekli Gelişim Danışmanlık ve Eğitim
+**Organizasyon:** Şapka & Sürekli Gelişim Danışmanlık ve Eğitim & ENOCTA
 
 # Notlar
-TTC1311 kodlu eğitim idi bu. TUSAŞ Akademi tarafından Enocta üzerinden sağlanıyordu. Aslında Enocta'da birkaç parça eğitimi, kaynağı birleştirerek bu eğitimi hazırlamıştı. Açıkçası bu yamalı yapıyı pek beğenmedim. Eğitimin içeriği fazla görünsün diye video eğitim, yapay zekanın üretimi podcast'ler ve Kaynak Dergisi makaleleri birleştirilmiş gibiydi.
+TTC1311 kodlu eğitim idi bu. TUSAŞ Akademi tarafından Enocta üzerinden sağlanıyordu. Aslında Enocta'da birkaç parça eğitimi, kaynağı birleştirerek bu eğitimi hazırlamıştı. Açıkçası bu yamalı yapıyı pek beğenmedim. Eğitimin içeriği fazla görünsün diye video eğitim, yapay zekanın üretimi podcast'ler ve Kaynak Dergisi makaleleri birleştirilmiş gibiydi. İçerikte (1) Problem Çözme ve Karar Verme Video Serisi [Şapka Danışmanlık - Kemal İslamoğlu], (2) Skillsoft ile Liderlik - Karar Verme ve Problem Çözme ve (3) Dijital Çağda Yenilikçilik ve Yaratıcılık Video Serisi [Sürekli Gelişim Danışmanlık ve Eğitim - Yekta Özer Özözer] kısımlarını beğendim. Yapay zekanın ürettiği podcast'leri dinlemek katılımcının öğrenme motivasyonunu olumsuz etkiliyor bence. Benzer şekilde Kaynak Dergisi makaleleri her ne kadar faydalı olsa da eğitim içeriğinde okuma ödevi gibi duruyordu.
+
 
