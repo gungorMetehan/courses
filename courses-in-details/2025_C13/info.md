@@ -29,7 +29,7 @@
    + Numpy ile İki Bilinmeyenli Denklem Çözümü
    + Bölüm Sonu Değerlendirmesi
 
-**Veri Manipülasyonu 102**
+**Veri Manipülasyonu 201**
 
 1. Pandas Serileri
    + Pandas Serileri Giriş
@@ -62,11 +62,11 @@
 
 **Eğitmen:** Mustafa Vahit Keskin
 
-**Eğitim Adı:** Veri Manipülasyonu 101 & 102 (Data Manipulation 101 & 102)
+**Eğitim Adı:** Veri Manipülasyonu 101 & 201 (Data Manipulation 101 & 201)
 
 **Organizasyon:** Turkcell Akademi
 
 # Notlar
-Eğitim iki aşamadan (bölümden) oluşuyordu: Veri Manipülasyonu 101 ve Veri Manipülasyonu 102. Turkcell Akademi'nin Geleceği Yazanlar Projesi kapsamında çevrim içi olarak aldım eğitimi. İlk kısmı 24 Haziran 2025'te, ikinci kısmı ise 16 Temmuz 2025'te tamamladım.
-Eğitimlerin sonunda sınav uygulaması mevcuttu. Bence bu eğitimin bir üçüncü kısmı daha olmalıydı (Veri Manipülasyonu 103). Çalışmaya uygun olarak hazırlanmış bir ya da iki veri üzerinden, veri temizleme, veri düzenleme, veri dönüştürme, veri manipülasyonu gibi kavramlara değinerek baştan uca bir case study tasarlanabilirdi. Buradaki veri farklı türlerde olabilirdi. 
+Eğitim iki aşamadan (bölümden) oluşuyordu: Veri Manipülasyonu 101 ve Veri Manipülasyonu 201. Turkcell Akademi'nin Geleceği Yazanlar Projesi kapsamında çevrim içi olarak aldım eğitimi. İlk kısmı 24 Haziran 2025'te, ikinci kısmı ise 16 Temmuz 2025'te tamamladım.
+Eğitimlerin sonunda sınav uygulaması mevcuttu. Bence bu eğitimin bir üçüncü kısmı daha olmalıydı (Veri Manipülasyonu 301). Çalışmaya uygun olarak hazırlanmış bir ya da iki veri üzerinden, veri temizleme, veri düzenleme, veri dönüştürme, veri manipülasyonu gibi kavramlara değinerek baştan uca bir case study tasarlanabilirdi. Buradaki veri farklı türlerde olabilirdi. 
 Örneğin metin verileri ile temizleme işlemleri çok daha farklı fonksiyonlar gerektirebiliyor.
