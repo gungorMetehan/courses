@@ -86,5 +86,3 @@ TTC1311 kodlu eğitim idi bu. TUSAŞ Akademi tarafından Enocta üzerinden sağl
 Kemal İslamoğlu, Albert Einstein'dan bir örnek vermişti: Hiçbir problem, onun farkına vardığınız andaki kafa yapısıyla çözülemez. Mutlaka farklı bir bakış açısı yakalanmalıdır.
 
 Bir de SkillSoft ile Liderlik kısmında bir röportajda bir problemin çözümü için ilginç bir uygulama yapan biri anlatılıyordu. Bir lider, ciddi bir sorun ile karşılaştığında bir münazara başlatıyor imiş ekip içinde. Bir taraf neden bir pazara girilmesi gerektiğini, diğer taraf ise bu pazara girmenin risklerini anlatıyormuş örneğin. Ardından, iki tarafın da tam tezat olan düşünceyi savunmasını istiyormuş. Kurgu tam olarak böyle olmayabilir ancak buna yakındı. Böylelikle, genel anlamda hangi yolda yürünmesi gerektiği ile ilgili ekipçe bir fikre sahip oluyorlarmış.
-
-
