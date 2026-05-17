@@ -190,5 +190,6 @@
 **Organizasyon:** Turkcell Akademi
 
 # Notlar
-[Düzenlenecek] Eğitim beş aşamadan (bölümden) oluşuyordu: Makine Öğrenmesi 101 & 201 & 301 & 401 & 501. Turkcell Akademi'nin Geleceği Yazanlar Projesi kapsamında çevrim içi olarak aldım eğitimi. İlk kısmı 7 Mayıs 2025'te, ikinci kısmı 13 Mayıs 2025'te, üçüncü kısmı 16 Haziran 2025'te, dördüncü kısmı 20 Mart 2026'da ve beşinci kısmı 11 Mayıs 2026'da tamamladım.
+Eğitim beş aşamadan (bölümden) oluşuyordu: Makine Öğrenmesi 101 & 201 & 301 & 401 & 501. Turkcell Akademi'nin Geleceği Yazanlar Projesi kapsamında çevrim içi olarak aldım eğitimi. İlk kısmı 7 Mayıs 2025'te, ikinci kısmı 13 Mayıs 2025'te, üçüncü kısmı 16 Haziran 2025'te, dördüncü kısmı 20 Mart 2026'da ve beşinci kısmı 11 Mayıs 2026'da tamamladım.
 Eğitimlerin sonunda sınav uygulaması mevcuttu. Bir sonraki kura geçmek için bu 20 soruluk sınavları tamamlamak gerekiyordu. Onları da tamamlayarak belgemi aldım.
+Eğitim keyifliydi, iyi tasarlanmıştı. M. Vahit Keskin bu konuda iyi bir eğitmen, gerçek uygulamalar ve sıralı içerik tasarımı güzeldi. Sadece 301 ile 401'de bir karışıklık olduğunu düşünüyorum. Konu içerikleri aynıydı. Keşke o düzeltilerek yerine diğer makine öğrenmesi algoritmaları eklense idi. 
