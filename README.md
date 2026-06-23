@@ -10,6 +10,7 @@
 
 | **Year** |                         **Course**                                           |           **Organization**          |
 |:--------:|------------------------------------------------------------------------------|-------------------------------------|
+| 2026     | Learning SQL Through Hands-On Practice                                       | BTK Akademi                         |
 | 2026     | Creative Thinking in Problem Solving                                         | Şapka Danışmanlık & Sürekli Gelişim |
 | 2026     | Machine Learning 101 & 201 & 301 & 401 & 501                                 | Turkcell                            |
 | 2026     | Artificial Intelligence Literacy                                             | HEMBA                               |
