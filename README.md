@@ -112,7 +112,7 @@
 | 2016     | Storytelling in Speech                                                       | Türk Telekom Academy                |
 | 2016     | Rythm Motivation Workshop                                                    | M3 Works                            |
 | 2016     | Mobile Photography                                                           | M3 Works                            |
-| 2016     | Erasmus+ Digital Timelines Project PDM Trainer Training                      | Genç Yaşamin Sesleri Association    |
+| 2016     | Erasmus+ Digital Timelines Project PDM Trainer Training                      | Genç Yaşamın Sesleri Association    |
 | 2015     | English Language                                                             | Samsun British Culture Schools      |
 | 2015     | Diction                                                                      | Atakum Public Education Center      |
 | 2013     | Career Coaching                                                              | Samsun Rotary Club                  |
