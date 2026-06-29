@@ -1,5 +1,26 @@
 # İçerik
-
+* 0.) Yapay Zeka İçin Python
+     + 0.1. Tanıtım [Metin]
+     + 0.2. Bilgilendirme [Video, 3:01 dk]
+     + 0.3. Eğitimde Kullanılan Linkler [Metin]
+* 1.) Python'a Giriş
+     + 1.1. Python Nedir ve Nasıl Kurulur? [Video, 8:40 dk]
+     + 1.2. VS Code Kurulumu ve Ayarları [Video, 4:51 dk]
+     + 1.3. İlk Python Dosyamız ve Hello World [Video, 14:03 dk]
+     + 1.4. GitHub ve Eğitim Kaynaklarına Erişim [Video, 1:11 dk]
+* 2.) Python'da Temel Yapılar
+     + 2.1. Değişken Kavramı [Video, 11:48 dk]
+     + 2.2. Integer (int) [Video, 13:28 dk]
+     + 2.3. Float [Video, 11:13 dk]
+     + 2.4. String 1 [Video, 10:48 dk]
+     + 2.5. String 2 [Video, 11:11 dk]
+     + 2.6. Veri Tipi Kontrolü ve Tip Dönüşümleri [Video, 11:33 dk]
+     + 2.7. Listeler [Video, 18:38 dk]
+     + 2.8. Tuple [Video, 12:38 dk]
+     + 2.9. Sözlük (Dictionary) [Video, 8:42 dk]
+     + 2.10. Set [Video, 7:57 dk]
+     + 2.11. Veri Yapıları Arasındaki Farklar [Video, 7:44 dk]
+     + 2.12. Python Temel Yapılar Ödev ve Çözümleri [Video, 5:04 dk]
 
 # Bilgi
 **Eğitim Dili:** Türkçe
