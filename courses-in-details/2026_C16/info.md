@@ -54,3 +54,217 @@ Sonuç olarak <class 'str'> dönecektir. Geliştiriciler böyle geliştirmiş. B
 * Set veri yapısında indeks olmaz. Küme sonuçta. Elemanları benzersizleştirmek için kullanılır genelde. Bu nedenle sıra bilgisini tutmaz.
 
 * `list = [1, 2, 3]` şeklinde oluşturulan listeler, numpy array'lerin temelini oluşturur. `ogrenci = {"isim": "mete", "yas": 18}` şeklinde oluşturulan sözlükler ise pandas dataframe'lerin temelini oluşturur.
+
+* Döngüler ve Kontrol Yapıları başlığı altında güzel örnekler vardı, o nedenle not aldım.
+```
+"""
+if yapısı: bir koşul doğruysa altındaki kod bloğunu çalıştırır.
+Örnek kullanımı şu şekildedir:
+if kosul:
+    yapilacak_islem
+"""
+
+sayi = 10 
+if sayi > 0: # koşul: eğer sayı 0 dan büyükse
+    print("Sayı pozitiftir.") # eğer bu koşul = doğru ise print fonksiyonu çağrılır.
+
+# if sayi > 0:
+# print("burası çalşmaz.") # IndentationError: expected an indented block after 'if' statement on line X uyarısı verir.
+
+# if else yapısı: if koşulun doğru olmadığına bakar sadece, else koşul yanlış ise çalışır.
+sayi = -3
+
+if sayi > 0:
+    print("pozitif")
+else:
+    print("pozitif değil")
+
+# if - elif - else: ilk doğru koşul çalışır, diğerleri kontrol edilmez, hiçbiri doğru değilse else çalışır.
+
+ogrenci_not = 72
+if ogrenci_not > 85:
+    print("A")
+elif ogrenci_not > 70:
+    print("B")
+elif ogrenci_not > 50:
+    print("C")
+else:
+    print("F")
+
+# mantıksal operatörler: birden fazla koşulun birleşmesi
+
+yas = 20
+ogrenci = True # boolean (mantıksal değer)
+
+# eğer kişinin yaşı 25'ten küçükse ve bu kişi öğrenci ise öğrenci indirimi uygulansın.
+if yas < 25 and ogrenci == True:
+    print("Öğrenci indirimi uygula")
+
+# eğer kişinin yaşı 25'ten küçükse veya bu kişi öğrenci ise öğrenci indirimi uygulansın.
+if yas < 25 or ogrenci == True:
+    print("Öğrenci indirimi uygula")
+
+# if ve liste yapısının birlikte kullanımı
+meyveler = ["elma", "armut", "muz"]
+
+if "elma" in meyveler:
+    print("elma listede var")
+else:
+    print("elma listede yok")
+
+# stok kontrol örneği
+
+meyveler = ["elma", "armut", "muz"]
+
+urun = input("Bir meyve girin: ") # Burada büyük harf - küçük harf duyarlılığı vardır.
+
+if urun in meyveler:
+    print("Stokta var")
+else:
+    print("Stokta yok")
+```
+
+```
+"""
+for degisken in koleksiyon:
+    yapilacak_islem
+
+degisken: her turda (iterasyon) değişen geçici isim
+koleksiyon: liste, tuple gibi veri yapıları
+"""
+
+# liste ile for döngüsü
+sayilar = [10, 20, 30]
+
+for sayi in sayilar:
+    print(sayi + 5)
+
+# range() fonksiyonu ile for döngüsü
+for i in range(5): # [0, 1, 2, 3, 4]
+    print(i)
+
+for i in range(1, 7):
+    print(i)
+
+# for ile toplama işlemi
+sayilar = [10, 20, 30]
+
+toplam = 0
+for s in sayilar:
+    print(s)
+    toplam = toplam + s
+
+print(toplam) # 60
+
+# for + if kullanımı
+sayilar = [1,2,3,4,5,6]
+
+for sayi in sayilar:
+    if sayi % 2 == 0:
+        print(f"Çift: {sayi}")
+```
+
+```
+"""
+while döngüsü nedir?
+    - koşul doğru olduğu sürece çalışan bir döngüdür.
+    - if yapısı koşulu sadece 1 kez kontrol eder, while yapısı ise koşulu her iterasyonda kontrol eder.
+    - koşul doğru (True) olduğu sürece döngü devam eder.
+Örnek kullanımı şu şekildedir:
+while kosul:
+    yapilacak_islem
+"""
+
+i = 0 
+while i < 5: # i küçüktür 5'ten koşulu doğru olduğu sürece yazdırma işlemini yap.
+    print(i)
+    i = i + 1
+
+print(f"i: {i}")
+
+# sayaç mantığı
+sayac = 1
+while sayac <= 3:
+    print("merhaba")
+    sayac += 1 # bu aslında sayac = sayac + 1 işlemi yerine geçer.
+
+# while + if kullanımı
+i = 0
+while i < 10:
+
+    if i % 2 == 0:
+        print(f"çift: {i}")
+    
+    i += 1
+
+# kullanıcı kontrollü while
+giris = ""
+while giris != "q": 
+    giris = input("Çıkmak için q yazın: ")
+    print(f"Kullanıcı mesajı: {giris}")
+```
+
+```
+"""
+break nedir?
+    - döngüyü tamamen durdurmak için kullanılır.
+    - koşul sağlandığında döngüden çıkar ve bir daha devam etmez.
+"""
+
+for i in range(10):
+    
+    # eğer i değeri 5'e eşitse döngüden çıksın, yani döngü devam etmesin.
+    if i == 5:
+        break
+    print(i)
+
+"""
+continue nedir?
+    - o anki turun atlanması ama döngünün devam etmesi için kullanılır.
+"""
+
+for i in range(10):
+    if i == 5:
+        continue
+    print(i)
+
+"""
+pass nedir?
+    - henüz kod yazmadığımız yerde o kısmı boş bırakmak için kullanılır.
+    - program hata vermez ama hiçbir işlem yapılmaz.
+"""
+
+if True:
+    # burayı sonra doldur
+    pass
+
+for i in range(3):
+    if i == 1:
+        pass
+        # todo: eğer 1 ise buraya bir şeyler yap
+    print(i)
+
+"""
+nested yapılar:
+    - yapıların birbirinin içinde olması
+    - if içerisinde if, for içerisinde if gibi, if içerisinde while gibi
+"""
+
+# for içerisinde if 
+for i in range(5):
+    if i % 2 == 0:
+        print(i)
+
+# if içerisinde if
+yas = 20
+ogrenci = True
+
+if yas < 25:
+    if ogrenci:
+        print("Öğrenci indirimi")
+
+# for içerisinde for
+for i in range(3):
+    for j in range(2):
+        print(f"i: {i}, j: {j}")
+```
