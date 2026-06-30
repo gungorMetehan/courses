@@ -21,6 +21,13 @@
      + 2.10. Set [Video, 7:57 dk]
      + 2.11. Veri Yapıları Arasındaki Farklar [Video, 7:44 dk]
      + 2.12. Python Temel Yapılar Ödev ve Çözümleri [Video, 5:04 dk]
+* 3.) Döngüler ve Kontrol Yapıları
+     + 3.1. If Else Mantığı [Video, 17:28 dk]
+     + 3.2. For Döngüsü [Video, 14:06 dk]
+     + 3.3. While Döngüsü [Video, 13:47 dk]
+     + 3.4. Break, Continue, Pass ve Nested Yapılar [Video, 11:37 dk]
+     + 3.5. Döngüler ve Kontrol Yapıları Ödev ve Çözümleri [Video, 3:41 dk]
+
 
 # Bilgi
 **Eğitim Dili:** Türkçe
