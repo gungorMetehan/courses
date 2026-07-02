@@ -27,7 +27,12 @@
      + 3.3. While Döngüsü [Video, 13:47 dk]
      + 3.4. Break, Continue, Pass ve Nested Yapılar [Video, 11:37 dk]
      + 3.5. Döngüler ve Kontrol Yapıları Ödev ve Çözümleri [Video, 3:41 dk]
-
+* 4.) Fonksiyonlar
+     + 4.1. Hazır Fonksiyonlar [Video, 13:23 dk]
+     + 4.2. Kullanıcı Tanımlı Fonksiyonlar 1 [Video, 15:58 dk]
+     + 4.3. Kullanıcı Tanımlı Fonksiyonlar 2 [Video, 13:23 dk]
+     + 4.4. Scope [Video, 9:34 dk]
+     + 4.5. Fonksiyonlar Mini Proje [Video, 10:43 dk]
 
 # Bilgi
 **Eğitim Dili:** Türkçe
