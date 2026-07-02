@@ -273,3 +273,46 @@ for i in range(3):
     for j in range(2):
         print(f"i: {i}, j: {j}")
 ```
+
+Öğrenci Harf Notu Projesi
+```
+# not hesaplama sistemi
+def ortalama_hesapla(vize: float, final: float) -> float:
+    """
+    Bu fonksiyon vize notunun %40'ını, final notunun %60'ını alarak öğrencinin not ortalamasını hesaplar.
+    """
+    ortalama = vize * 0.4 + final * 0.6
+    return ortalama
+
+def harf_notu_belirle(ortalama: float) -> str:
+    """
+    Bu fonksiyon, öğrencinin not ortalamasını harf notuna çevirir.
+    """
+    if ortalama >= 85:
+        return "A"
+    elif ortalama >= 70:
+        return "B"
+    elif ortalama >= 50:
+        return "C"
+    else:
+        return "F"
+
+def sonucu_yazdir(isim: str, ortalama: float, harf: str):
+    """
+    Bu fonksiyon, öğrencinin sonucunu ekrana yazdırır.
+    """
+    print("-------SONUÇ-------")
+    print(f"Öğrenci: {isim}")
+    print(f"Ortalama: {ortalama}")
+    print(f"Harf Notu: {harf}")
+
+# program akışı
+isim = input("Öğrenci Adı: ")
+vize = float(input("Vize Notu: "))
+final = float(input("Final Notu: "))
+
+ortalama = ortalama_hesapla(vize = vize, final = final)
+harf = harf_notu_belirle(ortalama = ortalama)
+
+sonucu_yazdir(isim = isim, ortalama = ortalama, harf = harf)
+```
