@@ -33,6 +33,16 @@
      + 4.3. Kullanıcı Tanımlı Fonksiyonlar 2 [Video, 13:23 dk]
      + 4.4. Scope [Video, 9:34 dk]
      + 4.5. Fonksiyonlar Mini Proje [Video, 10:43 dk]
+* 5.) Dosya İşlemleri
+     + 5.1. Dosya Açma ve Okuma [Video, 12:22 dk]
+     + 5.2. Dosya Üzerinde İşlem [Video, 4:54 dk]
+     + 5.3. Dosya Yazma [Video, 5:39 dk]
+     + 5.4. With Yapısı [Video, 4:20 dk]
+     + 5.5. Dosya İşlemleri Ödev ve Çözümleri [Video, 2:57 dk]
+* 6.) Hata Yönetimi
+     + 6.1. Hata Türleri [Video, 15:05 dk]
+     + 6.2. Try Except Else Finally [Video, 14:28 dk]
+     + 6.3. Hata Yönetimi Mini Proje [Video, 9:24 dk]
 
 # Bilgi
 **Eğitim Dili:** Türkçe
