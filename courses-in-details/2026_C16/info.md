@@ -43,6 +43,9 @@
      + 6.1. Hata Türleri [Video, 15:05 dk]
      + 6.2. Try Except Else Finally [Video, 14:28 dk]
      + 6.3. Hata Yönetimi Mini Proje [Video, 9:24 dk]
+* 7.) Ortam ve Paket Yönetimi
+     + 7.1. Ortam ve Paket Yönetimi [Video, 13:47 dk]
+     + 7.2. Requirements Dosyası Oluşturma [Video, 6:49 dk]
 
 # Bilgi
 **Eğitim Dili:** Türkçe
