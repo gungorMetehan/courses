@@ -54,7 +54,7 @@
 
 **Eğitmenler:** Kaan Can Yılmaz
 
-**Organizasyon:** Turkish Artificial Intelligence Academy (Türkiye Yapay Zeka Akademisi)
+**Organizasyon:** Türkiye Artificial Intelligence Academy (Türkiye Yapay Zeka Akademisi)
 
 # Notlar
 Eğitimi çevrim içi olarak aldım.
