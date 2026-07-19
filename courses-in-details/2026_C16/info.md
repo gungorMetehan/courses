@@ -46,6 +46,17 @@
 * 7.) Ortam ve Paket Yönetimi
      + 7.1. Ortam ve Paket Yönetimi [Video, 13:47 dk]
      + 7.2. Requirements Dosyası Oluşturma [Video, 6:49 dk]
+* 8.) NumPy
+     + 8.1. NumPy Kütüphanesine Giriş [Video, 10:34 dk]
+     + 8.2. Numpy Diziler (ndarray) [Video, 12:06 dk]
+     + 8.3. Numpy Matematiksel İşlemler [Video, 12:26 dk]
+     + 8.4. Numpy İndeksleme ve Dilimleme [Video, 16:59 dk]
+     + 8.5. Numpy Dizi Birleştirme ve Bölme [Video, 11:34 dk]
+     + 8.6. Numpy Çok Boyutlu Diziler [Video, 12:00 dk]
+     + 8.7. Numpy Matris İşlemleri [Video, 8:02 dk]
+     + 8.8. Numpy Rastgele Sayı Üretimi [Video, 9:57 dk]
+     + 8.9. Numpy Ödev ve Çözümleri [Video, 3:12 dk]
+
 
 # Bilgi
 **Eğitim Dili:** Türkçe
