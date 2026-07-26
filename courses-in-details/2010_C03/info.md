@@ -21,14 +21,10 @@ Bu eğitimi niçin aldığımı hala bilmiyorum. Samsun'da öğrenci iken eğiti
 Tek hatırladığım, eğitmenlerden biri Stefano D'Anna idi, Tanrılar Okulu isimli kitabın yazarı. Organizasyonu ise Sinan Ergin isimli bir eğitmen yapıyordu. Sanıyorum o da eğitimlerden birini veriyordu.
 
 samsev.org.tr'de bu eğitim ile ilgili şöyle bir yazı da çıkmış:
-Spor-Eğitim ve Tanıtım maddeleri üzerine Samsun’a hizmet eden Samsev, bu kez Eğitim alanında satış ve pazarlama yeteneklerini geliştiren “Pazarlama ve Satış Okulum” adlı organizasyonu gerçekleştirdi.
-
+> Spor-Eğitim ve Tanıtım maddeleri üzerine Samsun’a hizmet eden Samsev, bu kez Eğitim alanında satış ve pazarlama yeteneklerini geliştiren “Pazarlama ve Satış Okulum” adlı organizasyonu gerçekleştirdi.
 Asemble Eğitim ve Danışmanlık adlı profesyonel şirket ile ortaklaşa düzenlenen eğitim uydudan canlı yayın ile Samsun Ticaret ve Sanayi Odası Davut Altan Meclis Salonunda gerçekleştirilmiştir. Toplam dört hafta süren eğitim esnasında canlı yayın ile 18 saat ders verilmiş olup, bu ortak çalışma saatleri dışında katılımcılara verilen şifreler sayesinde yine internet üzerinden ders çalışabilme ve soru sorabilme ayrıcalığı tanınmıştır.
-
 Eğitim sonrası katılımcılar, sponsor olan 30’u aşkın Ulusal firmaların insan kaynakları ile iş için mülakat görüşmesi yapma imkanı bulacaklar. Ayrıca eğitim sürecinin sonunda başarılı olan katılımcılar onaylı sertifikalarını alacaklar.
-
 Eğitimlerin sonunda 25.05.2010 tarihinde yapılan toplantıda katılımcıların görüşleri alınmış, gelecekte tekrarı yapılacak olan eğitim ile ilgili tüm konular görüşülmüştür. İş arayan katılımcılarımızın bu proje kapsamı dışında Vakfımız sitesindeki insan kaynaklarına özgeçmişlerini bırakmaları durumunda da kendilerine yardımcı olmaya çalışacağımız belirtilmiştir.
-
 Eğitim süreci boyunca imkânlarını Vakfımız ve katılımcılar ile paylaşan STSO’ ya ve eğitim sonu toplantımıza katılarak, kursiyerlerle söyleşi yapan STSO Başkanı Sayın Salih Zeki Murzioğlu’na teşekkürlerimizi sunuyoruz.
 
 <img width="700" height="525" alt="samsev3" src="https://github.com/user-attachments/assets/ba2f73c2-b685-4d91-8064-1ccbda1ee0b3" />
