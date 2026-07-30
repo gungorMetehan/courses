@@ -56,6 +56,16 @@
      + 8.7. Numpy Matris İşlemleri [Video, 8:02 dk]
      + 8.8. Numpy Rastgele Sayı Üretimi [Video, 9:57 dk]
      + 8.9. Numpy Ödev ve Çözümleri [Video, 3:12 dk]
+* 9.) Pandas
+     + 9.1. Pandas Kütüphanesine Giriş [Video, 8:18 dk]
+     + 9.2. Series Veri Yapısı [Video, 14:15 dk]
+     + 9.3. DataFrame Veri Yapısı [Video, 11:20 dk]
+     + 9.4. Veri Okuma ve Yazma [Video, 9:58 dk]
+     + 9.5. Veri Seçme ve Filtreleme [Video, 16:15 dk]
+     + 9.6. Sütun ve Satır İşlemleri [Video, 8:59 dk]
+     + 9.7. Veri Sıralama ve Gruplama [Video, 13:51 dk]
+     + 9.8. Temel Pandas Fonksiyonları [Video, 9:43 dk]
+     + 9.9. Pandas Ödev ve Çözümleri [Video, 2:07 dk]
 
 
 # Bilgi
