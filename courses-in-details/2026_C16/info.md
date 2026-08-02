@@ -19,7 +19,7 @@
 
 **Eğitmenler:** Mohammed Irfan
 
-**Organizasyon:** uniathena
+**Organizasyon:** uniAthena
 
 # Notlar
 Eğitimi çevrim içi olarak aldım. Birkaç gün süren bu asenkron eğitimi 3 quizi ile birlikte 2 Ağustos 2026 tarihinde tamamladım.
