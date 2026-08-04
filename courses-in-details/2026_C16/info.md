@@ -321,4 +321,7 @@ Examples Of Semi-Structured Data
 
 Personal data stored in an XML file-
 
+```
 <rec><name>PrashantRao</name><sex>Male</sex><age>35</age></rec><rec><name>Seema R.</name><sex>Female</sex><age>41</age></rec><rec><name>SatishMane</name><sex>Male</sex><age>29</age></rec><rec><name>SubratoRoy</name><sex>Male</sex><age>26</age></rec><rec><name>JeremiahJ.</name><sex>Male</sex><age>35</age></rec>
+```
+
