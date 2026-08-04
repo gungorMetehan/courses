@@ -17,7 +17,7 @@
 
 **Eğitim Adı:** Basics of Data Science
 
-**Eğitmenler:** Mohammed Irfan
+**Eğitmenler:** Mohammed Irfan (Faculty)
 
 **Organizasyon:** uniAthena
 
