@@ -66,6 +66,14 @@
      + 9.7. Veri Sıralama ve Gruplama [Video, 13:51 dk]
      + 9.8. Temel Pandas Fonksiyonları [Video, 9:43 dk]
      + 9.9. Pandas Ödev ve Çözümleri [Video, 2:07 dk]
+* 10.) Matplotlib
+     + 10.1. Matplotlib Kütüphanesine Giriş [Video, 7:33 dk]
+     + 10.2. Çizgi Grafiği (Line Plot) [Video, 9:11 dk]
+     + 10.3. Sütun Grafiği (Bar Chart) [Video, 7:58 dk]
+     + 10.4. Pasta Grafiği (Pie Chart) [Video, 8:52 dk]
+     + 10.5. Dağılım Grafiği (Scatter Plot) [Video, 8:04 dk]
+     + 10.6. Alt Grafikler (Subplots) [Video, 8:48 dk]
+     + 10.7. Matplotlib Ödev ve Çözümleri [Video, 3:13 dk]
 
 
 # Bilgi
