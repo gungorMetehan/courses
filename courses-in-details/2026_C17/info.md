@@ -74,6 +74,12 @@
      + 10.5. Dağılım Grafiği (Scatter Plot) [Video, 8:04 dk]
      + 10.6. Alt Grafikler (Subplots) [Video, 8:48 dk]
      + 10.7. Matplotlib Ödev ve Çözümleri [Video, 3:13 dk]
+* 11.) Nesne Yönelimli Programlama
+     + 11.1. Class Nedir [Video, 9:08 dk]
+     + 11.2. init Metodu [Video, 5:56 dk]
+     + 11.3. Attribute ve Method [Video, 8:25 dk]
+     + 11.4. Object Oluşturma ve Class Kullanımı [Video, 8:01 dk]
+     + 11.5. Nesne Yönelimli Programlama Mini Proje [Video, 7:12 dk]
 
 
 # Bilgi
