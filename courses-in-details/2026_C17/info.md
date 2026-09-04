@@ -80,6 +80,17 @@
      + 11.3. Attribute ve Method [Video, 8:25 dk]
      + 11.4. Object Oluşturma ve Class Kullanımı [Video, 8:01 dk]
      + 11.5. Nesne Yönelimli Programlama Mini Proje [Video, 7:12 dk]
+* 12.) Öğrenci Not Analiz Projesi
+     + 12.1. Öğrenci Not Analiz Projesine Giriş [Video, 5:47 dk]
+     + 12.2. Class Tanımlama ve Veri Okuma [Video, 9:45 dk]
+     + 12.3. Öğrenci Notları Üzerinden İstatistiksel Hesaplama [Video, 4:47 dk]
+     + 12.4. Filtreleme [Video, 6:20 dk]
+     + 12.5. Notların Grafik ile Gösterimi [Video, 4:28 dk]
+     + 12.6. Projenin Çalıştırılması [Video, 6:14 dk]
+* 13.) Eğitim Sonu-Kapanış
+     + 13.1. Eğitimde Ne Öğrendik [Video, 2:13 dk]
+     + 13.2. Eğitimden Sonraki Adım Ne Olmalı [Video, 1:29 dk]
+     + 13.3. Öğrenmeye Devam Et [Metin]
 
 
 # Bilgi
