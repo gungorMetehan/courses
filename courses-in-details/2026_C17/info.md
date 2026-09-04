@@ -103,7 +103,7 @@
 **Organizasyon:** Türkiye Artificial Intelligence Academy (Türkiye Yapay Zeka Akademisi)
 
 # Notlar
-Eğitimi çevrim içi olarak aldım.
+Eğitimi çevrim içi olarak (https://turkiyeyapayzekaakademisi.com/) aldım ve 04.09.2026 tarihinde tamamladım.
 Eğitim sırasında aldığım bazı notlar şunlar:
 * `input()` fonksiyonu çıktı olarak string ifade verir.
 ```
