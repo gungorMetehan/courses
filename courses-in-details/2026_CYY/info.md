@@ -214,3 +214,7 @@ AdventureWorks Sales Data 2022.csv
 dosyalarının aynı sütun yapısına sahip olması sayesinde üç farklı yıla ait satış verileri tek bir tabloda birleştirilebilmiştir.
 
 Özetle, **aynı klasörde bulunan ve aynı sütun yapısına sahip CSV dosyalarını Power BI'a tek tek aktarmak yerine Folder bağlantısı kullanarak topluca içe aktarabilir ve Append mantığıyla tek bir veri seti hâline getirebiliriz.**
+
+## Primary Key'lerin Belirlenmesi
+Eğitmen **Primary & Foreign Keys** bölümünde tablolardaki primary key'lerin belirlenmesini gösterdi. Bu aslında mantıklı. Genelde kullanmadığım için ilgimi çekti. Tablo içe aktarıldıktan sonra şu yol izlenmeli:
+**Model View** kısmı açıldıktan sonra ilgili tabloya tıklanmalı. Bu halde sağda açılan **Properties** menüsünden **Key column** için veri setinde gerçekten primary key olan sütun girilmeli. İlerleyen zamanda işe yarayabilir.
