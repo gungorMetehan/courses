@@ -218,3 +218,7 @@ dosyalarının aynı sütun yapısına sahip olması sayesinde üç farklı yıl
 ## Primary Key'lerin Belirlenmesi
 Eğitmen **Primary & Foreign Keys** bölümünde tablolardaki primary key'lerin belirlenmesini gösterdi. Bu aslında mantıklı. Genelde kullanmadığım için ilgimi çekti. Tablo içe aktarıldıktan sonra şu yol izlenmeli:
 **Model View** kısmı açıldıktan sonra ilgili tabloya tıklanmalı. Bu halde sağda açılan **Properties** menüsünden **Key column** için veri setinde gerçekten primary key olan sütun girilmeli. İlerleyen zamanda işe yarayabilir.
+
+
+## Active ve Inactive Relationships
+Bir modeldeki iki tablo arasında yalnızca bir tane aktif ilişki kurulabilir. Diğerleri inactive olacaktır. Inactive olan ilişkiler noktalı çizgiler ile gösterilir modelde. Peki, yalnızca 1 aktif ilişki kurulabiliyorsa inaktif ilişki neden var? İki nedeni var: Birincisi, daha sonraları inaktif ilişki kullanılabilir, hazırda bekliyor olur. İkincisi ise DAX kodlarıyla bu inaktif ilişkiden zorlama bir şekilde faydalanabilir.
