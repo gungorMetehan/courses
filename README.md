@@ -10,6 +10,7 @@
 
 | **Year** |                         **Course**                                           |             **Organization**            |
 |:--------:|------------------------------------------------------------------------------|-----------------------------------------|
+| 2026     | Application-Based Machine Learning                                           | Turkcell                                |
 | 2026     | Python for Artificial Intelligence                                           | Türkiye Artificial Intelligence Academy |
 | 2026     | Basics of Data Science                                                       | uniAthena                               |
 | 2026     | Learning SQL Through Hands-On Practice                                       | BTK Akademi                             |
