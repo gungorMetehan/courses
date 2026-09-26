@@ -26,7 +26,51 @@
    + Kutu - Sürü - Cat - Korelasyon Grafiği Analizi [Video, 16:21 dk]
    + Aykırı Değer Tespiti [Video, 9:22 dk]
    + Modelleme ve Hiperparametre Ayarlanması [Video, 19:35 dk]
-
+* Rakamların Görüntüsünü Sınıflandırma
+   + Rakamların Görüntüsünü Sınıflandırma Giriş
+   + Rakamların Görüntüsünü Sınıflandırma Projesine Giriş [Video, 2:09 dk]
+   + Veri Yükleme ve Ön İşleme [Video, 11:29 dk]
+   + PCA ile Boyut İndirgeme [Video, 6:50 dk]
+   + Model Eğitimi ve Izgara Arama [Video, 7:15 dk]
+   + Voting Classifier [Video, 3:46 dk]
+   + Sonuçların Değerlendirilmesi [Video, 5:32 dk]
+* Ev Fiyatı Tahmini
+   + Ev Fiyatı Tahmini Giriş
+   + Ev Fiyatı Tahmini Projesine Giriş [Video, 2:20 dk]
+   + Veri Yükleme ve Ön İşleme [Video, 11:51 dk]
+   + Lineer, Ridge ve Lasso Regresyon Eğitimi ve Hiperparametre Ayarlaması [Video, 13:19 dk]
+   + ElastikNet Eğitimi ve Hiperparametre Ayarlaması [Video, 9:37 dk]
+   + Modellerin Performanslarını Karşılaştırma [Video, 10:21 dk]
+* Müşteri Segmentasyonu
+   + Müşteri Segmentasyonu Giriş
+   + Veri Yükleme ve Görselleştirme [Video, 18:53 dk]
+   + K-Means Oluşturulması ve Sonuçlarının Görselleştirilmesi [Video, 8:00 dk]
+   + Dendrogram Oluşturulması ve Görselleştirilmesi [Video, 6:13 dk]
+* Ürün Kümeleme ve Analizi
+   + Ürün Kümeleme ve Analizi Giriş
+   + Rastgele Ürün Verisi Oluşturma [Video, 12:23 dk]
+   + Temel Veri Analizi [Video, 14:46 dk]
+   + K-Means Kümeleme ve t-SNE ile Görselleştirme [Video, 6:10 dk]
+   + Dendrogram Görselleştirme [Video, 4:16 dk]
+* Pekiştirmeli Öğrenme ile Donmuş Göl Görevi
+   + Pekiştirmeli Öğrenme ile Donmuş Göl Görevi Giriş
+   + Ortam Tanımı [Video, 17:34 dk]
+   + Pekiştirmeli Öğrenme Ajanı Eğitimi [Video, 20:22 dk]
+   + Sonuçları Değerlendirme [Video, 5:54 dk]
+* Robot Keşif Görevi
+   + Robot Keşif Görevi Giriş
+   + Ortam Oluşturma [Video, 19:26 dk]
+   + Q-Öğrenme Ajanının Oluşturulması [Video, 19:51 dk]
+   + Eğitim ve Test Süreci [Video, 21:52 dk]
+* Diyabet Riski Tahmini
+   + Diyabet Riski Tahmini Giriş
+   + Veri Yükleme ve Keşifsel Veri Analizi [Video, 13:25 dk]
+   + Aykırı Değer Tespiti ve Temizlenmesi [Video, 9:59 dk]
+   + Model Eğitimi ve Değerlendirilmesi [Video, 16:51 dk]
+   + Izgara Arama ve Hiperparametre Ayarlaması [Video, 14:52 dk]
+* Eğitim Sonu
+   + Eğitim Sonu [Video, 3:44 dk]
+* Final Sınavı (20 Soru)
 
 
 # Bilgi
