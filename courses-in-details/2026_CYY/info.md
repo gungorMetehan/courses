@@ -222,3 +222,9 @@ Eğitmen **Primary & Foreign Keys** bölümünde tablolardaki primary key'lerin 
 
 ## Active ve Inactive Relationships
 Bir modeldeki iki tablo arasında yalnızca bir tane aktif ilişki kurulabilir. Diğerleri inactive olacaktır. Inactive olan ilişkiler noktalı çizgiler ile gösterilir modelde. Peki, yalnızca 1 aktif ilişki kurulabiliyorsa inaktif ilişki neden var? İki nedeni var: Birincisi, daha sonraları inaktif ilişki kullanılabilir, hazırda bekliyor olur. İkincisi ise DAX kodlarıyla bu inaktif ilişkiden zorlama bir şekilde faydalanabilir.
+
+## M Code ile DAX Arasındaki Fark
+Eğitmen, öğrencilerinin kendisine DAX ile M Code arasında ne fark diye sorular yönelttiğini söyledi. Eğitmen 75. bölümde şu şekilde açıkladı:
+- M and DAX are two distinct functional languages used within Power BI Desktop.
+- M is used in the Power Query Editor, and is designed specifically for extracting, transforming and loading data.
+- DAX is used in the Power BI front-end, and is designed specifically for analyzing relational data models.
