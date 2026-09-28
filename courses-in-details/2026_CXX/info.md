@@ -18,3 +18,7 @@ Sonrasında her bir satırdaki en küçük değerden sonraki en çok tekrar eden
 Eğitimin ikinci günü **Aybars Gülenyüz** isimli bir eğitmen tarafından verildi. Eğitim Toplam Ekipman Verimliliği (OEE) üzerineydi. Bu eğitimde de hem teorik hem uygulamalı kısım vardı. Temel hedef: makinelerin para kazanmak için sürekli kullanılması ve atölyedeki malzemenin kısa sürede paraya dönüştürülmesi.
 Bu eğitmen de Ohno'nun düşünceleri üzerine epey atıf yaptı. İsraf yürüyüşüne değinildi. Uygulamalı kısımda, örnek kurgu üzerinden bir makinenin gerçekte ne kadar çalıştığı hesaplandı ve görselleştirildi. Arada planlanan ve planlanmamış pek çok kaçağın olduğu gösterildi.
 Mevcut Durum Değer Akış Haritalama kısmı için atölyeye inemedik, zaman yetmedi. O nedenle eğitmen bu kısmı sınıfta gösterdi. Eğitmen iki adet kitap önerdi: Eliyahu M. Goldratt - The Goal ve İmai Maşaai - Kaizen.
+
+## 2. Dalga (Tasarım) Eğitimleri (28-29 Eylül 2026) - 1. Gün
+
+SMED konulu eğitimde ECRS metodolojisinden bahsedildi. E = Eliminate, C = Combine, R = Rearrange, S = Simplify anlamına geliyor. Hoca Türkçe olarak Yok Et, Birleştir, Tekrar Düzenle ve Basitleştir olarak anlattı.
