@@ -51,7 +51,33 @@
   - 46\. PRO TIP: Importing Excel Models [Video, 6 min]
   - 47\. Power Query Best Practices [Video, 2 min]
   - Quiz 2: QUIZ: Connecting & Shaping Data
-
+* Section 4: Creating a Data Model
+  - 48\. Section Introduction [Video, 2 min]
+  - 49\. Data Modeling 101 [Video, 5 min]
+  - 50\. Database Normalization [Video, 4 min]
+  - 51\. Fact & Dimension Tables [Video, 3 min]
+  - 52\. Primary & Foreign Keys [Video, 7 min]
+  - 53\. Relationships vs. Merged Tables [Video, 2 min]
+  - 54\. Creating Table Relationships [Video, 7 min]
+  - 55\. Managing & Editing Relationships [Video, 3 min]
+  - 56\. Star & Snowflake Schemas [Video, 3 min]
+  - 57\. ASSIGNMENT: Table Relationships [Video, 1 min]
+  - 58\. SOLUTION: Table Relationships [Video, 5 min]
+  - 59\. PRO TIP: Active & Inactive Relationships [Video, 4 min]
+  - 60\. Relationship Cardinality [Video, 5 min]
+  - 61\. Connecting Multiple Fact Tables [Video, 7 min]
+  - 62\. Filter Context & Filter Flow [Video, 6 min]
+  - 63\. Bi-Directional Filters & Ambiguity [Video, 10 min]
+  - 64\. Hiding Fields from Report View [Video, 4 min]
+  - 65\. ASSIGNMENT: Filter Flow [Video, 1 min]
+  - 66\. SOLUTION: Filter Flow [Video, 5 min]
+  - 67\. PRO TIP: Model Layouts [Video, 4 min]
+  - 68\. Data Formats & Categories [Video, 6 min]
+  - 69\. Creating Hierarchies [Video, 4 min]
+  - 70\. ASSIGNMENT: Hierarchies [Video, 1 min]
+  - 71\. SOLUTION: Hierarchies [Video, 2 min]
+  - 72\. Data Model Best Practices [Video, 1 min]
+  - Quiz 3: QUIZ: Creating a Data Model
 
 # Microsoft Power BI Desktop for Business Intelligence (Maven Analytics)
 ## Power BI'da Aynı Klasördeki Veri Setlerini Birleştirme
