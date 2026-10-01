@@ -15,6 +15,43 @@
   - 12\. Power BI Desktop Interface & Workflow [Video, 4 min]
   - 13\. Resources & Monthly Updates [Video, 2 min]
   - Quiz 1: QUIZ: Introducing Power BI Desktop
+* Section 3: Connecting & Shaping Data
+  - 14\. Section Introduction [Video, 2 min]
+  - 15\. Power BI Front-End vs. Back-End [Video, 2 min]
+  - 16\. Types of Data Connectors [Video, 9 min]
+  - 17\. The Power Query Editor [Video, 5 min]
+  - 18\. Basic Table Transformations [Video, 11 min]
+  - 19\. ASSIGNMENT: Table Transformations [Video, 1 min]
+  - 20\. SOLUTION: Table Transformations [Video, 6 min]
+  - 21\. PRO TIP: Storage & Connection Modes [Video, 3 min]
+  - 22\. Connecting to a Database [Video, 5 min]
+  - 23\. Extracting Data from the Web [Video, 4 min]
+  - 24\. Data QA & Profiling Tools [Video, 11 min]
+  - 25\. Text Tools [Video, 10 min]
+  - 26\. ASSIGNMENT: Text-Specific Tools [Video, 1 min]
+  - 27\. SOLUTION: Text-Specific Tools [Video, 3 min]
+  - 28\. Numerical Tools [Video, 10 min]
+  - 29\. ASSIGNMENT: Numerical Tools [Video, 1 min]
+  - 30\. SOLUTION: Numerical Tools [Video, 2 min]
+  - 31\. Date & Time Tools [Video, 11 min]
+  - 32\. Change Type with Locale [Video, 5 min]
+  - 33\. PRO TIP: Rolling Calendars [Video, 8 min]
+  - 34\. ASSIGNMENT: Calendar Tables [Video, 1 min]
+  - 35\. SOLUTION: Calendar Tables [Video, 2 min]
+  - 36\. Index & Conditional Columns [Video, 10 min]
+  - 37\. Calculated Column Best Practices [Video, 3 min]
+  - 38\. Grouping & Aggregating [Video, 8 min]
+  - 39\. Pivoting & Unpivoting [Video, 7 min]
+  - 40\. Merging Queries [Video, 7 min]
+  - 41\. Appending Queries [Video, 7 min]
+  - 42\. PRO TIP: Appending Files from a Folder [Video, 8 min]
+  - 43\. Data Source Settings [Video, 5 min]
+  - 44\. PRO TIP: Data Source Parameters [Video, 14 min]
+  - 45\. Refreshing Queries [Video, 3 min]
+  - 46\. PRO TIP: Importing Excel Models [Video, 6 min]
+  - 47\. Power Query Best Practices [Video, 2 min]
+  - Quiz 2: QUIZ: Connecting & Shaping Data
+
 
 # Microsoft Power BI Desktop for Business Intelligence (Maven Analytics)
 ## Power BI'da Aynı Klasördeki Veri Setlerini Birleştirme
