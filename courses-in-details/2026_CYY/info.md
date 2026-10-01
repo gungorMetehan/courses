@@ -1,13 +1,20 @@
 # Contents
 * Section 1: Getting Started
-  1. READ ME: Important Notes for New Students [Video, 2 min]
-  2. Course Introduction [Video, 3 min]
-  3. Meet Maven Analytics [Video, 1 min]
-  4. Course Structure & Outline [Video, 3 min]
-  5. DOWNLOAD: Course Resources [Video, 1 min]
-  6. Introducing the Course Project [Video, 3 min]
-  7. Setting Expectations [Video, 2 min]
-
+  - 1\. READ ME: Important Notes for New Students [Video, 2 min]
+  - 2\. Course Introduction [Video, 3 min]
+  - 3\. Meet Maven Analytics [Video, 1 min]
+  - 4\. Course Structure & Outline [Video, 3 min]
+  - 5\. DOWNLOAD: Course Resources [Video, 1 min]
+  - 6\. Introducing the Course Project [Video, 3 min]
+  - 7\. Setting Expectations [Video, 2 min]
+* Section 2: Introducing Microsoft Power BI Desktop
+  - 8\. Section Introduction [Video, 1 min]
+  - 9\. Meet Power BI Desktop [Video, 5 min]
+  - 10\. Downloading Power BI [Video, 3 min]
+  - 11\. IMPORTANT: Adjusting Settings [Video, 3 min]
+  - 12\. Power BI Desktop Interface & Workflow [Video, 4 min]
+  - 13\. Resources & Monthly Updates [Video, 2 min]
+  - Quiz 1: QUIZ: Introducing Power BI Desktop
 
 # Microsoft Power BI Desktop for Business Intelligence (Maven Analytics)
 ## Power BI'da Aynı Klasördeki Veri Setlerini Birleştirme
