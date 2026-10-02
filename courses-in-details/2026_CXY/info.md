@@ -12,3 +12,5 @@ Adayların mülakatta yapmaması ya da değinmemesi gereken konular ile ilgili �
 (3) Kişisel algılanabilecek bir şey söylemeyin: LinkedIn profil fotoğrafınız çok güzel gibi şeyler söylemeyin, (4) İlanlara bakarken başka bir pozisyon için ilanınızı gördüm, onun için bilgi alabilir miyim demeyin, (5) Şirketi araştırın ama "içerideki arkadaşlarımdan öğrendim sizde çok fazla mesai oluyormuş" gibi bir cümle kurmayın,
 (6) Bir de şunu sorun: "Bu şirkette başarılı olmak ve üst pozisyonlara yükselmek için çalışanlarda aradığınız en önemli yetkinlikler nelerdir?"
 Ayrıca Yavuz Çelik, bir şirketten ayrılıp tekrar şirkete başvuran çalışanlar için farklı görüşler olduğundan bahsetti ve tekrar işe alımda genellikle "çıkış mülakatı"nın önemli olduğunu ifade etti. Eğer burada bir sorun yoksa aynı çalışanı tekrar istihdam etmenin pek çok artısı (oryantasyon, şirket kültürü, farklı şirketlerin know-how'ı gibi) var.
+
+Yavuz Çelik, Fibabanka bundan 5 yıl önce de 1700 kişiydi, şimdi de 1700 kişi. Ancak BT birimi 100 kişi idi. Şu anda bu 400'e çıkmış durumda. Özellikle BT ve veri yönetimi alanındaki işe alımların arttığını, diğerlerinin azaldığını söyledi.
