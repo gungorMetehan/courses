@@ -3,9 +3,9 @@
 TUSAŞ Akademi'nin 2026 yılında hayata geçirdiği bir proje (EGP - Eğitmen Gelişim Programı) kapsamında eğitmenler FAZ 1, FAZ 2 ve FAZ 3 gibi üç farklı faza yerleştirildi. Bu kapsamda ben de FAZ 2'nin eğitimlerini aldım.
 Bu faz üç günlük eğitim kurgusundan oluşuyordu:
 
-**Eğitim 1: Oyunlaştırma ve Hikayeleştirme Eğitimi (Hidayet Uskal ve Ümit Sami Kubuş)**
-**Eğitim 2: TA (Transaksiyonel Analiz) ile Sınıf Yönetimi (Hakan Güneş)**
-**Eğitim 3: [Henüz Başlanmadı]**
+- **Eğitim 1: Oyunlaştırma ve Hikayeleştirme Eğitimi (Hidayet Uskal ve Ümit Sami Kubuş)**
+- **Eğitim 2: TA (Transaksiyonel Analiz) ile Sınıf Yönetimi (Hakan Güneş)**
+- **Eğitim 3: [Henüz Başlanmadı]**
 
 **Eğitim 1 Notlar:**
 Eğitim 14 Eylül 2026 tarihinde gerçekleştirildi, 1 tam günlük bir eğitimdi. Ancak bu eğitim aslında iki yarım günlük eğitimde oluşuyordu. İlk kısmı AçıkBeyin'den Hidayet Uskal, ikinci kısmı yine AçıkBeyin'den Ümit Sami Kubuş sundu.
