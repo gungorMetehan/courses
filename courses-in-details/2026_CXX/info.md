@@ -5,6 +5,7 @@ TUSAŞ Akademi olarak Model Fabrika'nın "Yalın Üretim" üzerine verdiği 42. 
 * 2. Dalga (Tasarım) Eğitimleri
 * 3. Dalga (Uygulama) Eğitimleri
 * 4. Dalga (Sürdürülebilirlik) Eğitimleri
+
 Her dalga iki tam günlük eğitim içeriyordu.
 
 ## 1. Dalga (Teşhis) Eğitimleri (1-2 Eylül 2026) - 1. Gün
