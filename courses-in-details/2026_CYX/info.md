@@ -41,6 +41,17 @@ Bu ego durumları ise şunlardır:
 6) Uyumlu Çocuk: Boyun eğer, kızar ama söylemez, söylenir, başkalarına olumsuz anlatır.
 Herkes, tüm ego durumlarından birinde olabilir. Zaman zaman bu değişebilir. 
 
+Eğitmen, temas iletisi kavramını açıklamak için bir video izletti. İnsanların hangi ego durumlarında olduğunu gözlemlememiz için. Bu video Masum isimli dizide ilaç sahnesiydi. Baba, çocuğuna iyileşmesi için bir ilaç içirmeye çalışıyordu. Haluk Bilginer (Baba), Nur Sürer (Anne) ve Okan Yalabık (Çocuk) rolünde idi.
+
+Tarık (Okan Yalabık): Sen ne diyorsun anne bu işe?
+Nermin (Nur Sürer): Ne işine oğlum?
+Tarık: İlaç işte anne... İçmesem mi ben bunu? Sonra ruh gibi oluyor insan.
+Nermin: İlaç işlerine baban bakıyor oğlum. Beni karıştırmayın, eczacı olan baban...
+Cevdet (Haluk Bilginer): İstemiyorum diyor çocuk... Zorla mı içireceksin?
+Tarık: İstemiyorum demiyorum anne... Korkuyorum diyorum ya. Korkma oğlum der insan. İç oğlum bir şey olmaz der.
+
+Tarık, burada 'doğal çocuk', Cevdet 'destekleyici ebeveyn' ve Nermin burada 'eleştiren ebeveyn' olarak nitelendirilebilir.
+
 Eğitmen, eğitimin sonunda bir de kitap önerilerinde bulundu:
 - Lindsay C. Gibson - Olgunlaşmamış Ebeveynlerin Yetişkin Çocukları
 - Muriel James ve Dorothy Jongeward - Kazanmak İçin Doğarız: Gestalt Deneyleriyle Kişiler Arası İlişkiler Analizi
