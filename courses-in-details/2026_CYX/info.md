@@ -1,6 +1,6 @@
 # Eğitmen Gelişim Programı - FAZ 2 Eğitimleri
 
-TUSAŞ Akademi'nin 2026 yılında hayata geçirdiği bir proje (EGP - Eğitmen Gelişim Programı) kapsamında eğitmenler FAZ 1 - FAZ 2 ve FAZ 3 gibi üç farklı faza yerleştirildi. Bu kapsamda ben de FAZ 2'nin eğitimlerini aldım.
+TUSAŞ Akademi'nin 2026 yılında hayata geçirdiği bir proje (EGP - Eğitmen Gelişim Programı) kapsamında eğitmenler FAZ 1, FAZ 2 ve FAZ 3 gibi üç farklı faza yerleştirildi. Bu kapsamda ben de FAZ 2'nin eğitimlerini aldım.
 Bu faz üç günlük eğitim kurgusundan oluşuyordu:
 Eğitim 1: Oyunlaştırma ve Hikayeleştirme Eğitimi (Hidayet Uskal ve Ümit Sami Kubuş)
 Eğitim 2: TA (Transaksiyonel Analiz) ile Sınıf Yönetimi (Hakan Güneş)
