@@ -1,3 +1,63 @@
+# İçerik
+**Öğren & Dönüş Programı – 1. Dalga (Teşhis) 1. Gün (01.09.2026)**
+
+| Başlangıç | Bitiş | Süre | İçerik | Yer |
+|:---------:|:-----:|:----:|--------|-----|
+| 09:00 | 09:30 | 00:30 | Tanışma + Tablet Tanıtımı + Ö&D Dinamikleri | Derslik |
+| 09:30 | 09:45 | 00:15 | ASO Model Fabrika Gemba Tanıtımı | Derslik > Atölye |
+| 09:45 | 10:00 | 00:15 | Çay/Kahve Arası | — |
+| 10:00 | 11:00 | 01:00 | Yalın Felsefeyi Anlamak | Derslik |
+| 11:00 | 11:45 | 00:45 | Öğle Arası | — |
+| 11:45 | 12:15 | 00:30 | İsraf Yürüyüşü: 3 Boyutta Görmeyi Öğrenmek | Derslik |
+| 12:15 | 12:30 | 00:15 | Çay/Kahve Arası | — |
+| 12:30 | 13:30 | 01:00 | İsraf Yürüyüşü: 3 Boyutta Görmeyi Öğrenmek | Atölye |
+| 13:30 | 13:45 | 00:15 | Çay/Kahve Arası | — |
+| 13:45 | 15:15 | 01:30 | Aktivite Örnekleme & Gölgeleme | Derslik > Atölye |
+| 15:15 | 15:30 | 00:15 | Çay/Kahve Arası | — |
+| 15:30 | 16:15 | 00:45 | Standart Zaman Ölçümü | Derslik |
+
+**Öğren & Dönüş Programı – 1. Dalga (Teşhis) 2. Gün (02.09.2026)**
+| Başlangıç | Bitiş | Süre | İçerik | Yer |
+|:---------:|:-----:|:----:|--------|-----|
+| 09:00 | 09:45 | 00:45 | OEE: Toplam Ekipman Verimliliği | Derslik |
+| 09:45 | 10:00 | 00:15 | Çay/Kahve Arası | — |
+| 10:00 | 11:15 | 01:15 | OEE: Toplam Ekipman Verimliliği | Atölye |
+| 11:15 | 11:30 | 00:15 | Çay/Kahve Arası | — |
+| 11:30 | 12:15 | 00:45 | Ürün/Proses Segmentasyonu | Derslik |
+| 12:15 | 13:00 | 00:45 | Öğle Arası | — |
+| 13:00 | 13:30 | 00:30 | Proses Akış / VSM: Mevcut Durum Değer Akış Haritalama | Derslik |
+| 13:30 | 13:45 | 00:15 | Çay/Kahve Arası | — |
+| 13:45 | 15:00 | 01:15 | VSM: Mevcut Durum Değer Akış Haritalama | Derslik > Atölye |
+| 15:00 | 15:15 | 00:15 | Çay/Kahve Arası | — |
+| 15:15 | 16:15 | 01:00 | Firma Sunumları | Derslik |
+
+**Öğren & Dönüş Programı – 2. Dalga (Tasarım) 1. Gün (28.09.2026)**
+| Başlangıç | Bitiş | Süre | İçerik | Yer |
+|:---------:|:-----:|:----:|--------|-----|
+| 09:30 | 10:00 | 00:30 | Tasarım Dalgasına Hazırlanma | Derslik |
+| 10:00 | 10:30 | 00:30 | SMED - Tekli Dakikalarda Kalıp/Model Değişimi | Derslik |
+| 10:30 | 10:45 | 00:15 | Çay/Kahve Arası | — |
+| 10:45 | 12:00 | 01:15 | SMED - Tekli Dakikalarda Kalıp/Model Değişimi | Atölye |
+| 12:00 | 12:45 | 00:45 | Öğle Arası | — |
+| 12:45 | 14:00 | 01:15 | Yamazumi - Hat Dengeleme | Derslik > Atölye |
+| 14:00 | 14:15 | 00:15 | Çay/Kahve Arası | — |
+| 14:15 | 15:15 | 01:00 | FMS ve Hücre Tasarımı | Derslik > Atölye |
+| 15:15 | 15:30 | 00:15 | Çay/Kahve Arası | — |
+| 15:30 | 16:30 | 01:00 | İş İstasyonu Tasarımı - Performans Yönetimine Giriş ve KPI'ların Oluşturulması | Derslik > Atölye |
+
+**Öğren & Dönüş Programı – 2. Dalga (Tasarım) 2. Gün (29.09.2026)**
+| Başlangıç | Bitiş | Süre | İçerik | Yer |
+|:---------:|:-----:|:----:|--------|-----|
+| 09:30 | 10:30 | 01:00 | Performans Panosu ile Performans Takibi | Derslik > Atölye |
+| 10:30 | 10:45 | 00:15 | Çay/Kahve Arası | — |
+| 10:45 | 11:45 | 01:00 | 5S - Çalışma Alanı Organizasyonu | Derslik > Atölye |
+| 11:45 | 12:30 | 00:45 | Öğle Arası | — |
+| 12:30 | 13:30 | 01:00 | JIT - Just In Time (Tam Zamanında) | Derslik |
+| 13:30 | 13:45 | 00:15 | Çay/Kahve Arası | — |
+| 13:45 | 15:15 | 01:30 | SOCT - Standart Operasyon Kombinasyonu Tablosu | Derslik > Atölye |
+| 15:15 | 15:30 | 00:15 | Çay/Kahve Arası | — |
+| 15:30 | 16:30 | 01:00 | Firma Sunumları | Derslik |
+
 # ASO Model Fabrika
 
 TUSAŞ Akademi olarak Model Fabrika'nın "Yalın Üretim" üzerine verdiği 42. Öğren ve Dönüş Programı'na katıldım. Oldukça kapsamlı ve uzun soluklu bir eğitim programı bu. Eğitim programı şu şekilde ilerliyordu:
