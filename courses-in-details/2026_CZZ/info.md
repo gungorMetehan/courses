@@ -1,9 +1,14 @@
 # İçerik
- * 0. Eğitime Giriş
-   - 0.1. Tanıtım [Metin]
- * 1. Yapay Zekaya Giriş
-   - 1.1. Yapay Zeka Nedir ve Ne Değildir? [Video, 6 dk]
-   - 1.2. Yapay Zeka Günlük Hayatımızda Nerede? [Video, 5 dk]
+
+0. Eğitime Giriş
+   - 0.1 Tanıtım [Metin]
+1. Yapay Zekaya Giriş
+   - 1.1 Yapay Zeka Nedir ve Ne Değildir? [Video, 6 dk]
+   - 1.2 Yapay Zeka Günlük Hayatımızda Nerede? [Video, 5 dk]
+2. Yapay Zekanın Bugünkü Konumu ve Gelişimi
+   - 2.1 Yapay Zeka Neden Şimdi Bu Kadar Gündemde? [Video, 7 dk]
+   - 2.2 İnternet, Veri Patlaması ve Donanım Gücü [Video, 6 dk]
+   - 2.3 Büyük Dönüşüm: Transformer Mimarisi ve Chatbot Çağı [Video, 7 dk]
 
 
 # Bilgi
