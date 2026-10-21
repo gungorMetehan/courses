@@ -309,3 +309,5 @@ Eğitmen, öğrencilerinin kendisine DAX ile M Code arasında ne fark diye sorul
 - M and DAX are two distinct functional languages used within Power BI Desktop.
 - M is used in the Power Query Editor, and is designed specifically for extracting, transforming and loading data.
 - DAX is used in the Power BI front-end, and is designed specifically for analyzing relational data models.
+
+167. PRO TIP: Custom Tool Tips bölümünde ana sayfalardaki görsellere ek olarak eklenebilecek tooltip'ler ile ilgili güzel bilgiler vardı. Bu örnekler kullanılabilir.
