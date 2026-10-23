@@ -78,8 +78,63 @@
   - 71\. SOLUTION: Hierarchies [Video, 2 min]
   - 72\. Data Model Best Practices [Video, 1 min]
   - Quiz 3: QUIZ: Creating a Data Model
+* Section 5: Calculated Fields with DAX
+  - 73\. Section Introduction [Video, 2 min]
+  - 74\. Data Analysis Expressions 101 [Video, 1 min]
+  - 75\. DAX vs. M Languages [Video, 2 min]
+  - 76\. Intro to DAX Calculated Columns [Video, 8 min]
+  - 77\. Intro to DAX Measures [Video, 3 min]
+  - 78\. Implicit vs. Explicit Measures [Video, 7 min]
+  - 79\. Quick Measures [Video, 2 min]
+  - 80\. RECAP: Calculated Columns vs. Measures [Video, 1 min]
+  - 81\. PRO TIP: Dedicated Measure Tables [Video, 6 min]
+  - 82\. Understanding Filter Context [Video, 9 min]
+  - 83\. Step-by-Step DAX Measure Calculation [Video, 3 min]
+  - 84\. DAX Syntax & Operators [Video, 4 min]
+  - 85\. Common DAX Function Categories [Video, 4 min]
+  - 86\. Basic Math & Stats Functions [Video, 10 min]
+  - 87\. Counting Functions [Video, 12 min]
+  - 88\. ASSIGNMENT: Math & Stats Functions [Video, 1 min]
+  - 89\. SOLUTION: Math & Stats Functions [Video, 5 min]
+  - 90\. Conditional & Logical Functions [Video, 7 min]
+  - 91\. The SWITCH Function [Video, 11 min]
+  - 92\. ASSIGNMENT: Logical Functions [Video, 2 min]
+  - 93\. SOLUTION: Logical Functions [Video, 6 min]
+  - 94\. Common Text Functions [Video, 8 min]
+  - 95\. ASSIGNMENT: Text Functions [Video, 1 min]
+  - 96\. SOLUTION: Text Functions [Video, 5 min]
+  - 97\. Basic Date & Time Functions [Video, 8 min]
+  - 98\. ASSIGNMENT: Date & Time [Video, 1 min]
+  - 99\. SOLUTION: Date & Time [Video, 1 min]
+  - 100\. Joining Data with RELATED [Video, 9 min]
+  - 101\. The CALCULATE Function [Video, 15 min]
+  - 102\. DAX Measure Totals [Video, 7 min]
+  - 103\. ASSIGNMENT: CALCULATE [Video, 1 min]
+  - 104\. SOLUTION: CALCULATE [Video, 7 min]
+  - 105\. The ALL Function [Video, 10 min]
+  - 106\. ASSIGNMENT: CALCULATE & ALL [Video, 1 min]
+  - 107\. SOLUTION: CALCULATE & ALL [Video, 3 min]
+  - 108\. The FILTER Function [Video, 8 min]
+  - 109\. Iterator (X) Functions [Video, 15 min]
+  - 110\. ASSIGNMENT: Iterators [Video, 1 min]
+  - 111\. SOLUTION: Iterators [Video, 3 min]
+  - 112\. Time Intelligence Patterns [Video, 14 min]
+  - 113\. ASSIGNMENT: Time Intelligence [Video, 1 min]
+  - 114\. SOLUTION: Time Intelligence [Video, 9 min]
+  - 115\. DAX Best Practices [Video, 2 min]
+  - 116\. Quiz 4: QUIZ: Calculated Fields with DAX
 
-# Microsoft Power BI Desktop for Business Intelligence (Maven Analytics)
+
+# Bilgi
+**Eğitim Dili:** İngilizce
+
+**Eğitmen:** Chris Dutton & Aaron Parry
+
+**Organizasyon:** Maven Analytics (Udemy)
+
+# Notlar
+Eğitimi, Udemy Business üzerinden çevrim içi olarak aldım.
+
 ## Power BI'da Aynı Klasördeki Veri Setlerini Birleştirme
 
 Aynı klasörde bulunan ve aynı yapıya sahip veri setleri varsa, Power BI'da bu veri setleri birleştirilerek tek bir veri seti şeklinde içe aktarılabilir.
