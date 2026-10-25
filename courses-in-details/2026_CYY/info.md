@@ -457,4 +457,6 @@ Eğitmen, öğrencilerinin kendisine DAX ile M Code arasında ne fark diye sorul
 - M is used in the Power Query Editor, and is designed specifically for extracting, transforming and loading data.
 - DAX is used in the Power BI front-end, and is designed specifically for analyzing relational data models.
 
-167. PRO TIP: Custom Tool Tips bölümünde ana sayfalardaki görsellere ek olarak eklenebilecek tooltip'ler ile ilgili güzel bilgiler vardı. Bu örnekler kullanılabilir.
+**167. PRO TIP: Custom Tool Tips** bölümünde ana sayfalardaki görsellere ek olarak eklenebilecek tooltip'ler ile ilgili güzel bilgiler vardı. Bu örnekler kullanılabilir.
+
+**188. New Card Visual (Nov 2023)** bölümünde SVG templates ile KPI card'ların içine havalı çizgi grafikler eklenebileceğini gösterdi eğitmen. Burada www.kerrykolosko.com sitesine gitti ve Templates > SVG Templates yolunu seçti. Buradan aldığı kodu Measure için kullandı ve sonrasında koddaki bazı tablo - sütun isimlerini değiştirdi. Sonrasında çizginin rengini değiştirdi.
