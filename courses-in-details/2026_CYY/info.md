@@ -213,7 +213,7 @@
   - 197\. PART 2: Creating the Data Model [Text, 1 min]
   - 198\. PART 3: Adding DAX Measures [Text, 3 min]
   - 199\. PART 4: Building the Report [Text, 2 min]
-- Section 11: BONUS LESSON
+* Section 11: BONUS LESSON
   - 200\. BONUS LESSON [Text, 2 min]
 
 
