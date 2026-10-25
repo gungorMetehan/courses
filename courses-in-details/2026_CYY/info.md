@@ -182,6 +182,39 @@
   - 171\. PREVIEW: Publishing to Power BI Service [Video, 2 min]
   - 172\. Data Visualization Best Practices [Video, 1 min]
   - Quiz 5: QUIZ: Visualizing Data with Reports
+* Section 7: Artificial Intelligence (AI)
+  - 173\. Section Introduction [Video, 2 min]
+  - 174\. Anomaly Detection [Video, 6 min]
+  - 175\. Smart Narratives [Video, 10 min]
+  - 176\. Q&A Visuals [Video, 12 min]
+  - 177\. Decomposition Trees [Video, 8 min]
+  - 178\. Key Influencers [Video, 10 min]
+* Section 8: Power BI Optimization Tools
+  - 179\. Section Introduction [Video, 2 min]
+  - 180\. The Optimize Ribbon [Video, 3 min]
+  - 181\. Pausing Visuals [Video, 7 min]
+  - 182\. Optimization Presets [Video, 5 min]
+  - 183\. Applying All Slicers [Video, 3 min]
+  - 184\. Performance Analyzer [Video, 8 min]
+  - 185\. External Tools [Video, 3 min]
+* Section 9: New Power BI Features & Updates
+  - 186\. About this Section [Text, 1 min]
+  - 187\. Calculation Groups (Oct 2023) [Video, 22 min]
+  - 188\. New Card Visual (Nov 2023) [Video, 20 min]
+  - 189\. DAX Query View (Nov 2023) [Video, 11 min]
+  - 190\. Button Slicer (Nov 2023) [Video, 8 min]
+  - 191\. List Slicer (May 2025) [Video, 9 min]
+  - 192\. Visual Calculations (Feb 2024) [Video, 24 min]
+  - 193\. DAX INFO.VIEW Functions (Oct 2024) [Video, 14 min]
+  - 194\. AI Documentation with TMDL (Jan 2025) [Video, 10 min]
+* Section 10: BONUS PROJECT: Maven Market
+  - 195\. Introduction [Text, 1 min]
+  - 196\. PART 1: Connecting & Shaping the Data [Text, 3 min]
+  - 197\. PART 2: Creating the Data Model [Text, 1 min]
+  - 198\. PART 3: Adding DAX Measures [Text, 3 min]
+  - 199\. PART 4: Building the Report [Text, 2 min]
+- Section 11: BONUS LESSON
+  - 200\. BONUS LESSON [Text, 2 min]
 
 
 # Bilgi
