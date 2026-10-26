@@ -93,3 +93,6 @@ Bu dalganın ilk eğitimi **Selman Çeviren** tarafından verildi. SMED konulu e
 5 - Sahiplen (Sürdür) - Shitsuke - Selfdiscipline
 
 Eğitmen, bir operatörün 13 tezgahta sırasıyla çalıştığı bir durumu YouTube videosu üzerinden gösterdi. Türkiye'de operatörler genelde 1 ya da 2 makine başında çalışıyor imiş. Makineler çalışırken operatörün boşta kaldığı durumları da SOCT Formu isimli bir form üzerinden değerlendirdik ve atölyede bir uygulama yaptık. Firma sunumları da yine bugün oldu.
+
+## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 1. Gün
+Eğitimin uygulama eğitimlerinin ilk günü **Sinan Akay** geldi. Eğitim onun tarafından verildi.
