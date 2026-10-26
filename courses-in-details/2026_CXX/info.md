@@ -86,11 +86,11 @@ Bu dalganın ilk eğitimi **Selman Çeviren** tarafından verildi. SMED konulu e
 ## 2. Dalga (Tasarım) Eğitimleri (28-29 Eylül 2026) - 2. Gün
 İkinci dalganın ikinci gününde eğitimi **Oğuz Gez** verdi. 5S üzerine bolca konuşuldu. İhtiyaç bulunan bir konu. Burada S'ler şunlar:
 
-1 - Seç (Ayıkla) - Seiri - Sort
-2 - Sırala (Düzenle) - Seiton - Sequence
-3 - Sil (Temizle) - Seiso - Sweep
-4 - Standartlaştır - Seiketsu - Standardize
-5 - Sahiplen (Sürdür) - Shitsuke - Selfdiscipline
+- 1 - Seç (Ayıkla) - Seiri - Sort
+- 2 - Sırala (Düzenle) - Seiton - Sequence
+- 3 - Sil (Temizle) - Seiso - Sweep
+- 4 - Standartlaştır - Seiketsu - Standardize
+- 5 - Sahiplen (Sürdür) - Shitsuke - Selfdiscipline
 
 Eğitmen, bir operatörün 13 tezgahta sırasıyla çalıştığı bir durumu YouTube videosu üzerinden gösterdi. Türkiye'de operatörler genelde 1 ya da 2 makine başında çalışıyor imiş. Makineler çalışırken operatörün boşta kaldığı durumları da SOCT Formu isimli bir form üzerinden değerlendirdik ve atölyede bir uygulama yaptık. Firma sunumları da yine bugün oldu.
 
