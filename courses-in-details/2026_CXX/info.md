@@ -58,6 +58,37 @@
 | 15:15 | 15:30 | 00:15 | Çay/Kahve Arası | — |
 | 15:30 | 16:30 | 01:00 | Firma Sunumları | Derslik |
 
+**Öğren & Dönüş Programı – 3. Dalga (Uygulama) 1. Gün (26.10.2026)**
+| Başlangıç | Bitiş | Süre | İçerik | Yer |
+|:---------:|:-----:|:----:|--------|-----|
+| 09:00 | 09:30 | 00:30 | Uygulama Dalgasına Hazırlama | Derslik |
+| 09:30 | 10:00 | 00:30 | Standartlaştırılmış İş | Derslik |
+| 10:00 | 10:10 | 00:10 | Çay/Kahve Arası | — |
+| 10:10 | 11:10 | 01:00 | Standartlaştırılmış İş | Atölye |
+| 11:10 | 11:20 | 00:10 | Çay/Kahve Arası | — |
+| 11:20 | 12:20 | 01:00 | Jidoka, Poka-Yoke, FMEA | Derslik |
+| 12:20 | 13:05 | 00:45 | Öğle Arası | — |
+| 13:05 | 14:05 | 01:00 | FMEA | Atölye |
+| 14:05 | 14:15 | 00:10 | Çay/Kahve Arası | — |
+| 14:15 | 15:05 | 00:50 | Gemba Problem Çözme | Derslik |
+| 15:05 | 15:15 | 00:10 | Çay/Kahve Arası | — |
+| 15:15 | 16:15 | 01:00 | Gemba Problem Çözme | Atölye |
+
+**Öğren & Dönüş Programı – 3. Dalga (Uygulama) 2. Gün (27.10.2026)**
+| Başlangıç | Bitiş | Süre | İçerik | Yer |
+|:---------:|:-----:|:----:|--------|-----|
+| 09:00 | 10:00 | 01:00 | Performans Diyalogları ve Geri Bildirim | Derslik > Atölye |
+| 10:00 | 10:10 | 00:10 | Çay/Kahve Arası | — |
+| 10:10 | 11:10 | 01:00 | Etkileme Teknikleri | Derslik > Atölye |
+| 11:10 | 11:20 | 00:10 | Çay/Kahve Arası | — |
+| 11:20 | 12:20 | 01:00 | Çekme Sistemi ve Kanban | Derslik |
+| 12:20 | 13:05 | 00:45 | Öğle Arası | — |
+| 13:05 | 14:25 | 01:20 | İç Lojistik Tasarımı | Derslik > Atölye |
+| 14:25 | 14:35 | 00:10 | Çay/Kahve Arası | — |
+| 14:35 | 15:05 | 00:30 | AMF Gelecek Durum Hattının Gözlenmesi | Atölye |
+| 15:05 | 15:15 | 00:10 | Çay/Kahve Arası | — |
+| 15:15 | 16:15 | 01:00 | Firma Sunumları | Derslik |
+
 # ASO Model Fabrika
 
 TUSAŞ Akademi olarak Model Fabrika'nın "Yalın Üretim" üzerine verdiği 42. Öğren ve Dönüş Programı'na katıldım. Oldukça kapsamlı ve uzun soluklu bir eğitim programı bu. Eğitim programı şu şekilde ilerliyordu:
