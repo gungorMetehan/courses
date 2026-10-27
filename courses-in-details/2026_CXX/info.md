@@ -98,4 +98,4 @@ Eğitmen, bir operatörün 13 tezgahta sırasıyla çalıştığı bir durumu Yo
 Eğitimin uygulama eğitimlerinin ilk günü **Sinan Akay** geldi. Eğitim onun tarafından verildi.
 
 ## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 2. Gün
-Eğitim **Aybars Gülenyüz** tarafından verildi.
+Eğitim **Aybars Gülenyüz** tarafından verildi. Toyota'nın üretim sürecinin hangi şemalar ile gösterildiği örneklendirildi. The Goal kadar net bir şekilde önerilmese de **Oğuz Erdoğan & Gülbeniz Akduman - Mutluluk Müdürü** kitabını önerdi hoca. Kısa bir kitapmış ve sanırım DeFacto'nun kurumsal kültüründeki İnsan Kaynakları vizyonunu ve "Mutluluk Yönetimi" süreçlerini anlatıyormuş.
