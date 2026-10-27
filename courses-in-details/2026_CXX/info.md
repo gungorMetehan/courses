@@ -112,3 +112,5 @@ Yapılandırılmış bir geri bildirim metotu olarak dört aşamalı OILS yönte
 - E: Etkiyi Açıkla
 - K: Kitlen
 - İ: İsteklendir
+
+Başarılı bir yalın dönüşüm süreci için şu 4 element gereklidir: Rol model liderler (toprak), istekli çalışanlar (ateş), gerekli yetkinlikler (su), yeterli kaynaklar (hava). Bunun güzel bir slaytı vardı.
