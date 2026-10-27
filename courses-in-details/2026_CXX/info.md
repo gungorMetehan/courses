@@ -95,7 +95,7 @@ Bu dalganın ilk eğitimi **Selman Çeviren** tarafından verildi. SMED konulu e
 Eğitmen, bir operatörün 13 tezgahta sırasıyla çalıştığı bir durumu YouTube videosu üzerinden gösterdi. Türkiye'de operatörler genelde 1 ya da 2 makine başında çalışıyor imiş. Makineler çalışırken operatörün boşta kaldığı durumları da SOCT Formu isimli bir form üzerinden değerlendirdik ve atölyede bir uygulama yaptık. Firma sunumları da yine bugün oldu.
 
 ## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 1. Gün
-Eğitimin uygulama eğitimlerinin ilk günü **Sinan Akay** geldi. Eğitim onun tarafından verildi.
+Eğitimin uygulama eğitimlerinin ilk günü **Sinan Akay** geldi. Eğitim onun tarafından verildi. Eğitim genel olarak SOP - Standart Operasyon Prosedürü konusu üzerineydi.
 
 ## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 2. Gün
 Eğitim **Aybars Gülenyüz** tarafından verildi. Toyota'nın üretim sürecinin hangi şemalar ile gösterildiği örneklendirildi. The Goal kadar net bir şekilde önerilmese de **Oğuz Erdoğan & Gülbeniz Akduman - Mutluluk Müdürü** kitabını önerdi hoca. Kısa bir kitapmış ve sanırım DeFacto'nun kurumsal kültüründeki İnsan Kaynakları vizyonunu ve "Mutluluk Yönetimi" süreçlerini anlatıyormuş. Eğitimde **Jeffrey K. Liker & Michael Hoseus - Toyota Kültürü** kitabından da örnek verildi.
