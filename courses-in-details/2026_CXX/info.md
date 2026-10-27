@@ -114,3 +114,22 @@ Yapılandırılmış bir geri bildirim metotu olarak dört aşamalı OILS yönte
 - İ: İsteklendir
 
 Başarılı bir yalın dönüşüm süreci için şu 4 element gereklidir: Rol model liderler (toprak), istekli çalışanlar (ateş), gerekli yetkinlikler (su), yeterli kaynaklar (hava). Bunun güzel bir slaytı vardı.
+
+## Dürüstlük Çerçevesinde Etkilemenin 10 Yolu
+
+İnsanları etik biçimde etkilemek; doğru bilgi sunmayı, niyeti açıkça ifade etmeyi ve karşı tarafın özgürce karar vermesine saygı duymayı gerektirir.
+
+| Teknik | Özet |
+|---|---|
+| **1. Model Olma** | Beklenen davranışı bizzat sergileyerek örnek olmak; nasıl yapılacağını göstermek ve gerektiğinde koçluk yapmak. |
+| **2. Meşrulaştırma** | Bir öneriyi veya talebi geçerli kurallara, yasalara, yönetsel kararlara ya da ilgili uzman görüşlerine dayandırmak. |
+| **3. Sosyalleşme** | Dostane davranarak, kişiyi sürece dahil ederek ve kendini uygun ölçüde açarak ilişki kurmak. |
+| **4. İleri Sürme** | Görüşleri, beklentileri ve yapılması gerekenleri açık ve kararlı biçimde ifade etmek; teşvikleri ve olası sonuçları şeffafça belirtmek. |
+| **5. Dostluğa Başvurma** | Mevcut ilişkideki güven, sadakat ve kişisel yakınlık üzerinden destek veya yardım istemek. |
+| **6. Mantıkla İkna Etme** | Öneriyi gerçekler, kanıtlar, gerekçeler ve tutarlı argümanlarla desteklemek. |
+| **7. Değerlere Başvurma** | Kişinin önem verdiği değerlerle, duygularla ve anlamlı bulduğu amaçlarla bağ kurmak. |
+| **8. Destek Alma** | Karşı tarafı dinleyerek, görüş ve geri bildirim isteyerek çözümün geliştirilmesine katılmasını sağlamak. |
+| **9. Kazan-Kazan** | Karşılıklı yarar sağlayan seçenekler geliştirmek; açıkça müzakere ederek taviz veya karşılık teklif etmek. |
+| **10. Birlik Oluşturma** | Ortak hedefleri ve benzerlikleri vurgulamak; aynı amacı paylaşan kişilerin desteğini bir araya getirmek. |
+
+> **Etik sınır:** Otoriteye dayanmak, duygulara seslenmek veya dostluktan yararlanmak tek başına bir yaklaşımı etik kılmaz. Yanıltma, tehdit, suçluluk yaratma ve ilişkiyi baskı aracına dönüştürme dürüst etkilemenin sınırlarını aşar.
