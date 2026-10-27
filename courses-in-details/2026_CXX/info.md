@@ -96,3 +96,6 @@ Eğitmen, bir operatörün 13 tezgahta sırasıyla çalıştığı bir durumu Yo
 
 ## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 1. Gün
 Eğitimin uygulama eğitimlerinin ilk günü **Sinan Akay** geldi. Eğitim onun tarafından verildi.
+
+## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 2. Gün
+Eğitim **Aybars Gülenyüz** tarafından verildi.
