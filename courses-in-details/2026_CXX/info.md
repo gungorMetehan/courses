@@ -76,7 +76,7 @@ Standart Zaman Ölçümü uygulamasında https://modelfabrika.github.io/standart
 Sonrasında her bir satırdaki en küçük değerden sonraki en çok tekrar eden ilk büyük değeri bularak bir standart zaman ölçümü hesabı yaptık. Günün sonundaki uygulama buydu.
 
 ## 1. Dalga (Teşhis) Eğitimleri (1-2 Eylül 2026) - 2. Gün
-Eğitimin ikinci günü **Aybars Gülenyüz** isimli bir eğitmen tarafından verildi. Eğitim Toplam Ekipman Verimliliği (OEE) üzerineydi. Bu eğitimde de hem teorik hem uygulamalı kısım vardı. Temel hedef: makinelerin para kazanmak için sürekli kullanılması ve atölyedeki malzemenin kısa sürede paraya dönüştürülmesi.
+Eğitimin ikinci günü **Aybars Gülensoy** isimli bir eğitmen tarafından verildi. Eğitim Toplam Ekipman Verimliliği (OEE) üzerineydi. Bu eğitimde de hem teorik hem uygulamalı kısım vardı. Temel hedef: makinelerin para kazanmak için sürekli kullanılması ve atölyedeki malzemenin kısa sürede paraya dönüştürülmesi.
 Bu eğitmen de Ohno'nun düşünceleri üzerine epey atıf yaptı. İsraf yürüyüşüne değinildi. Uygulamalı kısımda, örnek kurgu üzerinden bir makinenin gerçekte ne kadar çalıştığı hesaplandı ve görselleştirildi. Arada planlanan ve planlanmamış pek çok kaçağın olduğu gösterildi.
 Mevcut Durum Değer Akış Haritalama kısmı için atölyeye inemedik, zaman yetmedi. O nedenle eğitmen bu kısmı sınıfta gösterdi. Eğitmen iki adet kitap önerdi: Eliyahu M. Goldratt - The Goal ve İmai Maşaai - Kaizen.
 
@@ -98,7 +98,7 @@ Eğitmen, bir operatörün 13 tezgahta sırasıyla çalıştığı bir durumu Yo
 Eğitimin uygulama eğitimlerinin ilk günü **Sinan Akay** geldi. Eğitim onun tarafından verildi. Eğitim genel olarak SOP - Standart Operasyon Prosedürü konusu üzerineydi.
 
 ## 3. Dalga (Uygulama) Eğitimleri (26-27 Ekim 2026) - 2. Gün
-Eğitim **Aybars Gülenyüz** tarafından verildi. Toyota'nın üretim sürecinin hangi şemalar ile gösterildiği örneklendirildi. The Goal kadar net bir şekilde önerilmese de **Oğuz Erdoğan & Gülbeniz Akduman - Mutluluk Müdürü** kitabını önerdi hoca. Kısa bir kitapmış ve sanırım DeFacto'nun kurumsal kültüründeki İnsan Kaynakları vizyonunu ve "Mutluluk Yönetimi" süreçlerini anlatıyormuş. Eğitimde **Jeffrey K. Liker & Michael Hoseus - Toyota Kültürü** kitabından da örnek verildi.
+Eğitim **Aybars Gülensoy** tarafından verildi. Toyota'nın üretim sürecinin hangi şemalar ile gösterildiği örneklendirildi. The Goal kadar net bir şekilde önerilmese de **Oğuz Erdoğan & Gülbeniz Akduman - Mutluluk Müdürü** kitabını önerdi hoca. Kısa bir kitapmış ve sanırım DeFacto'nun kurumsal kültüründeki İnsan Kaynakları vizyonunu ve "Mutluluk Yönetimi" süreçlerini anlatıyormuş. Eğitimde **Jeffrey K. Liker & Michael Hoseus - Toyota Kültürü** kitabından da örnek verildi.
 Yapılandırılmış bir geri bildirim metotu olarak dört aşamalı OILS yöntemi önerildi. Burada,
 
 - O: Observation
