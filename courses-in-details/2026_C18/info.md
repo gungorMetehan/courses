@@ -83,4 +83,4 @@
 **Organizasyon:** Turkcell Geleceği Yazanlar
 
 # Notlar
-Eğitimi çevrim içi olarak aldım. Yapay Zeka eğitim kategorisinin altında yer alıyordu. Eğitimi 27.09.2026 tarihinde 20 soruluk sınavını geçerek tamamladım. İçindeki uygulamalar genel olarak farklı eğitimlerde gördüğüm uygulamaları içeriyordu. Örneğin, donmuş göl - pekiştirmeli öğrenme örneği, diyabet riski tahmini, rakam görüntüsü sınıflandırma ve kalp krizi tahmini. Ama bunun dışında Robot Keşif Görevi kısmı güzeldi. En baştan sona bir pekiştirmeli öğrenme alanını kodlamak güzeldi.
+Eğitimi çevrim içi olarak aldım. Yapay Zeka eğitim kategorisinin altında yer alıyordu. Eğitimi 27.09.2026 tarihinde [20 soruluk sınav](https://github.com/gungorMetehan/courses/blob/main/courses-in-details/2026_C18/final_test.md)ını geçerek tamamladım. İçindeki uygulamalar genel olarak farklı eğitimlerde gördüğüm uygulamaları içeriyordu. Örneğin, donmuş göl - pekiştirmeli öğrenme örneği, diyabet riski tahmini, rakam görüntüsü sınıflandırma ve kalp krizi tahmini. Ama bunun dışında Robot Keşif Görevi kısmı güzeldi. En baştan sona bir pekiştirmeli öğrenme alanını kodlamak güzeldi.
