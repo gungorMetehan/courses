@@ -133,3 +133,20 @@ Başarılı bir yalın dönüşüm süreci için şu 4 element gereklidir: Rol m
 | **10. Birlik Oluşturma** | Ortak hedefleri ve benzerlikleri vurgulamak; aynı amacı paylaşan kişilerin desteğini bir araya getirmek. |
 
 > **Etik sınır:** Otoriteye dayanmak, duygulara seslenmek veya dostluktan yararlanmak tek başına bir yaklaşımı etik kılmaz. Yanıltma, tehdit, suçluluk yaratma ve ilişkiyi baskı aracına dönüştürme dürüst etkilemenin sınırlarını aşar.
+
+## Örneklerin Etkileme Teknikleriyle Eşleştirilmesi
+
+| No | Örnek (kısaltılmış) | Teknik | Gerekçe |
+|---|---|---|---|
+| 1 | [Kafede] “Mehmet, üzerinde çalıştığım şu proje var ya…” | **Sosyalleşme** | Samimi ve gündelik bir ortamda ilişki üzerinden konuya giriş yapılıyor. |
+| 2 | “Genel merkez […] öğle arasının uzunluğunda birkaç değişiklik yaptı…” | **Meşrulaştırma** | Değişiklik, yetkili birimin aldığı karara dayandırılıyor. |
+| 3 | “Araların uzunlukları konusunda bir fikriniz var mı?” | **Destek Alma** | Karşı tarafın görüşü istenerek çözümün geliştirilmesine katılımı sağlanıyor. |
+| 4 | “Oğuz, uzun zamandır arkadaşız…” | **Dostluğa Başvurma** | Mevcut arkadaşlık ve karşılıklı anlayış üzerinden destek isteniyor. |
+| 5 | “Duş tesislerinin koşullarını […] müdür […] düşünecektir. Konuyu kendisiyle görüşeceğim…” | **Kazan-Kazan** | Üretkenlik artışına karşılık çalışanların istediği bir iyileştirmenin desteklenmesi öneriliyor. |
+| 6 | “Bu şirketin büyümesini ve […] çocuklarımız için istihdam sağlamaya devam etmesini istediğinizi biliyorum…” | **Değerlere Başvurma** | Çocukların geleceği, istihdam ve toplumsal sorumluluk gibi değerlere sesleniliyor. |
+| 7 | “CEO […] bu girişimi […] ne kadar desteklediğinden bahsetti…” | **Birlik Oluşturma** | Girişimin başka bir kişi tarafından da desteklendiği belirtilerek destek zemini güçlendiriliyor. |
+| 8 | “Grafikte görebileceğiniz gibi […] üretken çalışma süresini %12 artırabiliriz…” | **Mantıkla İkna Etme** | Veriler, neden-sonuç ilişkileri ve sayısal bir kazanım kullanılıyor. |
+| 9 | “Bölgedeki diğer madenler […] değişikliği uygulamaya koymuşlar bile…” | **Model Olma** | Benzer kuruluşların uygulamaları örnek gösterilerek değişikliğin yapılabilirliği vurgulanıyor. |
+| 10 | “Çalışma şeklimizi değiştirmemiz ve […] blok halinde tek bir mola yapmamız gerekiyor.” | **İleri Sürme** | Yapılması istenen değişiklik doğrudan ve kararlı biçimde ifade ediliyor. |
+
+> **Not:** Bu eşleştirme, her tekniğin bir kez kullanıldığı varsayımına dayanır. 7. örnek, CEO’nun otoritesine atıf yaptığı için **Meşrulaştırma** olarak da yorumlanabilir. 9. örnekte ise kişinin kendisinin model olması yerine başkalarının uygulamalarını örnek göstermesi söz konusudur; bu nedenle **Model Olma** ile eşleşmesi dolaylıdır.
