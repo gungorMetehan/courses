@@ -1,3 +1,54 @@
+**QUIZ 1: Introducing Power BI Desktop**
+
+**Question 1:**
+
+Which of the following can be found in both "Power Excel" and Power BI?
+  + a) Query editing tools
+  + b) DAX measures
+  + c) Data modeling tools
+  + d) All of these can be found in both "Power Excel" and Power BI *
+
+**Question 2:**
+
+Which Power BI option would you disable if you wanted to build all table relationships from scratch?
+  + a) Automodel
+  + b) Autodetect new relationships after data is loaded *
+  + c) Parallel table loading
+  + d) Auto Date/Time
+
+**Question 3:**
+
+Suppose your system is configured to recognize dates in DD-MM-YYYY format, but you've loaded a file containing dates in English (United States) format (MM-DD-YYYY). How could you ensure that Power BI reads those date values properly?
+  + a) Update your Regional Settings to English (United States) *
+  + b) Update your Regional Settings to System Default
+  + c) Update your Regional Settings to Autodetect Date/Time
+  + d) Leave default settings in place (Power BI will automatically handle this)
+
+**Question 4:**
+
+What are the three core views in the Power BI desktop front-end?
+  + a) Report, Data, Queries
+  + b) Report, Queries, Model
+  + c) Report, Data, Model *
+  + d) Queries, Data, Model
+
+**Question 5:**
+
+In the typical Power BI workflow, which of the following takes place after data is loaded but before reports are built?
+  + a) Table relationships are formed *
+  + b) User-level permissions are established
+  + c) Parameters and roles are defined
+  + d) Lunch break
+
+**Question 6:**
+
+Which of the following are you NOT able to do within Power BI Desktop?
+  + a) Connect to data sources with >1,000,000 rows
+  + b) Create relational data models
+  + c) Build interactive reports and dashboards
+  + d) Collaborate with other users in real-time *
+
+
 **QUIZ 2: Connecting & Shaping Data**
 
 **Question 1:**
