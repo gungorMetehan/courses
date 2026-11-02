@@ -1,10 +1,10 @@
 # Contents
 * Section 1: Getting Started
-  - 1\. READ ME: Important Notes for New Students [Video, 2 min]
+  - 1\. READ ME: Important Notes for New Students [Text, 2 min]
   - 2\. Course Introduction [Video, 3 min]
   - 3\. Meet Maven Analytics [Video, 1 min]
   - 4\. Course Structure & Outline [Video, 3 min]
-  - 5\. DOWNLOAD: Course Resources [Video, 1 min]
+  - 5\. DOWNLOAD: Course Resources [Text, 1 min]
   - 6\. Introducing the Course Project [Video, 3 min]
   - 7\. Setting Expectations [Video, 2 min]
 * Section 2: Introducing Microsoft Power BI Desktop
@@ -224,8 +224,9 @@
 
 **Organizasyon:** Maven Analytics (Udemy)
 
+
 # Notlar
-Eğitimi, Udemy Business üzerinden çevrim içi olarak aldım.
+Eğitimi, Udemy Business üzerinden çevrim içi olarak aldım ve 2 Kasım 2026 tarihinde tamamladım. Eğitimde aldığım bazı notlar aşağıdadır.
 
 ## Power BI'da Aynı Klasördeki Veri Setlerini Birleştirme
 
