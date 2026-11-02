@@ -130,3 +130,276 @@ Which of the following information is preserved when you import an entire data m
   + b) DAX measures
   + c) Query editing procedures
   + d) All of this information is preserved *
+
+
+**QUIZ 3: Creating a Data Model**
+
+**Question 1:**
+
+Why might you normalize a data model?
+  + a) To make it more efficient
+  + b) To minimize the risk of error during data modifications
+  + c) To simplify queries and analysis
+  + d) All of the above *
+
+**Question 2:**
+
+Which type of table is most likely to contain foreign keys?
+  + a) Lookup Tables
+  + b) Fact Tables *
+  + c) Dimension Tables
+  + d) All Tables
+
+**Question 3:**
+
+Which type of database schema could be described as a central fact table surrounded by a single layer of individual dimension tables?
+  + a) Star *
+  + b) Snowflake
+  + c) Snowball
+  + d) Spiral
+
+**Question 4:**
+
+Which of the following is NOT true about table relationships in Power BI Desktop?
+  + a) You can create relationships from a single Data/Fact table to multiple Lookup/Dim tables
+  + b) You can create multiple active relationships from one table to the same primary key *
+  + c) You can create both active and inactive relationships between two tables
+  + d) You can edit or modify existing table relationships
+
+**Question 5:**
+
+Which of the following would you most likely encounter if you tried to connect two fact tables directly to each other?
+  + a) Repeating values
+  + b) Many-to-Many relationships *
+  + c) Ambiguous relationships
+  + d) Null values
+
+**Question 6:**
+
+Which type of cardinality describes the "ideal" type of table relationship in Power BI Desktop?
+  + a) One-to-One
+  + b) One-to-Many *
+  + c) Many-to-Many
+  + d) All-to-One
+
+**Question 7:**
+
+Generally speaking, what's the best way to "connect" two data or fact tables within the same model?
+  + a) Deduplicate the foreign keys in one table to create a one-to-many relationship
+  + b) Deduplicate the foreign keys in both tables
+  + c) Match the row-level granularity in order to define a one-to-one relationship
+  + d) Relate them through shared lookup tables *
+
+**Question 8:**
+
+Why might it be helpful to arrange lookup tables above data tables in the Relationships/Model view?
+  + a) To remind you that filters flow "downstream" *
+  + b) Because they generally contain the most fields
+  + c) Because it makes it easier to create new relationships
+  + d) Because lookup tables contain the fewest number of fields
+
+**Question 9:**
+
+Which of the following would be the most likely cause of an ambiguous relationship error in a Power BI data model?
+  + a) Multiple 1-way filters
+  + b) Inactive table relationships
+  + c) Multiple data tables
+  + d) Multiple two-way filters *
+
+**Question 10:**
+
+What can you do to prevent users from filtering with invalid fields from a data model?
+  + a) Politely (but firmly) ask them to cut it out
+  + b) Threaten them with public humiliation
+  + c) Tell them that "there will be consequences" if they do it again, then slowly back out of the room without breaking eye contact
+  + d) Activate the "Hide in Report View" option *
+
+**Question 11:**
+
+Which of the following could represent a valid hierarchy?
+  + a) Country > City > State
+  + b) Peach > Pear > Plum
+  + c) Zip Code > State > Department
+  + d) Product Category > Product Brand > Product *
+
+
+**QUIZ 4: Calculated Fields with DAX**
+
+**Question 1:**
+
+Which of the following formulas would make the most sense as a calculated column?
+  + a) Products[RetailPrice] * 0.75 *
+  + b) AVERAGE(Products[RetailPrice])
+  + c) SUM(Sales[quantity])
+  + d) DISTINCTCOUNT(Customers[CustomerName])
+
+**Question 2:**
+
+Which of the following is true about calculated columns and measures?
+  + a) Calculated columns understand row context
+  + b) Measures understand filter context
+  + c) Calculated column values are stored in tables
+  + d) All of the above *
+
+**Question 3:**
+
+Which of the following is true about the Grand Total cell within a matrix visual?
+  + a) It inherits the filter context of each row in the table
+  + b) It retrieves the values from each row in the matrix and sums them up
+  + c) It evaluates using its own filter context *
+  + d) All of the above
+
+**Question 4:**
+
+Why is it helpful to use fully-qualified column references?
+  + a) They make it clear which table the column lives in
+  + b) They help users distinguish between column references and measure references
+  + c) They can help make formulas easier to interpret
+  + d) All of the above *
+
+**Question 5:**
+
+When would it be most appropriate to use the && operator?
+  + a) To concatenate more than two text strings
+  + b) To create an AND condition between more than two expressions *
+  + c) To concatenate two text strings
+  + d) To create an AND condition between two expressions
+
+**Question 6:**
+
+Suppose you wanted to count the number of products that fall under a specific subcategory. Which DAX function would be most appropriate?
+  + a) COUNT
+  + b) COUNTA
+  + c) DISTINCTCOUNT *
+  + d) UNIQUE
+
+**Question 7:**
+
+Which DAX function could you use to replace one word or character in a text string with another?
+  + a) SWITCH
+  + b) SEARCH
+  + c) SUBSTITUTE *
+  + d) FIND
+
+**Question 8:**
+
+Which DAX function could you use to access a field from another related table?
+  + a) LOOKUP
+  + b) CALCULATE
+  + c) MERGE
+  + d) RELATED *
+
+**Question 9:**
+
+What is the purpose of the following function: =CALCULATE([Profit],Territories[Country]="USA")
+  + a) Calculates a measure named "Profit" across the entire Territories table
+  + b) Sums the "Profit" column for rows where Country = "USA"
+  + c) Creates a new column named "Profit" which is calculated for all rows where Country = "USA"
+  + d) Evaluates the "Profit" measure for rows where Country = "USA" in the Territories table *
+
+**Question 10:**
+
+Which of the following could be used to modify filter context?
+  + a) Selecting a data point in a visual
+  + b) Adjusting a report slicer
+  + c) Using CALCULATE within a measure
+  + d) All of the above *
+
+**Question 11:**
+
+In which of the following use cases would the ALL function be most helpful?
+  + a) Calculating the ratio of low-price to high-price products
+  + b) Calculating the distinct count of customers in the entire Customer table
+  + c) Calculating category sales as a percentage of the total *
+  + d) Calculating a discount rate based on the full retail price compared to the sale price
+
+**Question 12:**
+
+Which of the following returns a table, rather than a single scalar value?
+  + a) COUNTA
+  + b) FILTER *
+  + c) SUM
+  + d) All of the above
+
+**Question 13:**
+
+Which time intelligence function would you use to calculate the running total of a measure?
+  + a) DATESYTD
+  + b) DATEADD
+  + c) DATESINPERIOD *
+  + d) DATEDIFF
+
+
+**QUIZ 5: Visualizing Data with Reports**
+
+**Question 1:**
+
+Which type of filter is NOT configured within the Filters pane of the report view?
+  + a) Visual Level
+  + b) Page Level
+  + c) Report Level
+  + d) Drillthrough *
+
+**Question 2:**
+
+Which type of filter would you use if you wanted it to apply to ALL visuals within a Power BI report?
+  + a) Visual Level
+  + b) Page Level
+  + c) Report Level *
+  + d) Drillthrough
+
+**Question 3:**
+
+Which of the following is specifically designed to navigate users to a pre-filtered page of the report?
+  + a) Bookmarks
+  + b) Drillthrough filters *
+  + c) Hyperlinks
+  + d) Highlights
+
+**Question 4:**
+
+Which of the following would you use to prevent one visual from filtering based on selections within another?
+  + a) Interactions *
+  + b) Cross-filters
+  + c) Drillthroughs
+  + d) Visual-level filters
+
+**Question 5:**
+
+Which of the following allows users to change the granularity by selecting data points within a visual?
+  + a) Drill down
+  + b) Drillthrough
+  + c) Drill mode *
+  + d) All of the above
+
+**Question 6:**
+
+Which of the following options allows you to link a button or shape to a report bookmark?
+  + a) Outline
+  + b) Icon
+  + c) Action *
+  + d) Link
+
+**Question 7:**
+
+In which case would you most likely use parameters?
+  + a) Forecasting sales volume
+  + b) Calculating product sales as % of total
+  + c) Calculating an output based on variable inputs *
+  + d) Modeling non-linear trend lines
+
+**Question 8:**
+
+Suppose you have a report containing sensitive information, and would like to configure which data certain users or groups of users can access. Which of the following would be most appropriate?
+  + a) Apply page-level filters to create custom views
+  + b) Define user roles in Power BI Desktop, and apply them to users in Power BI Service *
+  + c) Add password protection to the Power BI report
+  + d) Configure custom authentication credentials
+
+**Question 9:**
+
+Which of the following is NOT possible in the Phone layout view?
+  + a) Applying themes
+  + b) Customizing which visuals to include or exclude
+  + c) Creating new visuals *
+  + d) All of these are possible
