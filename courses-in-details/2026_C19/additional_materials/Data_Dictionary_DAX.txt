@@ -1,0 +1,46 @@
+Data Dictionary = 
+VAR _columns = SELECTCOLUMNS(
+FILTER(
+INFO.VIEW.COLUMNS()
+,[Table] <> "Data Dictionary" && NOT([IsHidden])
+)
+, "Type", "Column"
+,"Name", [Name]
+, "Description", [Description]
+, "Location", [Table]
+, "Expression", [Expression]
+)
+VAR _measures = SELECTCOLUMNS(
+FILTER(
+INFO.VIEW.MEASURES()
+, [Table] <> "Data Dictionary" && NOT([IsHidden])
+)
+, "Type", "Measure"
+, "Name", [Name]
+, "Description", [Description]
+, "Location", [Table]
+, "Expression", [Expression]
+)
+VAR _tables = SELECTCOLUMNS(
+FILTER(
+INFO.VIEW.TABLES()
+, [Name] <> "Data Dictionary" && [Name] <> "Calculations" && NOT([IsHidden])
+)
+, "Type", "Table"
+,"Name", [Name]
+, "Description", [Description]
+,"Location", BLANK()
+,"Expression", [Expression]
+)
+
+VAR _relationships = SELECTCOLUMNS(
+INFO.VIEW.RELATIONSHIPS()
+, "Type", "Relationship"
+,"Name", [Relationship]
+, "Description", BLANK()
+,"Location", Blank()
+,"Expression", [Relationship]
+)
+
+RETURN
+UNION(_columns,_measures,_tables,_relationships)
