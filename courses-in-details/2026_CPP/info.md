@@ -8,3 +8,4 @@ Eğitimde, eğitmen **GPT'ler (Eklentiler)** bölümünde örnek GPT'leri göste
 - Consensus: Bilimsel araştırmalar için.
 - Diagrams Show Me: Diyagram oluşturmaya yarıyor.
 - Video Maker GPT by Visla: Video yapma aracı. Videoyu oluşturuyor ancak üzerinde filigranlar bırakıyor. Bunları kaldırmak ise ücretli.
+- Video AI: Video oluşturma aracı. Tıpkı bir üstteki gibi. Ortalama seviyede idi üretimi bence.
