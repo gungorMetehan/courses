@@ -2,8 +2,8 @@
 
 # 1. Ders: İstatistiğe Giriş (Doç. Dr. Zübeyir Nişancı - Marmara Üniversitesi)
 
-**Tarih ve Saat:** 10 Kasım 2026 | 14.00 - 17.00
-**Yer:** Çevrim İçi
++ **Tarih ve Saat:** 10 Kasım 2026 | 14.00 - 17.00
++ **Yer:** Çevrim İçi
 
 Eğitmen sunumunu şu başlıklar altında toplamıştı:
 * i. Büyük dönüşümler
