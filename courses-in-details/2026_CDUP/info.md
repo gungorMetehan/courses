@@ -15,6 +15,14 @@ Eğitmen sunumunu şu başlıklar altında toplamıştı:
 * vii. Bugün ve yarın
 * viii. Ne yapmalı?
 
+**Bugün neyi konuşacağız?** başlıklı slaytta ise eğitimde yanıtlanmaya çalışılacak olan altı soru listelenmişti.
+* 1) Veri nedir?
+* 2) Verinin epistemolojik yapısı nedir: verilen mi, alınan mı?
+* 3) Makineler veriyi nasıl okur, nasıl saklar; ikili sistemle ilgisi ne?
+* 4) İnsanlar veriyi tarih boyunca nasıl sakladı?
+* 5) Bu birikim yapay zekâya kadar nasıl dönüştü; hangi aşamalardan geçtik?
+* 6) Bugün neredeyiz, yarın ne yapmalıyız?
+
 Eğitimde **Rengin de kodu var: #F05923** başlıklı bir slayt vardı, burada HEX kodlarından bahsediliyordu. İlgimi çeken kısımlardan biri burasıydı.
 HEX kodu, bir rengin kırmızı (R), yeşil (G) ve mavi (B) ışık miktarını göstermekte. Ekrandaki renkler bu üç ışığın karışımıyla oluşur.
 Peki, HEX kodu nasıl okunur?
