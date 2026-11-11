@@ -5,6 +5,10 @@
 + **Tarih ve Saat:** 10 Kasım 2026 | 14.00 - 17.00
 + **Yer:** Çevrim İçi
 
+Eğitmen saat 14.00'da çevrim içi idi, ancak teknik aksaklıkların giderilmesinin ardından eğitim 14.10 gibi başladı. Eğitmen de 14.20'ye kadar proje ile ilgili genel açıklamalar yaptı ve sonrasında eğitime başladı.
+
+Eğitimin adı **Verilenden Üretilene** idi. İlk slaytın üzerinde bunun Latincesi olan _Ex dato and generatum_ yazıyordu. Veri bilimi, veri analizi konularında kullanılan kurgulanmış teknik / felsefi bir deyiş bu.
+
 Eğitmen sunumunu şu başlıklar altında toplamıştı:
 * i. Büyük dönüşümler
 * ii. Veri nedir?
@@ -22,6 +26,9 @@ Eğitmen sunumunu şu başlıklar altında toplamıştı:
 * 4) İnsanlar veriyi tarih boyunca nasıl sakladı?
 * 5) Bu birikim yapay zekâya kadar nasıl dönüştü; hangi aşamalardan geçtik?
 * 6) Bugün neredeyiz, yarın ne yapmalıyız?
+
+Eğitimin bir yerinde şu ifade vardı:
+> Kategorik olarak tanımlanabilen her şey ve her durum, saymanın ve dolayısıyla istatistiğin konusu olabilir.
 
 Eğitimde **Rengin de kodu var: #F05923** başlıklı bir slayt vardı, burada HEX kodlarından bahsediliyordu. İlgimi çeken kısımlardan biri burasıydı.
 HEX kodu, bir rengin kırmızı (R), yeşil (G) ve mavi (B) ışık miktarını göstermekte. Ekrandaki renkler bu üç ışığın karışımıyla oluşur.
@@ -99,3 +106,7 @@ Bu hesap yalnızca kelimenin kodlanmış içeriğini kapsar; dosya üst bilgisi 
 
 Eğitmen bir de **Yarı yapılandırılmış veri: Her kişi bir öbek** başlıklı slaytında eskiden tabular sistemin olmadığından, veri kayıtlarının biraz dağınık tutulduğundan bahsetti. Örneğin Osmanlı Devleti zamanında ciddi miktarda veri toplanmış durumda. Ancak nüfus verilerinin olduğu raporlardan anlaşılacağı üzere,
 hanedeki bir kişinin bilgileri öbek olarak tutulmuş. Nasıl bir sakala sahip olduğu, mesleği, lakabı, yaşı, vb. bilgiler tek bir öbek içinde tutulmuş. Amaç çünkü sadece teşhis etmek, sonrasında bu verilerin bir araya getirileceği düşüncesi ile toplanmamış veriler. Günümüzdeki tablo sistemi daha sonraları kullanılır hale gelmiş.
+
+Ayrıca eğitimin bir slaytında 'şifre ve sıfır'ın aynı kelime kökünden geldiği ifade edilmişti, bir araştırmam gerek.
+
+Eğitim 16.40'ta bitti. Ancak eğitmen bir QR kod paylaşacak sonrasında soru-cevap oturumu düzenledi, hem eğitim hem de proje ile ilgili sorular için.
