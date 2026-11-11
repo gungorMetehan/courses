@@ -220,6 +220,8 @@
 # Bilgi
 **Eğitim Dili:** İngilizce
 
+**Eğitim Adı:** Microsoft Power BI Desktop for Business Intelligence
+
 **Eğitmen:** Chris Dutton & Aaron Parry
 
 **Organizasyon:** Maven Analytics (Udemy)
