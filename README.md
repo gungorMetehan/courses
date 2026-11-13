@@ -10,6 +10,7 @@
 
 | **Year** |                         **Course**                                           |             **Organization**            |
 |:--------:|------------------------------------------------------------------------------|-----------------------------------------|
+| 2026     | Ways to Transform Your Life with Artificial Intelligence                     | GPT Akademi & Enocta                    |
 | 2026     | Microsoft Power BI Desktop for Business Intelligence                         | Maven Analytics (Udemy)                 |
 | 2026     | Application-Based Machine Learning                                           | Turkcell                                |
 | 2026     | Python for Artificial Intelligence                                           | Türkiye Artificial Intelligence Academy |
