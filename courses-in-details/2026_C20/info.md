@@ -108,10 +108,17 @@
   + Kapanış: Toptalent.co hakkında
 
 
+# Bilgi
+**Eğitim Dili:** Türkçe
 
-Human Resources School Certificate Program (İnsan Kaynakları Okulu Sertifika Programı)
+**Eğitim Adı:** İnsan Kaynakları Okulu Sertifika Programı (Human Resources School Certificate Program)
 
-Toptalent Business School
+**Eğitmenler:** Ahmet Yüce, Mehmet Aksu, Başak Sakarya Gül, Erkan Güngör, Hüseyin Coşkun, İstem Başar, Ezgi Armutçu, Yavuz Çelik, Güliz Dalaman Yakmacı, Yeliz Çetinkaya, Burçin Sarıca, Ömür Coşar, Merve Koçoğlu, Erhan Özel, Mısra Meriçten, Aliye Altın
+
+**Organizasyon:** Toptalent Business School
+
+
+# Notlar
 Eğitimi çevrim içi olarak aldım ve 18.11.2026 tarihinde tamamladım. Eğitimde İK süreçlerinin temel teorik bilgilerinden çok açıkçası şirketlerin yürüttüğü projeler hakkında notlar aldım. 
 **Fibabanka İK Direktörü Yavuz Çelik** şöyle bir bilgi paylaştı: Sosyal sorumluluk projelerinde çalışan çalışma arkadaşlarının harcadıkları zamanı izinden düşmüyor, onlara daha fazla izin hakkı tanıyorlarmış.
 İzin yönetmeliklerine yeni izinler eklemeye devam ediyorlarmış: tüp bebek tedavi izni, boşanma izni, üç yaş ve üstü çocukları evlat edinen kadın çalışanlara 8 haftalık izin, regl izni, okulun ilk günü izni, karne izni gibi.
