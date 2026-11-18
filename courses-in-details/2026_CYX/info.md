@@ -5,7 +5,9 @@ Bu faz üç günlük eğitim kurgusundan oluşuyordu:
 
 - **Eğitim 1: Oyunlaştırma ve Hikayeleştirme Eğitimi (Hidayet Uskal ve Ümit Sami Kubuş)**
 - **Eğitim 2: TA (Transaksiyonel Analiz) ile Sınıf Yönetimi (Hakan Güneş)**
-- **Eğitim 3: [Henüz Başlanmadı]**
+- **Eğitim 3: İçerik Mimarisi ve Podcast Yapımcılığı (Ümit Sami Kubuş ve Didem Sökmen)**
+
+İlk eğitim şirketin kayıtlarında "Oyunlaştırma ve Hikayeleştirme Eğitimi (FAZ 2: Eğitmenlik Yolculuğun Derinleşiyor)" adı ve ETE20260900009 koduyla; ikinci eğitim "TA İle Sınıf Yönetimi Eğitimi (FAZ 2: Eğitmenlik Yolculuğun Derinleşiyor)" adı ve ETE20260900010 koduyla ve üçüncü eğitim "İçerik Üretimi (Video, Podcast Oluşturma)(Eğitmen Yolculuğun Derinleşiyor)" adı ve ETE20260900011 koduyla görünmekte.
 
 **Eğitim 1 Notlar:**
 Eğitim 14 Eylül 2026 tarihinde gerçekleştirildi, 1 tam günlük bir eğitimdi. Ancak bu eğitim aslında iki yarım günlük eğitimde oluşuyordu. İlk kısmı AçıkBeyin'den Hidayet Uskal, ikinci kısmı yine AçıkBeyin'den Ümit Sami Kubuş sundu.
@@ -59,3 +61,9 @@ Eğitmen, eğitimin sonunda bir de kitap önerilerinde bulundu:
 - Ian Stewart ve Vann Joines - Günümüzde TA: Transaksiyonel Analiz'e Yeni Bir Giriş
 
 **Eğitim 3 Notlar:**
+Eğitim 17 Kasım 2026 tarihinde gerçekleştirildi, 1 tam günlük bir eğitimdi. AçıkBeyin'den Ümit Sami Kubuş ve Didem Sökmen tarafından sunuldu. Eğitim iki bölümden oluşuyordu:
+1. İçerik Mimarisi ve Podcast Yapımcılığı
+   1.1. Eğitici İçeriği Medyaya Dönüştürmek ve İçerik Liderliği
+   1.2. Kurum İçi Podcast Formatları ve Konsept Geliştirme
+
+Eğtimin ilk kısmı teorik ikinci kısmı genellikle uygulamalı idi. Bu sırada iki tane form paylaşıldı. Bu formlar aşağıdadır:
