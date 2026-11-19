@@ -138,4 +138,6 @@ TEI Motors'dan **Yeliz Çetinkaya**, TEI'deki işe alım sürecinden bahsetti. S
 
 DeFacto Akademi ve Yetenek Yönetimi Direktörü **Burçin Sarıca** eğitimin kısmında A.D.D.I.E. ve Kirkpatrick modellerinden bahsediyordu. Yine burada eğitmen, şirketteki eğitim faaliyetlerinde hangi metriklerden yararlanılabileceğini görebilmek ve kurumun sonuçlarını hem Türkiye hem de global ölçekteki şirketlerle kıyaslayabilmek için TEGEP'in yıllık araştırmalarını ve ATD'nin endüstri raporlarını takip etmeyi önerdi.
 
+Detaylar için: https://toptalent.co/businessschool/program/insan-kaynaklari-okulu/
+
 <img width="1920" height="1080" alt="toptalent_insan_kaynaklari_okulu" src="https://github.com/user-attachments/assets/ab97161e-0768-4916-af1f-478c167d7b19" />
