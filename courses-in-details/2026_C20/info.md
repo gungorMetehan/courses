@@ -54,58 +54,58 @@
   + Bölüm 9: Esneklik [Video, 02:00 dk]
   + Bölüm 10: Kapanış [Video, 01:28 dk]
 * MODÜL 8: Yeteneği Elde Tutmak (Yeliz Çetinkaya)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Yeteneği Elde Tutmak I (TEI örneği ile)
-  + Bölüm 3: Yeteneği Elde Tutmak II
-  + Bölüm 4: Yeteneği Elde Tutmak İçin İnsan Kaynakları Fonkisyonları
-  + Bölüm 5: Kariyer Geliştirme Sistemi
-  + Bölüm 6: Aday ve Çalışan Deneyimini İyileştirmek İçin Yapılabilecekler
-  + Bölüm 7: Geri Bildirim
-  + Bölüm 8: Kapanış
+  + Bölüm 1: Giriş [Video, 02:12 dk]
+  + Bölüm 2: Yeteneği Elde Tutmak I (TEI örneği ile) [Video, 01:25 dk]
+  + Bölüm 3: Yeteneği Elde Tutmak II [Video, 03:14 dk]
+  + Bölüm 4: Yeteneği Elde Tutmak İçin İnsan Kaynakları Fonkisyonları [Video, 03:34 dk]
+  + Bölüm 5: Kariyer Geliştirme Sistemi [Video, 04:59 dk]
+  + Bölüm 6: Aday ve Çalışan Deneyimini İyileştirmek İçin Yapılabilecekler [Video, 01:41 dk]
+  + Bölüm 7: Geri Bildirim [Video, 03:57 dk]
+  + Bölüm 8: Kapanış [Video, 03:00 dk]
 * MODÜL 9: Yetenek Gelişimi: Çalışanların Eğitimi ve Gelişimi Hakkında Bilinmesi Gerekenler (Burçin Sarıca)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Eğitim ve Gelişimin Stratejik Rolü
-  + Bölüm 3: İK Profesyonellerinin Sahip Olması Gereken Kritik Beceri ve İhtiyaç Analizi
-  + Bölüm 4: Eğitim ve Gelişim Yöntemleri
-  + Bölüm 5: Eğitim Kaynakları
-  + Bölüm 6: Eğitim Tasarım Metodolojisi
-  + Bölüm 7: Eğitimin İletişimi
-  + Bölüm 8: Eğitimde Kişiselleştirme
-  + Bölüm 9: Eğitim ve Gelişimin Ölçümü
-  + Bölüm 10: Eğitim Sistemleri
-  + Bölüm 11: Geleceğin Yetkinlikleri
+  + Bölüm 1: Giriş [Video, 02:39 dk]
+  + Bölüm 2: Eğitim ve Gelişimin Stratejik Rolü [Video, 03:52 dk]
+  + Bölüm 3: İK Profesyonellerinin Sahip Olması Gereken Kritik Beceri ve İhtiyaç Analizi [Video, 02:51 dk]
+  + Bölüm 4: Eğitim ve Gelişim Yöntemleri [Video, 03:51 dk]
+  + Bölüm 5: Eğitim Kaynakları [Video, 03:04 dk]
+  + Bölüm 6: Eğitim Tasarım Metodolojisi [Video, 01:16 dk]
+  + Bölüm 7: Eğitimin İletişimi [Video, 04:44 dk]
+  + Bölüm 8: Eğitimde Kişiselleştirme [Video, 01:22 dk]
+  + Bölüm 9: Eğitim ve Gelişimin Ölçümü [Video, 04:23 dk]
+  + Bölüm 10: Eğitim Sistemleri [Video, 04:02 dk]
+  + Bölüm 11: Geleceğin Yetkinlikleri [Video, 03:24 dk]
 * MODÜL 10: Genç Yetenekler İçin Yeni Nesil İK Stratejileri (Ömür Coşar)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Meritokrasi Kavramı
-  + Bölüm 3: Yeteneğin Sürdürülebilmesi Kavramı
+  + Bölüm 1: Giriş [Video, 08:36 dk]
+  + Bölüm 2: Meritokrasi Kavramı [Video, 03:23 dk]
+  + Bölüm 3: Yeteneğin Sürdürülebilmesi Kavramı [Video, 04:05 dk]
 * MODÜL 11: Yeni Düzen Çalışma Modelleri – HSBC Örneği (Merve Koçoğlu)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Amacımız
-  + Bölüm 3: Model
-  + Bölüm 4: Çalışma Modelleri
-  + Bölüm 5: Çeşitlilik
-  + Bölüm 6: Güven Ortamı ve Kültür Değerleri
-  + Bölüm 7: Destek Mekanizmaları
-  + Bölüm 8: Sürdürülebilirlik
-  + Bölüm 9: Gelecek Ne Getirecek?
+  + Bölüm 1: Giriş [Video, 03:18 dk]
+  + Bölüm 2: Amacımız [Video, 01:02 dk]
+  + Bölüm 3: Model [Video, 02:52 dk]
+  + Bölüm 4: Çalışma Modelleri [Video, 02:02 dk]
+  + Bölüm 5: Çeşitlilik [Video, 03:46 dk]
+  + Bölüm 6: Güven Ortamı ve Kültür Değerleri [Video, 04:20 dk]
+  + Bölüm 7: Destek Mekanizmaları [Video, 02:26 dk]
+  + Bölüm 8: Sürdürülebilirlik [Video, 01:48 dk]
+  + Bölüm 9: Gelecek Ne Getirecek? [Video, 01:26 dk]
 * MODÜL 12: Yetenek Yönetimi – Temsa Örneği İle (Erhan Özel)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Sosyal Sorumluluk ve Sosyal Yaşam
-  + Bölüm 3: Kapanış
+  + Bölüm 1: Giriş [Video, 01:08 dk]
+  + Bölüm 2: Sosyal Sorumluluk ve Sosyal Yaşam [Video, 03:20 dk]
+  + Bölüm 3: Kapanış [Video, 01:00 dk]
 * MODÜL 13: Çeşitlilik – P&G Örneği İle (Mısra Meriçten)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Eşitlik, Çeşitlilik ve Kapsayıcılık (P&G örneği ile)
-  + Bölüm 3: Eşitlik, Çeşitlilik ve Kapsayıcılık Örnekleri
-  + Bölüm 4: Gelecek Planları
+  + Bölüm 1: Giriş [Video, 01:05 dk]
+  + Bölüm 2: Eşitlik, Çeşitlilik ve Kapsayıcılık (P&G örneği ile) [Video, 01:10 dk]
+  + Bölüm 3: Eşitlik, Çeşitlilik ve Kapsayıcılık Örnekleri [Video, 02:24 dk]
+  + Bölüm 4: Gelecek Planları [Video, 02:28 dk]
 * MODÜL 14: Yetenek Kazanımı (Aliye Altın)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Yetenek Kazanımı Nedir?
-  + Bölüm 3: Strateji ve Planlama
-  + Bölüm 4: Yeteneği Bulma ve Etkileme
-  + Bölüm 5: İşe Alma ve Adapte Etme
-  + Bölüm 6: Kapanış
+  + Bölüm 1: Giriş [Video, 02:38 dk]
+  + Bölüm 2: Yetenek Kazanımı Nedir? [Video, 01:03 dk]
+  + Bölüm 3: Strateji ve Planlama [Video, 02:13 dk]
+  + Bölüm 4: Yeteneği Bulma ve Etkileme [Video, 03:39 dk]
+  + Bölüm 5: İşe Alma ve Adapte Etme [Video, 06:28 dk]
+  + Bölüm 6: Kapanış [Video, 01:20 dk]
 * MODÜL 15: Toptalent.Co ile En İyi Yetenekleri İşe Almak
-  + Kapanış: Toptalent.co hakkında
+  + Kapanış: Toptalent.co hakkında [Video, 00:55 dk]
 
 
 # Bilgi
