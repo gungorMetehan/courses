@@ -1,58 +1,58 @@
 # İçindekiler
 * Toptalent İnsan Kaynakları Okulu Açılış
-  + Toptalent İnsan Kaynakları Okulu’na Hoş Geldiniz
-  + Toptalent İnsan Kaynakları Okulu’nda Kimler Var?
+  + Toptalent İnsan Kaynakları Okulu’na Hoş Geldiniz [Video, 1:11 dk]
+  + Toptalent İnsan Kaynakları Okulu’nda Kimler Var? [Video, 0:59 dk]
 * MODÜL 1: İnsan Kaynakları Nedir? Neden Önemlidir? (Başak Sakarya Gül)
-  + Bölüm 1: Giriş
-  + Bölüm 2: İnsan Kaynakları Yetkinlikleri
+  + Bölüm 1: Giriş [Video, 05:20 dk]
+  + Bölüm 2: İnsan Kaynakları Yetkinlikleri [Video, 04:05 dk]
 * MODÜL 2: İnsan Kaynakları Stratejisi ve Planlaması Nasıl Yapılır? (Erkan Güngör)
-  + Bölüm 1: Giriş
-  + Bölüm 2: İnsan Kaynakları Departmanı
-  + Bölüm 3: Yetkinlik
-  + Bölüm 4: İnsan Kaynakları Planlaması
-  + Bölüm 5: İşe Alım
-  + Bölüm 6: Yedekleme Planı
-  + Bölüm 7: İK Bilgi Sistemleri – Veri Analitiği
-  + Bölüm 8: Robotik Proses Otomasyonu
-  + Bölüm 9: Kapanış
+  + Bölüm 1: Giriş [Video, 02:58]
+  + Bölüm 2: İnsan Kaynakları Departmanı [Video, 03:29 dk]
+  + Bölüm 3: Yetkinlik [Video, 02:52 dk]
+  + Bölüm 4: İnsan Kaynakları Planlaması [Video, 03:55 dk]
+  + Bölüm 5: İşe Alım [Video, 03:14 dk]
+  + Bölüm 6: Yedekleme Planı [Video, 03:13 dk]
+  + Bölüm 7: İK Bilgi Sistemleri – Veri Analitiği [Video, 03:20 dk]
+  + Bölüm 8: Robotik Proses Otomasyonu [Video, 02:17 dk]
+  + Bölüm 9: Kapanış [Video, 00:51 dk]
 * MODÜL 3: Aday Deneyimi (Hüseyin Coşkun)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Aday Deneyimi Neden Önemlidir?
-  + Bölüm 3: Aday Deneyimi Nasıl Tasarlanır?
-  + Bölüm 4: İyi Bir Aday Deneyimi Tasarlayabilmek İçin Gerekli Süreçler
-  + Bölüm 5: İK Profesyonellerinde Bulunması Gereken Özellikler
-  + Bölüm 6: Aday Deneyim Süreci Nerede Sona Erer?
-  + Bölüm 7: Kapanış
+  + Bölüm 1: Giriş [Video, 02:23 dk]
+  + Bölüm 2: Aday Deneyimi Neden Önemlidir? [Video, 05:40 dk]
+  + Bölüm 3: Aday Deneyimi Nasıl Tasarlanır? [Video, 03:30 dk]
+  + Bölüm 4: İyi Bir Aday Deneyimi Tasarlayabilmek İçin Gerekli Süreçler [Video, 04:22 dk]
+  + Bölüm 5: İK Profesyonellerinde Bulunması Gereken Özellikler [Video, 01:24 dk]
+  + Bölüm 6: Aday Deneyim Süreci Nerede Sona Erer? [Video, 01:46 dk]
+  + Bölüm 7: Kapanış [Video, 01:59 dk]
 * MODÜL 4: Şirket Kültürü Yaratmak (İstem Başar)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Kültür Ne Demek? Neden Önemli?
-  + Bölüm 3: Kurumların Kültürel Dönüşümleri
-  + Bölüm 4: Kültür Yolculuğu (Arçelik örneği ile)
-  + Bölüm 5: Kültür Nasıl Somutlaştırılır?
+  + Bölüm 1: Giriş [Video, 01:12 dk]
+  + Bölüm 2: Kültür Ne Demek? Neden Önemli? [Video, 06:16 dk]
+  + Bölüm 3: Kurumların Kültürel Dönüşümleri [Video, 04:43 dk]
+  + Bölüm 4: Kültür Yolculuğu (Arçelik örneği ile) [Video, 06:18 dk]
+  + Bölüm 5: Kültür Nasıl Somutlaştırılır? [Video, 05:00 dk]
 * MODÜL 5: Aktif Yetenek Kazanımı Nasıl Yapılır? (Ezgi Armutçu)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Yetenek Kazanımı
-  + Bölüm 3: Üniversite Etkinlikleri ve İş Birlikleri
-  + Bölüm 4: Staj Programları
-  + Bölüm 5: Kapanış
+  + Bölüm 1: Giriş [Video, 00:38 dk]
+  + Bölüm 2: Yetenek Kazanımı [Video, 09:19 dk]
+  + Bölüm 3: Üniversite Etkinlikleri ve İş Birlikleri [Video, 05:23 dk]
+  + Bölüm 4: Staj Programları [Video, 08:33 dk]
+  + Bölüm 5: Kapanış [Video, 01:08 dk]
 * MODÜL 6: Aday Seçme Süreci - En İyi Yetenekleri Seçmek (Yavuz Çelik)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Aday Seçme Süreci
-  + Bölüm 3: En İyi Yetenekleri Seçmek
-  + Bölüm 4: İşe Alım Süreci
-  + Bölüm 5: Değişen MT Süreçleri
-  + Bölüm 6: Kapanış
+  + Bölüm 1: Giriş [Video, 02:12 dk]
+  + Bölüm 2: Aday Seçme Süreci [Video, 04:36 dk]
+  + Bölüm 3: En İyi Yetenekleri Seçmek [Video, 06:12 dk]
+  + Bölüm 4: İşe Alım Süreci [Video, 05:53 dk]
+  + Bölüm 5: Değişen MT Süreçleri [Video, 06:09 dk]
+  + Bölüm 6: Kapanış [Video, 02:43 dk]
 * MODÜL 7: Çalışan Bağlılığı (Güliz Dalaman Yakmacı)
-  + Bölüm 1: Giriş
-  + Bölüm 2: Çalışan Bağlılığı Nedir? Günümüz İş Dünyasında Neden Çok Önemlidir?
-  + Bölüm 3: Çalışan Bağlılığı Yüksek Olan Şirketlerde Nasıl Olumlu Sonuçlar Görüyoruz?
-  + Bölüm 4: Çalışan Bağlılığını Nasıl Artırabiliriz? (BAT örneği ile)
-  + Bölüm 5: Organizasyonun Stratejisinin Bir Parçası Olma
-  + Bölüm 6: Etkin İletişim
-  + Bölüm 7: Çeşitlilik ve Kapsayıcılık
-  + Bölüm 8: Sürekli Gelişim
-  + Bölüm 9: Esneklik
-  + Bölüm 10: Kapanış
+  + Bölüm 1: Giriş [Video, 01:50 dk]
+  + Bölüm 2: Çalışan Bağlılığı Nedir? Günümüz İş Dünyasında Neden Çok Önemlidir? [Video, 02:24 dk]
+  + Bölüm 3: Çalışan Bağlılığı Yüksek Olan Şirketlerde Nasıl Olumlu Sonuçlar Görüyoruz? [Video, 03:51 dk]
+  + Bölüm 4: Çalışan Bağlılığını Nasıl Artırabiliriz? (BAT örneği ile) [Video, 02:50 dk]
+  + Bölüm 5: Organizasyonun Stratejisinin Bir Parçası Olma [Video, 02:32 dk]
+  + Bölüm 6: Etkin İletişim [Video, 02:36 dk]
+  + Bölüm 7: Çeşitlilik ve Kapsayıcılık [Video, 02:09 dk]
+  + Bölüm 8: Sürekli Gelişim [Video, 02:30 dk]
+  + Bölüm 9: Esneklik [Video, 02:00 dk]
+  + Bölüm 10: Kapanış [Video, 01:28 dk]
 * MODÜL 8: Yeteneği Elde Tutmak (Yeliz Çetinkaya)
   + Bölüm 1: Giriş
   + Bölüm 2: Yeteneği Elde Tutmak I (TEI örneği ile)
