@@ -27,3 +27,5 @@ Eğitimde, eğitmen **GPT'ler (Eklentiler)** bölümünde örnek GPT'leri göste
 - Video AI: Video oluşturma aracı. Tıpkı bir üstteki gibi. Ortalama seviyede idi üretimi bence.
 - Grimoire: Oyun hazırlamak için kullanıldı. Pong oyunu hazırlattı eğitmen.
 - Sell Me This Pen: İkinci el bir Rolex'in ikinci el ilan sitesine konulması sırasında gerekli bilgileri oluşturmak için kullanıldı.
+
+Eğitimde **Kendi GPT'mizi Oluşturuyoruz** isimli bir bölüm vardı. Burada örnek bir GPT oluşturuldu ve yapılandırıldı. Adı Career Finder idi. Kariyer yönlendirmesi yapan bir GPT idi. 
