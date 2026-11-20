@@ -1,3 +1,7 @@
+# İçindekiler
+* Section 1: Giriş
+  + 1. Eğitim Tanıtım Filmi [Video, 2 dk]
+
 # İş Dünyası İçin Yapay Zeka Kullanımı Eğitimi
 
 Eğitimde, eğitmen **GPT'ler (Eklentiler)** bölümünde örnek GPT'leri gösteriyordu. Bunların bazılarını öneriyordu da ayrıca. Bazıları ilgimi çekti, bazıları o kadar iyi değildi. Bu GPT'ler şunlardı:
