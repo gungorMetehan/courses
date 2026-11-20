@@ -1,8 +1,20 @@
 # İçindekiler
 * Section 1: Giriş
-  + 1. Eğitim Tanıtım Filmi [Video, 2 dk]
+  + 1\. Eğitim Tanıtım Filmi [Video, 2 dk]
 
-# İş Dünyası İçin Yapay Zeka Kullanımı Eğitimi
+
+# Bilgi
+**Eğitim Dili:** Türkçe
+
+**Eğitim Adı:** İş Dünyası İçin Yapay Zeka Kullanımı (Using Artificial Intelligence in Business)
+
+**Eğitmen:** Emre Akyüz
+
+**Organizasyon:** Emre Akyüz Mühendislik ve Eğitim (Udemy)
+
+
+# Notlar
+Eğitimi, TUSAŞ'ın Udemy Business hesabı ile aldım ve 20 Kasım 2026'da çevrim içi olarak tamamladım.
 
 Eğitimde, eğitmen **GPT'ler (Eklentiler)** bölümünde örnek GPT'leri gösteriyordu. Bunların bazılarını öneriyordu da ayrıca. Bazıları ilgimi çekti, bazıları o kadar iyi değildi. Bu GPT'ler şunlardı:
 - Finance Wizard: Finans verileri ile eğitilmiş. Borsadaki bir hissenin gelecek ne kadar olacağını hesaplayabiliyor. Bunun için makine öğrenmesi algoritmalarından yararlanıyor ve doğrudan bir tahmin sunuyor.
