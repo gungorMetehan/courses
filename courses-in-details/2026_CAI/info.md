@@ -25,3 +25,5 @@ Eğitmen, **ChatGPT**'nin **Operator**'ünü AI agent'ların ilk örneği olarak
 Üçüncü videoda şu kavramları sırası ile açıkladı: AI, ML, Deep Learning & Neural Networks, Generative AI, LLM, Transformer, Parameter, Training vs Inference, Agents.
 
 Frontier Labs kavramına yer vermişti eğitimde. Bunlar üç tane: OpenAI, Anthropic ve Google. Tabi bunların dışında da yine AI lab'ları mevcut. Diğerlerini de söyledi (Meta vb.). AI ekosistemini tanıttı. Bu alandaki ürünlerden bahsetti: Microsoft Copilot, Cursor, Harvey gibi.
+
+https://livebench.ai/#/ sitesinde YZ modellerinin çeşitli alanlardaki becerileri test ediliyor. Buradan bakılarak istenen alanda hangisinin daha güçlü olduğuna ilişkin bilgi elde edinilebilir.
