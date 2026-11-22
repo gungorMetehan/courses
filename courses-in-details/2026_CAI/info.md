@@ -32,4 +32,5 @@ LLM'leri kullanmanın üç farklı yolu vardır:
 * Chat Web Interface
 * Cloud API
 * Direct Inference of Open Source
+
 İlki, doğrudan ChatGPT'ye girip istediğin yanıtları almak gibi. Diğerinde ise şirket verisi buluta çıkar. Her ne kadar güvenlik endişesi için garantiler verilmiş olsa bile şirketin bilgilerinin dışarı çıkması istenmiyor olabilir. Bu durumda tek olası davranış, açık-kaynak dil modelleri ile çalışmak olacaktır. Ama bu üç kullanımın da avantajları ve dezavantajları vardır.
