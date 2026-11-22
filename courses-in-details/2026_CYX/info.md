@@ -67,3 +67,151 @@ Eğitim 17 Kasım 2026 tarihinde gerçekleştirildi, 1 tam günlük bir eğitimd
    1.2. Kurum İçi Podcast Formatları ve Konsept Geliştirme
 
 Eğtimin ilk kısmı teorik ikinci kısmı genellikle uygulamalı idi. Bu sırada iki tane form paylaşıldı. Bu formlar aşağıdadır:
+
+# Podcast storyboard atölye formu
+
+**Hazırlık:** 5 dakika • **Çıktı sunumu:** 5 dakika
+
+**Doldurulmuş örnek**
+
+**Ad / Grup:** Örnek çalışma | **Konu:** Yapay zekâ araçlarını tek arayüzde toplamak
+
+**Hedef kitlem:** Birden fazla yapay zekâ aracı ve aboneliği kullanan çalışanlar.
+
+**Formatım:** ☒ Solo ☐ Söyleşi ☐ Vaka analizi
+
+## 1. Kanca ve problem
+
+İlk 10 saniyede merak uyandırın. Dinleyicinin günlük işindeki ihtiyaçla bağ kurun.
+
+**Kanca cümlem:** Bir iş için ChatGPT, başka bir iş için Claude ya da Gemini... Peki bütün bu araçları tek yerden yönetebilseydiniz?
+
+**Mevcut rutinde ne aksıyor?** Metin, görsel ve video için farklı araçlara geçmek takibi zorlaştırıyor; ayrı abonelikler gerekiyor.
+
+**Değişimi zorlaştıran çekince veya alışkanlık?** Her iş için ayrı bir araca gitme alışkanlığı. Kaynak metinde ayrıca bir kullanıcı çekincesi belirtilmiyor.
+
+## 2. Hikâye ve örnek olay
+
+Yaşanmış bir olay seçin. Kişinin sorununu, engeli ve çözümle neyin değiştiğini belirtin.
+
+**Kişi ve başlangıç durumu:** Anlatıcı, işlerine göre farklı yapay zekâ araçları kullanıyor.
+
+**Sorunu ortaya çıkaran olay ve engel:** Araçlar çoğaldıkça takip zorlaşıyor; her biri için ayrı abonelik gerekiyor.
+
+**Kullanılan çözüm veya yöntem:** ChatLLM’de farklı modellere tek arayüzden erişim; modeli doğrudan seçme veya seçimi RouteLLM’e bırakma.
+
+**Somut sonuç ve fark edilen şey:** Sunulan seçenek, model erişimiyle görsel, video, sunum ve kodsuz site/uygulama üretimini aynı platformda toplamak. Metinde ölçülmüş kullanım sonucu yok.
+
+## 3. Ana mesaj ve anlatı bağı
+
+**Bu örnekle vermek istediğim ana mesaj:** Farklı yapay zekâ işlerini tek platformda toplama seçeneğini kendi iş akışınız açısından değerlendirebilirsiniz.
+
+**Problemi örneğe bağlayan geçiş cümlem:** Benim için asıl zorluk araç bulmak değil, hepsini takip etmek. ChatLLM tam da bu dağınıklığı tek yerde toplamayı amaçlıyor.
+
+## 4. Kapanış ve eylem çağrısı
+
+Açılıştaki soruya yeniden yanıt verin; çözümü dinleyicinin iş rutinine taşıyın.
+
+**Başlangıç sorusuna yeni yanıtım:** Her iş için ayrı arayüze geçmek yerine, farklı modelleri ve üretim araçlarını aynı platformda kullanma seçeneği var.
+
+**Bu kaydı dinledikten sonra ilk iş olarak:** Kullandığınız araçları ve abonelikleri listeleyin; ChatLLM’in sunduklarını iş ihtiyaçlarınızla karşılaştırın.
+
+## Uygulama notu
+
+**Hazırlık:** 1 dk konu ve format • 1 dk açılış • 2 dk çözüm ve vaka • 1 dk kapanış.
+
+Doğal konuşun; “ayrı araçlar”, “tek arayüz” ve “ilk adım” ifadelerini vurgulayın. Fiyatı anacaksanız: “Verilen metinde aylık 10 dolardan başladığı belirtiliyor.”
+
+# Video storyboard atölye formu
+
+**Hazırlık:** 5 dakika • **Çıktı sunumu:** 5 dakika
+
+Anahtar kelimeler ve kısa cümlelerle doldurun. Problemden çözüme ilerleyin; kapanışta açılıştaki soruya yeni bir yanıt verin.
+
+**Ad / Grup:** ........................................  **Konu / Başlık:** ........................................
+
+**Hedef kitlem:** ........................................
+
+**Formatım:** ☐ Konuşan kafa ☐ Ekran kaydı ☐ Rol canlandırma
+
+## 1. Açılış ve problem
+
+Yakın plan + başlık. İzleyicinin rutinindeki bir sorun veya merak sorusuyla başlayın.
+
+**Kanca cümlem ve temel problem**
+
+................................................................................
+
+................................................................................
+
+**Ekrandaki başlık ve görüntü**
+
+................................................................................
+
+## 2. Ana mesaj ve çözüm
+
+Orta plan, ekran kaydı veya görsel vurgu. Görüntü ve söz aynı mesajı desteklesin.
+
+**Ana mesajım**
+
+................................................................................
+
+**Üç çözümüm**
+
+1. ............................................................................
+2. ............................................................................
+3. ............................................................................
+
+**Göstereceğim işlem, görsel veya vurgu metni**
+
+................................................................................
+
+................................................................................
+
+## 3. Vaka veya deneyim
+
+Yakın plan. Çözümü bir olayda gösterin; olayın ana mesajla neden sonuç bağını kurun.
+
+**Kişi ve yaşadığı sorun**
+
+................................................................................
+
+................................................................................
+
+**Engel veya çekince**
+
+................................................................................
+
+................................................................................
+
+**Uygulanan çözüm ve somut sonuç**
+
+................................................................................
+
+................................................................................
+
+**Bu sırada ekranda görülecekler**
+
+................................................................................
+
+## 4. Özet ve eylem
+
+Kapanış kadrajı + ekran altı özet. Açılıştaki soruya dönün ve ilk eylemi söyleyin.
+
+**Başlangıç sorusuna yeni yanıtım**
+
+................................................................................
+
+**Ekran altı özetim**
+
+................................................................................
+
+**İzleyicinin işte atacağı ilk adım**
+
+................................................................................
+
+## Uygulama notu
+
+**Hazırlık:** 1 dk konu ve format • 1 dk açılış • 2 dk çözüm ve vaka • 1 dk kapanış.
+
+Lense bakın; rahat ve dik durun; jestleri kadrajda tutun; doğal ve vurgulu konuşun. Kayıtta: Yüze ışık, yaka mikrofonu, sessiz ortam, temiz lens, göz seviyesi ve uçak modu.
