@@ -10,6 +10,7 @@
 
 | **Year** |                         **Course**                                           |             **Organization**              |
 |:--------:|------------------------------------------------------------------------------|-------------------------------------------|
+| 2026     | Artificial Intelligence Awareness and Literacy                               | Türkiye Artificial Intelligence Academy   |
 | 2026     | Using Artificial Intelligence in Business                                    | Emre Akyüz Engineering & Training (Udemy) |
 | 2026     | Human Resources School Certificate Program                                   | Toptalent Business School                 |
 | 2026     | Ways to Transform Your Life with Artificial Intelligence                     | GPT Akademi & Enocta                      |
