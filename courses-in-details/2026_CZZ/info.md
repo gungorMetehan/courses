@@ -9,6 +9,15 @@
    - 2.1 Yapay Zeka Neden Şimdi Bu Kadar Gündemde? [Video, 7 dk]
    - 2.2 İnternet, Veri Patlaması ve Donanım Gücü [Video, 6 dk]
    - 2.3 Büyük Dönüşüm: Transformer Mimarisi ve Chatbot Çağı [Video, 7 dk]
+3. Dünya ve Türkiye'de Yapay Zeka
+   - 3.1 Dünyada Yapay Zekanın Bugünkü Konumu ve Trendler [Video, 9 dk]
+   - 3.2 Türkiye'de Yapay Zeka Ekosistemi: Neredeyiz? [Video, 8 dk]
+4. Temel Yapay Zeka Kavramları
+   - 4.1 Yapay Zeka, Makine Öğrenmesi ve Derin Öğrenme İlişkisi [Video, 6 dk]
+   - 4.2 Veri, Algoritma ve Model Nedir? [Video, 5 dk]
+   - 4.3 Tahmin, Sınıflandırma ve Üretim Mantığı [Video, 4 dk]
+   - 4.4 Makine Öğrenmesi ve Derin Öğrenmenin Gerçek Hayattaki Kullanım Alanları [Video, 6 dk]
+5. 
 
 
 # Bilgi
@@ -21,7 +30,7 @@
 **Organizasyon:** Türkiye Yapay Zeka Akademisi
 
 # Notlar
-Eğitime 17 Ekim 2026 tarihinde başladım.
+Eğitime 17 Ekim 2026 tarihinde başladım, 23 Kasım 2026 tarihinde bitirdim. Asenkron çevrim içi bir eğitim idi.
 Eğitimin **1.2 Yapay Zeka Günlük Hayatımızda Nerede?** başlığında örnek olarak şunlar verilmişti:
 - 1. Arama ve öneri sistemleri (Film, müzik gibi)
 - 2. Harita ve navigasyon (Yol haricinde trafik durumunun da gösterilmesi gibi)
