@@ -1,5 +1,4 @@
 # İçerik
-
 0. Eğitime Giriş
    - 0.1 Tanıtım [Metin]
 1. Yapay Zekaya Giriş
@@ -17,7 +16,41 @@
    - 4.2 Veri, Algoritma ve Model Nedir? [Video, 5 dk]
    - 4.3 Tahmin, Sınıflandırma ve Üretim Mantığı [Video, 4 dk]
    - 4.4 Makine Öğrenmesi ve Derin Öğrenmenin Gerçek Hayattaki Kullanım Alanları [Video, 6 dk]
-5. 
+5. Üretken Yapay Zeka (Generative AI)
+   - 5.1 Üretken Yapay Zeka Nedir ve Nasıl Çalışır? [Video, 3 dk]
+   - 5.2 Büyük Dil Modelleri (LLM) [Video, 7 dk]
+   - 5.3 Çok Modlu Yapay Zeka: Görsel, Ses ve Video [Video, 5 dk]
+   - 5.4 Yapay Zeka Ajanları (AI Agents) [Video, 6 dk]
+   - 5.5 Üretken Yapay Zeka Kullanım Alanları [Video, 5 dk]
+6. Yapay Zeka Araçları ve Platformları
+   - 6.1 Genel Amaçlı Yapay Zeka Asistanları: ChatGPT, Gemini, Claude ve Copilot [Video, 8 dk]
+   - 6.2 Araştırma ve Bilgiye Erişim Araçları: Gemini Notebook ve Perplexity [Video, 6 dk]
+   - 6.3 Teknik Yapay Zeka Platformları: Kaggle, Hugging Face ve GitHub Copilot [Video, 8 dk]
+   - 6.4 Görsel, Ses ve Video Üretim Araçları [Video, 5 dk]
+7. Yapay Zekanın Sınırları, Riskleri ve Etik
+   - 7.1 Halüsinasyon ve Doğrulama: Yapay Zeka Her Zaman Doğru Cevap Verir mi? [Video, 7 dk]
+   - 7.2 Kişisel Veri, Gizlilik, Güvenlik ve KVKK [Video, 10 dk]
+   - 7.3 Telif Hakları, Önyargı ve Sorumlu Yapay Zeka [Video, 8 dk]
+8. Mesleklere ve Sektörlere Göre Yapay Zeka Kullanımı
+   - 8.1 Eğitimciler ve Öğrenciler için Yapay Zeka [Video, 5 dk]
+   - 8.2 Sağlık Personeli için Yapay Zeka [Video, 5 dk]
+   - 8.3 Hukuk ve İdari İşlerde Yapay Zeka [Video, 5 dk]
+   - 8.4 İnsan Kaynakları ve Yönetimde Yapay Zeka [Video, 7 dk]
+   - 8.5 Pazarlama, Satış ve Müşteri İletişiminde Yapay Zeka [Video, 3 dk]
+9. Yapay Zeka ve Geleceğin İş Dünyası
+   - 9.1 Yapay Zeka Meslekleri Yok Edecek mi? [Video, 4 dk]
+   - 9.2 Gelecekte Öne Çıkacak Beceriler [Video, 4 dk]
+   - 9.3 İnsan + Yapay Zeka İş Birliği Modeli [Video, 3 dk]
+10. Yol Haritaları ve Kurumsal Dönüşüm
+    - 10.1 Bireysel Yapay Zeka Yol Haritaları [Video, 6 dk]
+    - 10.2 Kurumsal Yapay Zeka Dönüşümü: Strateji, Kültür ve Güvenlik [Video, 8 dk]
+11. Yapay Zeka Konusunda Güncel Kalma Rehberi
+    - 11.1 Yapay Zeka Gelişmeleri Nasıl Takip Edilir? [Video, 3 dk]
+    - 11.2 Güvenilir Kaynaklar ve Araç Takibi [Video, 4 dk]
+12. Eğitim Sonu ve Kapanış
+    - 12.1 Eğitimde Ne Öğrendik? [Video, 1 dk]
+    - 12.2 Eğitimden Sonraki Adım Ne Olmalı? [Video, 4 dk]
+    - 12.3 Öğrenmeye Devam Et [Metin]
 
 
 # Bilgi
