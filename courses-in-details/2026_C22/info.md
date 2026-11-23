@@ -56,7 +56,7 @@
 # Bilgi
 **Eğitim Dili:** Türkçe
 
-**Eğitim Adı:** Yapay Zeka Farkındalığı ve Okuryazarlığı
+**Eğitim Adı:** Yapay Zeka Farkındalığı ve Okuryazarlığı (Artificial Intelligence Awareness and Literacy)
 
 **Eğitmenler:** Kaan Can Yılmaz
 
