@@ -34,3 +34,8 @@ LLM'leri kullanmanın üç farklı yolu vardır:
 * Direct Inference of Open Source
 
 İlki, doğrudan ChatGPT'ye girip istediğin yanıtları almak gibi. Diğerinde ise şirket verisi buluta çıkar. Her ne kadar güvenlik endişesi için garantiler verilmiş olsa bile şirketin bilgilerinin dışarı çıkması istenmiyor olabilir. Bu durumda tek olası davranış, açık-kaynak dil modelleri ile çalışmak olacaktır. Ama bu üç kullanımın da avantajları ve dezavantajları vardır.
+
+Üretken YZ'yi şirkete getirmek için üç yol vardır (3 ways to bring Gen AI to your firm):
+1) Adopting existing AI products internally (Internal Use Cases)
+2) Implementing specialized AI solutions for your business (Internal Use Cases)
+3) Delivering AI-powered products & services to your customers (External Use Cases)
