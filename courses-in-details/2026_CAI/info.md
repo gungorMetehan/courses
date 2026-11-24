@@ -46,3 +46,15 @@ LLM'leri kullanmanın üç farklı yolu vardır:
 1) Adopting existing AI products internally (Internal Use Cases)
 2) Implementing specialized AI solutions for your business (Internal Use Cases)
 3) Delivering AI-powered products & services to your customers (External Use Cases)
+
+## RISEN Çerçevesi Nedir?
+
+**RISEN**, yapay zekâya vereceğin talimatı (*prompt*) beş soruyla netleştirmene yardımcı olan bir çerçeve. Eğitmen, şirket içinde örnek bir prompt kullanımı için bu çerçeveyi gösterdi. Ben de aşağıdaki tabloyu oluşturdum. 
+
+| Bileşen | Kendine soracağın soru | Örnek bir talimat |
+| --- | --- | --- |
+| **R — Role (Rol)** | YZ hangi rolde yanıt versin? | Bir ölçme ve değerlendirme uzmanı gibi davran. |
+| **I — Instructions (Yönerge)** | Ne yapsın? | Aşağıdaki sınav maddesini açıklık açısından incele. |
+| **S — Steps (Adımlar)** | Hangi sırayla ilerlesin? | Önce belirsiz ifadeleri belirle, ardından her biri için düzeltme öner. |
+| **E — End Goal (Hedef)** | Sonunda ne elde etmek istiyorum? | Maddenin öğrencinin ilk okuyuşta anlayabileceği son hâlini yaz. |
+| **N — Narrowing (Sınırlar)** | Hangi koşullara uysun? | Ölçülen kazanımı koru ve 8. sınıf düzeyine uygun bir dil kullan. |
