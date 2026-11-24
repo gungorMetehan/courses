@@ -21,8 +21,15 @@
 # Notlar
 Eğitimi, TUSAŞ'ın Udemy Business hesabı ile aldım, 22 Kasım 2026 tarihinde videoları izlemeye başladım.
 Eğitmen, **ChatGPT**'nin **Operator**'ünü AI agent'ların ilk örneği olarak nitelendirdi. İkinci videoda, bu alandaki 6 eğitiminden bahsetti. Bunların ilk üçü sıralı iken, son üçü farklı patikalara hitap ediyor:
-1) AI Builder, 2) AI Coder, 3) AI Leader, 4) AI Engineer: Core Track, 5) AI Engineer: Agentic Track ve 6) AI Engineer: Production Track. Kendinden bahsettiği videoda oturduğu yeri bile gösterdi (=
-Üçüncü videoda şu kavramları sırası ile açıkladı: AI, ML, Deep Learning & Neural Networks, Generative AI, LLM, Transformer, Parameter, Training vs Inference, Agents.
+
+1) AI Builder,
+2) 2) AI Coder,
+3) AI Leader,
+4) AI Engineer: Core Track,
+5) AI Engineer: Agentic Track ve
+6) AI Engineer: Production Track.
+
+Kendinden bahsettiği videoda oturduğu yeri bile gösterdi (= Üçüncü videoda şu kavramları sırası ile açıkladı: AI, ML, Deep Learning & Neural Networks, Generative AI, LLM, Transformer, Parameter, Training vs Inference, Agents.
 
 Frontier Labs kavramına yer vermişti eğitimde. Bunlar üç tane: OpenAI, Anthropic ve Google. Tabi bunların dışında da yine AI lab'ları mevcut. Diğerlerini de söyledi (Meta vb.). AI ekosistemini tanıttı. Bu alandaki ürünlerden bahsetti: Microsoft Copilot, Cursor, Harvey gibi.
 
