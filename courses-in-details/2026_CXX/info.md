@@ -181,3 +181,6 @@ Başarılı bir yalın dönüşüm süreci için şu 4 element gereklidir: Rol m
 | 10 | “Çalışma şeklimizi değiştirmemiz ve […] blok halinde tek bir mola yapmamız gerekiyor.” | **İleri Sürme** | Yapılması istenen değişiklik doğrudan ve kararlı biçimde ifade ediliyor. |
 
 > **Not:** Bu eşleştirme, her tekniğin bir kez kullanıldığı varsayımına dayanır. 7. örnek, CEO’nun otoritesine atıf yaptığı için **Meşrulaştırma** olarak da yorumlanabilir. 9. örnekte ise kişinin kendisinin model olması yerine başkalarının uygulamalarını örnek göstermesi söz konusudur; bu nedenle **Model Olma** ile eşleşmesi dolaylıdır.
+
+## 4. Dalga (Sürdürülebilirlik) Eğitimleri (24 Kasım 2026) - 1. Gün
+Eğitimin bu kısmının ilk günü **Sinan Akay** tarafından verildi.
