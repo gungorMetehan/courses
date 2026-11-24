@@ -23,7 +23,7 @@ Eğitimi, TUSAŞ'ın Udemy Business hesabı ile aldım, 22 Kasım 2026 tarihinde
 Eğitmen, **ChatGPT**'nin **Operator**'ünü AI agent'ların ilk örneği olarak nitelendirdi. İkinci videoda, bu alandaki 6 eğitiminden bahsetti. Bunların ilk üçü sıralı iken, son üçü farklı patikalara hitap ediyor:
 
 1) AI Builder,
-2) 2) AI Coder,
+2) AI Coder,
 3) AI Leader,
 4) AI Engineer: Core Track,
 5) AI Engineer: Agentic Track ve
